@@ -15,13 +15,16 @@ namespace SMS
 {
     public partial class UploadLogo : System.Web.UI.Page
     {
-        string thubpath,thubpathMaster;
+        string thubpath, thubpathMaster;
         protected void Page_Load(object sender, EventArgs e)
         {
             ImgUpload.Visible = false;
             lblErr.Visible = false;
             BtnSave.Visible = false;
         }
+
+        #region Code for Uploading Image
+
         protected void BtnUpload_Click1(object sender, EventArgs e)
         {
             SpaMaster MyMasterPage = (SpaMaster)Page.Master;
@@ -48,6 +51,9 @@ namespace SMS
             }
         }
 
+        #endregion
+        #region Code for Saving Image In DB
+
         protected void BtnSave_Click(object sender, EventArgs e)
         {
             log4net.ILog logger = log4net.LogManager.GetLogger("File");
@@ -60,18 +66,21 @@ namespace SMS
                     DBConnectionHandler1 db = new DBConnectionHandler1();
                     SqlConnection cn = db.getconnection();
                     cn.Open();
-                    SqlCommand cmd1 = new SqlCommand("select * from UploadLogo",cn);
+                    SqlCommand cmd1 = new SqlCommand("select * from UploadLogo", cn);
                     SqlDataReader dr = cmd1.ExecuteReader();
                     if (dr.Read())
                     {
                         if (dr.GetString(0).ToString() != "")
-                        { count += 1;
-                        dr.Close();
-                        cmd1.Dispose();
+                        {
+                            count += 1;
+                            dr.Close();
+                            cmd1.Dispose();
                         }
                     }
-                    else { dr.Close();
-                    cmd1.Dispose();
+                    else
+                    {
+                        dr.Close();
+                        cmd1.Dispose();
                     }
                     if (count > 0)
                     {
@@ -79,13 +88,13 @@ namespace SMS
                         cmd.Parameters.AddWithValue("@ImagePath", TextBox1.Text);
                         cmd.Parameters.AddWithValue("@fullpathname", TextBox2.Text);
                         cmd.ExecuteNonQuery();
-                       // lblErr.Visible = true;
-                       // lblErr.Text = "Add Successfully!";
+                        // lblErr.Visible = true;
+                        // lblErr.Text = "Add Successfully!";
                         MyMasterPage.ShowErrorMessage("Add Successfully!");
                         TextBox1.Text = "";
                         count = 0;
                         cn.Close();
-                        
+
                     }
                     else
                     {
@@ -93,15 +102,15 @@ namespace SMS
                         cmd.Parameters.AddWithValue("@ImagePath", TextBox1.Text);
                         cmd.Parameters.AddWithValue("@fullpathname", TextBox2.Text);
                         cmd.ExecuteNonQuery();
-                       // lblErr.Visible = true;
-                       // lblErr.Text = "Add Successfully!";
+                        // lblErr.Visible = true;
+                        // lblErr.Text = "Add Successfully!";
                         MyMasterPage.ShowErrorMessage("Add Successfully!");
                         TextBox1.Text = "";
                         //count = 0;
                         cn.Close();
                     }
                     cn.Close();
-                    
+
                 }
                 else
                 {
@@ -115,6 +124,8 @@ namespace SMS
                 logger.Info(ex.Message);
             }
         }
+
+        #endregion
     }
 
 }
