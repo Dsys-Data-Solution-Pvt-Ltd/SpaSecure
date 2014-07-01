@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30428</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{624FB094-3FE0-40A4-AFF1-7A1893B3C3E4}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SMS.BusinessEntities</RootNamespace>
+    <AssemblyName>SMS.BusinessEntities</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.5.40412.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPCtlXTypeLibNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=c0c98f712d5392a7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\10-6-2014\SMSDevelopment\SMS\SMS\bin\DPFPCtlXTypeLibNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPCtlXWrapperNET, Version=1.4.0.1, Culture=neutral, PublicKeyToken=c0c98f712d5392a7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\DPFPCtlXWrapperNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPDevNET, Version=1.4.0.1, Culture=neutral, PublicKeyToken=696774c42ee28c57, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\DPFPDevNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPEngNET, Version=1.4.0.1, Culture=neutral, PublicKeyToken=7fe76e7adf19964b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\DPFPEngNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPGuiNET, Version=1.4.0.1, Culture=neutral, PublicKeyToken=d4f4a0bd9c559145, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\DPFPGuiNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPShrNET, Version=1.4.0.1, Culture=neutral, PublicKeyToken=d902fe275a8d6cf2, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\DPFPShrNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPShrXTypeLibNET, Version=1.4.0.1, Culture=neutral, PublicKeyToken=c0c98f712d5392a7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\DPFPShrXTypeLibNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPVerNET, Version=1.4.0.1, Culture=neutral, PublicKeyToken=4de0a9c4dcc83984, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\DPFPVerNET.dll</HintPath>
+    </Reference>
+    <Reference Include="EO.Web, Version=7.0.27.2, Culture=neutral, PublicKeyToken=e92353a6bf73fffc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\EO.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="GenCode128, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\GenCode128.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.ACROIEHELPERLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\Interop.ACROIEHELPERLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.AcroPDFLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\Interop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Core, Version=2.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\Interop.Microsoft.Office.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Interop.OutlookViewCtl, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\Interop.Microsoft.Office.Interop.OutlookViewCtl.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.OLXLib, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\Interop.OLXLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.SQLDMO, Version=8.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\Interop.SQLDMO.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=4.1.6.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\Microsoft.Office.Interop.Outlook.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.SmartTag, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SPA Publish\bin\Microsoft.Office.Interop.SmartTag.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SMS\SMS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SMS\SMS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SMS\SMS\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SMS\SMS\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SMS\SMS\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Validation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SMS\SMS\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SMS\SMS\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddAlertHandling.cs" />
+    <Compile Include="AddItemRequest1.cs" />
+    <Compile Include="AddNewAppointmentrequest.cs" />
+    <Compile Include="AddNewCheckOutRequest.cs" />
+    <Compile Include="AddNewContractorRequest.cs" />
+    <Compile Include="AddNewElearnReuest.cs" />
+    <Compile Include="AddNewEventmanRequest.cs" />
+    <Compile Include="AddNewInventoryRequest.cs" />
+    <Compile Include="AddNewTrainingRequest.cs" />
+    <Compile Include="DeleteInventoryRequest.cs" />
+    <Compile Include="DeleteTrainingRequest.cs" />
+    <Compile Include="GetCheckInKey.cs" />
+    <Compile Include="GetCheckInkeyResponse.cs" />
+    <Compile Include="GetClientVisitMinutesData.cs" />
+    <Compile Include="GetClientVisitResponse.cs" />
+    <Compile Include="GetCourseEvaluationData.cs" />
+    <Compile Include="GetCourseEvaluationResponse.cs" />
+    <Compile Include="GetInventoryData.cs" />
+    <Compile Include="GetInventoryResponce.cs" />
+    <Compile Include="GetLostFoundData.cs" />
+    <Compile Include="GetPenaltyClauseData.cs" />
+    <Compile Include="GetPenaltyClauseResponse.cs" />
+    <Compile Include="GetTrainingData.cs" />
+    <Compile Include="GetTrainingResponse.cs" />
+    <Compile Include="Main\AddNewInventory.cs" />
+    <Compile Include="AddNewKeyRequest.cs" />
+    <Compile Include="AddNewLocationRequest.cs" />
+    <Compile Include="AddNewPassRequest.cs" />
+    <Compile Include="AddNewShiftRequest.cs" />
+    <Compile Include="AddNewSOPRequest.cs" />
+    <Compile Include="AddNewStaffShiftRequest.cs" />
+    <Compile Include="AddNewUserIncidentRequest.cs" />
+    <Compile Include="AddNewUserRequest.cs" />
+    <Compile Include="AddNewVehicleRequest.cs" />
+    <Compile Include="AddNewVisitorReport.cs" />
+    <Compile Include="Authorization\GetAuthResponse.cs" />
+    <Compile Include="AddNewCheckInRequest.cs" />
+    <Compile Include="CISMenu1.cs" />
+    <Compile Include="Authorization\GetAuthRequest.cs" />
+    <Compile Include="DeleteAlertRequest.cs" />
+    <Compile Include="DeleteContractorRequest.cs" />
+    <Compile Include="DeleteEventPlannerRequest.cs" />
+    <Compile Include="DeleteIncidentRequest.cs" />
+    <Compile Include="DeleteItemRequest.cs" />
+    <Compile Include="DeleteKeyRequest.cs" />
+    <Compile Include="DeleteLocationRequest.cs" />
+    <Compile Include="DeletePassRequest.cs" />
+    <Compile Include="DeleteShiftRequest.cs" />
+    <Compile Include="DeleteSOPRequest.cs" />
+    <Compile Include="DeleteUserRequest.cs" />
+    <Compile Include="DeleteVehicleRequest.cs" />
+    <Compile Include="GetAlertData.cs" />
+    <Compile Include="GetAlertDataResponse.cs" />
+    <Compile Include="GetCheckinData.cs" />
+    <Compile Include="GetChiekinDataResponse.cs" />
+    <Compile Include="GetContractorData.cs" />
+    <Compile Include="GetContractorDataResponse.cs" />
+    <Compile Include="GetDataEvent.cs" />
+    <Compile Include="GetDataEventResponse.cs" />
+    <Compile Include="GetIncidentData.cs" />
+    <Compile Include="GetIncidentDataResponse.cs" />
+    <Compile Include="GetItemData.cs" />
+    <Compile Include="GetItemDataResponse.cs" />
+    <Compile Include="GetLocationData.cs" />
+    <Compile Include="GetLocationDataResponse.cs" />
+    <Compile Include="GetNewKey.cs" />
+    <Compile Include="GetNewKeyRequest.cs" />
+    <Compile Include="GetPassData.cs" />
+    <Compile Include="GetPassDataResponse.cs" />
+    <Compile Include="GetShiftData.cs" />
+    <Compile Include="GetShiftDataResponse.cs" />
+    <Compile Include="GetSOPData.cs" />
+    <Compile Include="GetSOPDataResponse.cs" />
+    <Compile Include="GetStaffShift.cs" />
+    <Compile Include="GetStaffShiftResponse.cs" />
+    <Compile Include="GetUserData.cs" />
+    <Compile Include="GetUserDataResponse.cs" />
+    <Compile Include="GetVehicleData.cs" />
+    <Compile Include="GetVehicleDataResponse.cs" />
+    <Compile Include="GetVisitorData.cs" />
+    <Compile Include="GetVisitorDataResponse.cs" />
+    <Compile Include="Main\AddTraining.cs" />
+    <Compile Include="Main\AdminAddNewKey.cs" />
+    <Compile Include="Main\AlertHandlingUser.cs" />
+    <Compile Include="Main\AppointmentSheduling.cs" />
+    <Compile Include="Main\AssignmentVisit.cs" />
+    <Compile Include="Main\checkin.cs" />
+    <Compile Include="Main\CheckInKeyData.cs" />
+    <Compile Include="Main\checkout.cs" />
+    <Compile Include="Main\Class1.cs" />
+    <Compile Include="Main\ClientStaff.cs" />
+    <Compile Include="Main\ClientVisitMinutes.cs" />
+    <Compile Include="Main\Contractor.cs" />
+    <Compile Include="Main\CourseEvaluation.cs" />
+    <Compile Include="Main\CustomerComplaint.cs" />
+    <Compile Include="Main\CustomerFeedback.cs" />
+    <Compile Include="Main\Elearn.cs" />
+    <Compile Include="Main\eventAdmin.cs" />
+    <Compile Include="Main\GetOMVisitorData.cs" />
+    <Compile Include="Main\GetOMVisitorDataResponse.cs" />
+    <Compile Include="Main\GetPassDataNo.cs" />
+    <Compile Include="Main\ItemData.cs" />
+    <Compile Include="Main\LocationData.cs" />
+    <Compile Include="Main\LostFoundData.cs" />
+    <Compile Include="Main\LostFoundItem.cs" />
+    <Compile Include="Main\menuvalue.cs" />
+    <Compile Include="Main\Pass.cs" />
+    <Compile Include="Main\PassNo.cs" />
+    <Compile Include="Main\PenaltyClause.cs" />
+    <Compile Include="Main\roleMasterMap.cs" />
+    <Compile Include="Main\Shift.cs" />
+    <Compile Include="Main\SOAppraisal.cs" />
+    <Compile Include="Main\SOBriefing.cs" />
+    <Compile Include="Main\SOP.cs" />
+    <Compile Include="Main\Staff_Shift.cs" />
+    <Compile Include="Main\UserControl.cs" />
+    <Compile Include="Main\UserIncident.cs" />
+    <Compile Include="Main\UserItem.cs" />
+    <Compile Include="Main\User_Info.cs" />
+    <Compile Include="Main\Vehicle.cs" />
+    <Compile Include="Main\Visitor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Main\UserInformation.cs" />
+    <Compile Include="RegexConsts.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1597</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

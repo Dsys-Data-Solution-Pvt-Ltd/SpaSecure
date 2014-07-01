@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="SPASecure" Class="DeploymentDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=SPASecure;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="SPASecureConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.vwDailyDeployment" Member="vwDailyDeployments">
+    <Type Name="vwDailyDeployment">
+      <Column Name="Shift" Type="System.String" DbType="VarChar(63)" CanBeNull="true" />
+      <Column Name="LSID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="MDate" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="LocationID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="WeekID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MonthID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="WRID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="WDRID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ShiftID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DGAID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="StaffID" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="SubLocID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="EditingStarted" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="StaffName" Type="System.String" DbType="VarChar(601) NOT NULL" CanBeNull="false" />
+      <Column Name="MiddleName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="AvailabilityFlag" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="Shift_Master_vwDailyDeployment" Member="Shift_Master" ThisKey="ShiftID" OtherKey="shift_ID" Type="Shift_Master" IsForeignKey="true" />
+      <Association Name="location_vwDailyDeployment" Member="location" ThisKey="LocationID" OtherKey="Location_id" Type="location" IsForeignKey="true" />
+      <Association Name="WeekDayRoster_vwDailyDeployment" Member="WeekDayRoster" ThisKey="WDRID" OtherKey="WDRID" Type="WeekDayRoster" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Shift_Master" Member="Shift_Masters">
+    <Type Name="Shift_Master">
+      <Column Name="shift_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ShiftTimeFrom" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="ShiftTimeTo" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Association Name="Shift_Master_vwDailyDeployment" Member="vwDailyDeployments" ThisKey="shift_ID" OtherKey="ShiftID" Type="vwDailyDeployment" />
+    </Type>
+  </Table>
+  <Table Name="dbo.location" Member="locations">
+    <Type Name="location">
+      <Column Name="Location_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Location_name" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Loc_Address" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="F_cont" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Column Name="F_Mob" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Column Name="F_Email" Type="System.String" DbType="VarChar(35)" CanBeNull="true" />
+      <Column Name="F_Fax" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="O_cont" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Column Name="O_Mob" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Column Name="O_Email" Type="System.String" DbType="VarChar(35)" CanBeNull="true" />
+      <Column Name="O_Fax" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="M_cont" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Column Name="M_Mob" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Column Name="M_Email" Type="System.String" DbType="VarChar(35)" CanBeNull="true" />
+      <Column Name="M_Fax" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="Emergency_email" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Chift_Security_day" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Supervisor_day" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Senior_Secu_Off_day" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Security_Off_day" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Chift_Security_nig" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Supervisor_nig" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Senior_Secu_Off_nig" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Security_Off_nig" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Contract_start_date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Contract_expire_date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Contract_value" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Column Name="Date_From" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Date_to" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Current_Status" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Finance_Name" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Operation_Name" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Management_Name" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="OtherPerson1" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="OtherPerson1_day" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="OtherPerson1_nig" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="OtherPerson2" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="OtherPerson2_day" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="OtherPerson2_nig" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="OtherPerson3" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="OtherPerson3_day" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="OtherPerson3_nig" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Association Name="location_vwDailyDeployment" Member="vwDailyDeployments" ThisKey="Location_id" OtherKey="LocationID" Type="vwDailyDeployment" />
+    </Type>
+  </Table>
+  <Table Name="dbo.WeekDayRoster" Member="WeekDayRosters">
+    <Type Name="WeekDayRoster">
+      <Column Name="WDRID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="WRID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Remarks" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsMailSent" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="WeekDayRoster_vwDailyDeployment" Member="vwDailyDeployments" ThisKey="WDRID" OtherKey="WDRID" Type="vwDailyDeployment" />
+    </Type>
+  </Table>
+</Database>

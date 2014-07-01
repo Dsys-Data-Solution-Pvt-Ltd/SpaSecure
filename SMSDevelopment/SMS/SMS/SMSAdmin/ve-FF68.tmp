@@ -1,0 +1,210 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using SMS.Services.DataService;
+using System.Data;
+using System.Data.SqlClient;
+using SMS.SMSCommons;
+
+namespace SMS.SMSAdmin
+{
+    public partial class WeeklyRoster : System.Web.UI.Page
+    {
+        DataAccessLayer dal = new DataAccessLayer();
+        private DataControlRowType templateType;
+        private string columnName;
+
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void txtdatefrom_TextChanged(object sender, EventArgs e)
+        {
+            BindNewData();
+        }
+
+        private void BindNewData()
+        {
+            DateTime temp;
+            if (DateTime.TryParse(txtdatefrom.Text, out temp))
+            {
+                lblErr.Visible = false;
+                DateTime dt = DateTime.ParseExact(txtdatefrom.Text, "MM/dd/yyyy", null);
+                hdnMonthID.Value = dt.Month.ToString() + dt.Year.ToString();
+                gvAvailableGuards.DataBind();
+                ddlWeek.DataBind();
+                ddlShift.DataBind();
+            }
+            else
+            {
+                lblErr.Visible = true;
+            }
+        }
+
+        private DataTable CheckMrs()
+        {
+            SqlParameter[] para = new SqlParameter[2];
+            para[0] = new SqlParameter("@LocationID", ddlSite.SelectedValue);
+            para[1] = new SqlParameter("@MonthID", hdnMonthID.Value);
+            return dal.executeprocedure("usp_CheckMonthlyRoster", para, true);
+        }
+
+        protected void ddlShift_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            foreach (GridViewRow gr in gvAvailableGuards.Rows)
+            {
+                if (((CheckBox)gr.Cells[0].FindControl("chkGuard")).Checked)
+                {
+                    string staffid = ((CheckBox)gr.Cells[0].FindControl("chkGuard")).ToolTip;
+                    long mrid = long.Parse(ddlShift.SelectedValue);
+                    SqlParameter[] para = new SqlParameter[2];
+                    para[0] = new SqlParameter("@StaffID", staffid);
+                    para[1] = new SqlParameter("@MRID", mrid);
+                    dal.executeprocedure("usp_DeployMonthlyStaff", para);
+                }
+            }
+            gvAvailableGuards.DataBind();
+            //dlShiftAssignment.DataBind();
+        }
+
+        private void BindGrid(GridView grdStaff, string MRID)
+        {
+            SqlParameter[] para = new SqlParameter[1];
+            para[0] = new SqlParameter("@MRID", long.Parse(MRID));
+            DataTable dt = dal.executeprocedure("usp_GetMonthlyAssignedStaff", para, true);
+            grdStaff.DataSource = dt;
+            grdStaff.DataBind();
+        }
+
+        protected void dlShiftAssignment_ItemDataBound(object sender, DataListItemEventArgs e)
+        {
+            GridView grdStaff = (GridView)e.Item.FindControl("grdShiftStaff");
+            string MRID = ((HiddenField)e.Item.FindControl("hdnLocID")).Value;
+            BindGrid(grdStaff, MRID);
+        }
+
+        protected void btnGetData_Click(object sender, EventArgs e)
+        {
+            BindNewData();
+        }
+
+        protected void grdShiftStaff_RowDataBound(object sender, GridViewRowEventArgs e)
+        {
+            if (e.Row.RowType == DataControlRowType.DataRow)
+            {
+                GridViewRow gr = e.Row;
+                DataRowView dr = (DataRowView)gr.DataItem;
+                string MDate = dr.Row[0].ToString();
+                GridView gv = ((GridView)gr.Cells[1].FindControl("grdSchedule"));
+                SqlParameter[] para = new SqlParameter[4];
+                para[0] = new SqlParameter("@LocationID", ddlSite.SelectedValue);
+                para[1] = new SqlParameter("@WeekID", ddlWeek.SelectedValue);
+                para[2] = new SqlParameter("@MonthID", hdnMonthID.Value);
+                para[3] = new SqlParameter("@MDate", MDate);
+                DataTable dt = dal.executeprocedure("usp_GetWeeklySchedule", para, false);
+                DataTable dt1 = SMSCommon.ConvertRowsToColumns(dt, "Shift", "StaffName");
+                gv.AutoGenerateColumns = false;
+                foreach (DataColumn dc in dt1.Columns)
+                {
+                    TemplateField makeliveCol = new TemplateField();
+                    makeliveCol.ItemTemplate = new CreateItemTemplateLinkBtn("lnkPerson", dc.ColumnName, "MakeLive", "return confirm('Are you sure you want to publish this version?')");
+                    makeliveCol.HeaderText = dc.ColumnName;
+                    gv.Columns.Add(makeliveCol);
+                }
+                gv.DataSource = dt1;
+                gv.DataBind();
+                //tf.ItemTemplate = new GridViewTemplate(ListItemType.Item, "some data");
+            }
+        }
+
+        protected void lnkUnAssign_Click(object sender, EventArgs e)
+        {
+            DataListItem dlItem = (DataListItem)((LinkButton)sender).Parent;
+            GridView grv = (GridView)dlItem.FindControl("grdShiftStaff");
+            DataRowView dr = (DataRowView)dlItem.DataItem;
+            foreach (GridViewRow gr in grv.Rows)
+            {
+                if (((CheckBox)gr.Cells[0].FindControl("chkGuard")).Checked)
+                {
+                    string mgaid = ((CheckBox)gr.Cells[0].FindControl("chkGuard")).ToolTip;
+                    SqlParameter[] para = new SqlParameter[1];
+                    para[0] = new SqlParameter("@MGAID", long.Parse(mgaid));
+                    dal.executeprocedure("usp_UnDeployMonthlyStaff", para);
+                }
+            }
+            gvAvailableGuards.DataBind();
+            //dlShiftAssignment.DataBind();
+        }
+
+        protected void btnGetWeeks_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void ddlWeek_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            SqlParameter[] para = new SqlParameter[3];
+            para[0] = new SqlParameter("@LocationID", ddlSite.SelectedValue);
+            para[1] = new SqlParameter("@WeekID", ddlWeek.SelectedValue);
+            para[2] = new SqlParameter("@MonthID", hdnMonthID.Value);
+            DataTable dt = dal.executeprocedure("usp_GetWeeklyDates", para, false);
+            grdShiftStaff.DataSource = dt;
+            grdShiftStaff.DataBind();
+        }
+    }
+
+    public class CreateItemTemplateLinkBtn : ITemplate
+    {
+        string strColumnText;
+        string strLinkButtonName;
+        string strCommandName;
+        string strClientClick;
+
+        public CreateItemTemplateLinkBtn(string LinkButtonName, string ColText, string CommandName, string ClientClick)
+        {
+            this.strColumnText = ColText;
+            this.strLinkButtonName = LinkButtonName;
+            this.strCommandName = CommandName;
+            this.strClientClick = ClientClick;
+        }
+
+        public void InstantiateIn(Control objContainer)
+        {
+            LinkButton lnkbtn = new LinkButton();
+            lnkbtn.CommandName = strCommandName;
+            lnkbtn.DataBinding += new EventHandler(lnkbtn_DataBinding);
+            objContainer.Controls.Add(lnkbtn);
+        }
+
+        private void lnkbtn_DataBinding(object sender, EventArgs e)
+        {
+            LinkButton lnkbtn = (LinkButton)sender;
+            GridViewRow row = (GridViewRow)lnkbtn.NamingContainer;
+            GridViewRow gr = (GridViewRow)row.Parent.Parent.Parent.Parent;
+            DataRowView dr = (DataRowView)gr.DataItem;
+            DateTime dt = DateTime.TryParseExact(dr[0], "MM/dd/yyyy",null);
+            lnkbtn.ID = strLinkButtonName;
+            string text = DataBinder.Eval(row.DataItem , strColumnText).ToString();
+            string originaltext = text;
+            string WGAID="";
+            string StaffID = "";
+            if(text != "")
+            {
+                string[] values = originaltext.Split(new string[] { "||" }, StringSplitOptions.None);
+                text = values[0];
+                WGAID = values[1];
+                StaffID = values[2];
+            }
+            lnkbtn.Text = text;
+            lnkbtn.CommandName = strCommandName;
+            lnkbtn.CausesValidation = false;
+//            lnkbtn.OnClientClick = strClientClick;
+            lnkbtn.ToolTip = StaffID;
+            lnkbtn.CommandArgument = WGAID;
+        }
+    }
+}

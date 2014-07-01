@@ -1,0 +1,49 @@
+﻿	 
+	 .GridMain
+	 {
+	 	border: solid 1px #4596DD;
+	 	clear:both;
+	 	width:100%;
+	 }
+	 
+	 .HeaderRow
+	{
+		background-color:#C4DBEC;
+		color:#494C5A;
+		font-family:Verdana;
+		font-size:11.5px;
+		font-weight:bold;
+	}
+	
+	.NoRecords
+	{
+		background-color:#C3DCF9;
+		color:#B51A1A;
+		font-family:Verdana;
+		font-size:11.7px;
+	}	 
+	
+	.NormalRow
+	{
+		background-color:#FFF;
+		color:#494C5A;
+		font-family:Verdana;
+		font-size:11.5px;
+		font-weight:normal;
+	}
+	
+	.AlternateRow
+	{
+		background-color:#E8F1F8;
+		color:#494C5A;
+		font-family:Verdana;
+		font-size:11.5px;
+	}
+	
+	.PagingRow
+	{
+		background-color:#C4DBEC;
+		color:#000;
+		font-family:Verdana;
+		font-size:11.5px;
+	}

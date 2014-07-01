@@ -1,0 +1,168 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMaster.master.cs" Inherits="Mywisetutor.ADMIN.AdminMaster" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+     <META NAME="KEYWORDS" CONTENT="Tutor, student, tuition, tutorial, English, math, science, Hindi">
+     <META NAME="DESCRIPTION" CONTENT="Your wise tutor and tutorials are available with us. "/>
+     <link rel="shortcut icon" href="favicon.ico" >
+     <link rel="icon" type="image/gif" href="animated_favicon1.gif" >
+
+    <%--<script src="js/mootools.js" type="text/javascript"></script>--%>
+    <script type="text/javascript"/>
+    
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7240374-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+ <script type="text/javascript">
+        function extractPageName(hrefString)
+        {
+	        var arr = hrefString.split('/');
+	        return  (arr.length < 2) ? hrefString : arr[arr.length-2].toLowerCase() + arr[arr.length-1].toLowerCase();
+        }
+         
+        function setActiveMenu(arr, crtPage)
+        {
+	        for (var i=0; i < arr.length; i++)
+	        {
+	            if(extractPageName(arr[i].href) == extractPageName(crtPage))
+		        {
+			        if (arr[i].parentNode.tagName != "li")
+			        {
+				        arr[i].className = "active";
+				        //arr[i].parentNode.className = "current";
+			        }
+		        }
+	        }
+        }
+         
+        function setPage()
+        {
+        
+	        hrefString = document.location.href ? document.location.href : document.location;
+	        if (document.getElementById("navigation") !=null )
+	        setActiveMenu(document.getElementById("navigation").getElementsByTagName("a"), extractPageName(hrefString));
+        }
+    </script>
+
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" charset="utf-8" />
+<link href="SMSGrid.css" rel="stylesheet" type="text/css" media="screen" charset="utf-8" />
+<link href="css.css" rel="Stylesheet" type="text/css"/>
+    <title>Guard Patrol System</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+ 
+</head>
+
+<body onload="setPage()">
+    <form id="form1" runat="server">
+       <asp:ToolkitScriptManager ID="ScriptManager1" EnablePartialRendering="true" EnablePageMethods="true"
+        runat="server">
+        <Scripts>
+            <asp:ScriptReference Path="~/js/jquery-1.4.2.js" ScriptMode="Auto" />
+        </Scripts>
+    </asp:ToolkitScriptManager>
+ <div>
+    <div id="header">
+	<div class="shell">
+		<!-- Logo + Top Nav -->
+			<div id="top">
+			<h1><a href="#" style="color: #800000; font-weight: bold;">Guard Patrol System</a></h1>
+			<div id="top-navigation">
+				<%--<a style="color: #800000"><strong>Welcome</strong></a>--%>
+				<%--<span>|</span>--%>
+				<%--<a href="LoginHome.aspx" style="color: #800000">Home</a>--%>
+               
+				 <asp:HyperLink id="Home1" href="LoginHome.aspx" style="color:#800000" runat="server">Home </asp:HyperLink>
+                 <asp:HyperLink id="LoginHome" href="LoginHome.aspx" style="color:#800000" visible="false" runat="server">Log Out</asp:HyperLink>
+                 <asp:HyperLink id="HyperLink1" href="" style="color:#800000" visible="false" runat="server">|</asp:HyperLink>
+				<asp:HyperLink id="Home2" href="GPS_locSearch.aspx" style="color:#800000" visible="false" runat="server">Home |</asp:HyperLink>
+				
+				<%--<a  style="color: #800000" href="../master/login3.aspx">Back To Application|</a>--%>
+               
+				<%--<a  href="LoginHome.aspx" style="color: #800000;" visible="false">| Log in</a>--%>
+                
+               
+                <asp:HyperLink id="fileby" href="GPS_locSearch.aspx" style="color:#800000" visible="false" runat="server">By File |</asp:HyperLink>
+               
+                <asp:HyperLink id="recordby" href="PatroTimeSystem.aspx" style="color:#800000" visible="false" runat="server">By Record |</asp:HyperLink>
+              
+				 <asp:LinkButton ID="lnknewclient" runat="server" PostBackUrl="~/AddNewClient.aspx" style="color: #800000" >Add New Client|</asp:LinkButton>
+                 
+                  <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="~/viewclient.aspx" style="color: #800000" visible="false">View Client</asp:LinkButton>
+			</div>
+		</div>
+		<!-- End Logo + Top Nav -->
+		
+		<!-- Main Nav -->
+		<div id="navigation">
+			<ul>
+                <%--<asp:LinkButton ID="lnknewclient" runat="server" PostBackUrl="~/AddNewClient.aspx" style="color: #800000" >Add New Client</asp:LinkButton>--%>
+               <%-- <li><a id="A1" href="AddNewClient.aspx"><span>Add New Client</span></a></li>--%>
+			</ul>
+		</div>
+		<!-- End Main Nav -->
+	</div>
+</div>
+<!-- End Header -->
+    <div id="container">
+        <div class="shell">
+		
+		<!-- Small Nav -->
+		<%--<div class="small-nav">
+			<a href="#">Dashboard</a>
+			<span>&gt;</span>
+			Current Articles
+		</div>--%>
+		<!-- End Small Nav -->
+		
+		<!-- Message OK -->		
+		<div id="msg-ok" class="msg msg-ok">
+			<p><strong>Your file was uploaded successfully!</strong></p>
+			<a href="#" class="close">close</a>
+		</div>
+		<!-- End Message OK -->		
+		
+		<!-- Message Error -->
+		<div id="msg-error" class="msg msg-error">
+			<p><strong>You must select a file to upload first!</strong></p>
+			<a href="#" class="close">close</a>
+		</div>
+		<!-- End Message Error -->
+		<br>
+		<!-- Main -->
+		<div id="main">
+			<div class="cl">&nbsp;</div>
+			
+			<!-- Content -->
+			<div id="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">            
+            </asp:ContentPlaceHolder>
+         </div>
+		<!-- Main -->
+	</div>
+     </div>
+     <br />
+     <br />
+     <br />
+     <br /> 
+     <br />
+     <br />
+     <br />     
+    <%-- <div align="center">
+       <span>Copyright © 2010-2011<asp:Label ID="lblTitle_Header" Text=" " runat="server" /> &nbsp;D-Sys Data Solutions. All rights reserved.</span>
+    </div>--%>
+</div>
+   
+    </div>
+    </form>
+</body>
+</html>

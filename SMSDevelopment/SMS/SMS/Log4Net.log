@@ -1,0 +1,280 @@
+2011-08-03 18:07:20,431 [12] INFO  File Thread was being aborted.
+2011-08-18 12:19:27,377 [8] INFO  File Thread was being aborted.
+2011-08-18 12:19:40,294 [8] INFO  File '~/SMSCommons/login.aspx?timeout=1' is not a valid virtual path.
+2012-05-08 07:59:27,203 [14] INFO  File Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2012-05-09 01:50:30,977 [11] INFO  File Thread was being aborted.
+2012-05-09 02:09:42,227 [13] INFO  File Thread was being aborted.
+2012-05-09 02:09:42,249 [13] INFO  File Thread was being aborted.
+2012-05-09 02:12:30,338 [21] INFO  File Thread was being aborted.
+2012-05-09 02:12:39,079 [25] INFO  File Thread was being aborted.
+2012-05-09 02:12:39,110 [25] INFO  File Thread was being aborted.
+2012-05-09 02:15:22,876 [19] INFO  File Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2012-05-09 02:15:44,880 [20] INFO  File Exception of type 'System.Exception' was thrown.
+2012-05-09 02:16:00,582 [18] INFO  File Exception of type 'System.Exception' was thrown.
+2012-05-09 02:16:19,066 [21] INFO  File Exception of type 'System.Exception' was thrown.
+2012-05-09 02:16:34,840 [10] INFO  File Exception of type 'System.Exception' was thrown.
+2012-05-09 02:16:57,914 [20] INFO  File Violation of PRIMARY KEY constraint 'PK_UserInformation'. Cannot insert duplicate key in object 'dbo.UserInformation'.
+The statement has been terminated.
+2012-05-09 03:30:34,637 [31] INFO  File Specified argument was out of the range of valid values.
+Parameter name: index
+2012-05-09 03:31:26,442 [23] INFO  File Thread was being aborted.
+2012-05-09 03:31:31,745 [23] INFO  File Specified argument was out of the range of valid values.
+Parameter name: index
+2012-05-09 03:31:41,419 [19] INFO  File Thread was being aborted.
+2012-05-09 03:40:45,489 [24] INFO  File Could not find stored procedure 'usp_UpdateKeyData'.
+2012-05-09 03:40:45,542 [24] INFO  File Thread was being aborted.
+2012-05-10 14:02:53,646 [36] INFO  File Exception of type 'System.Exception' was thrown.
+2012-05-10 14:03:32,824 [56] INFO  File 'txtSOPSubjectSearch' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2012-05-10 14:03:53,400 [56] INFO  File Thread was being aborted.
+2012-05-10 14:04:00,484 [56] INFO  File Thread was being aborted.
+2012-05-10 14:05:41,376 [29] INFO  File Object reference not set to an instance of an object.
+2012-05-10 14:05:41,746 [36] INFO  File Object reference not set to an instance of an object.
+2012-05-10 14:05:49,495 [30] INFO  File Thread was being aborted.
+2012-05-10 14:07:07,444 [36] INFO  File Thread was being aborted.
+2012-05-10 14:07:18,437 [26] INFO  File Thread was being aborted.
+2012-05-10 14:13:49,051 [55] INFO  File Thread was being aborted.
+2012-05-10 14:18:58,949 [24] INFO  File Thread was being aborted.
+2012-05-10 14:21:01,216 [26] INFO  File Thread was being aborted.
+2012-05-10 14:26:56,743 [24] INFO  File Thread was being aborted.
+2012-05-10 14:27:55,510 [24] INFO  File Thread was being aborted.
+2012-05-10 14:50:48,582 [8] INFO  File Thread was being aborted.
+2012-05-10 14:50:55,395 [18] INFO  File Error executing child request for AlertUpdateComplete.aspx.
+2012-05-10 14:51:00,812 [19] INFO  File Error executing child request for AlertUpdateComplete.aspx.
+2012-05-10 14:51:38,674 [18] INFO  File Error executing child request for AlertUpdateComplete.aspx.
+2012-05-10 14:59:19,539 [19] INFO  File Error executing child request for AlertUpdateComplete.aspx.
+2012-05-10 15:04:08,314 [30] INFO  File Thread was being aborted.
+2012-05-10 15:04:29,037 [26] INFO  File Thread was being aborted.
+2012-05-10 15:04:53,013 [22] INFO  File Thread was being aborted.
+2012-05-10 15:04:53,035 [22] INFO  File Thread was being aborted.
+2012-05-10 15:05:29,667 [13] INFO  File Thread was being aborted.
+2012-05-10 15:05:44,350 [26] INFO  File Could not find stored procedure 'SP_getMaxRiskID'.
+2012-05-10 15:07:18,129 [17] INFO  File Thread was being aborted.
+2012-05-10 15:07:18,601 [24] INFO  File Could not find stored procedure 'SP_getMaxRiskID'.
+2012-05-10 15:08:20,487 [19] INFO  File Could not find stored procedure 'SP_getMaxRiskID'.
+2012-05-10 15:08:37,054 [18] INFO  File Thread was being aborted.
+2012-05-10 15:08:55,236 [14] INFO  File Thread was being aborted.
+2012-05-10 15:10:20,285 [15] INFO  File Thread was being aborted.
+2012-05-10 15:10:24,857 [15] INFO  File Thread was being aborted.
+2012-05-10 15:10:34,788 [15] INFO  File Thread was being aborted.
+2012-05-10 15:10:43,701 [14] INFO  File Thread was being aborted.
+2012-05-10 15:10:49,383 [36] INFO  File Thread was being aborted.
+2012-05-10 15:10:49,405 [36] INFO  File Thread was being aborted.
+2012-05-10 15:11:00,602 [36] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-10 15:11:05,477 [36] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-10 15:11:11,477 [14] INFO  File Thread was being aborted.
+2012-05-10 15:11:22,942 [36] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-10 15:11:27,065 [11] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-10 15:11:31,972 [11] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-10 15:14:05,957 [11] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-10 17:10:36,505 [10] INFO  File Thread was being aborted.
+2012-05-11 11:06:56,886 [20] INFO  File Thread was being aborted.
+2012-05-11 11:07:15,021 [9] INFO  File Thread was being aborted.
+2012-05-11 11:08:19,600 [12] INFO  File Thread was being aborted.
+2012-05-11 11:08:24,634 [13] INFO  File Thread was being aborted.
+2012-05-11 11:08:29,618 [7] INFO  File Thread was being aborted.
+2012-05-11 11:08:29,642 [7] INFO  File Thread was being aborted.
+2012-05-11 11:28:33,735 [19] INFO  File Thread was being aborted.
+2012-05-11 11:28:50,230 [29] INFO  File Object reference not set to an instance of an object.
+2012-05-11 11:28:50,264 [29] INFO  File Object reference not set to an instance of an object.
+2012-05-11 11:28:50,300 [29] INFO  File Object reference not set to an instance of an object.
+2012-05-11 11:28:50,345 [29] INFO  File Object reference not set to an instance of an object.
+2012-05-11 11:28:50,368 [29] INFO  File Object reference not set to an instance of an object.
+2012-05-11 11:28:51,112 [31] INFO  File Object reference not set to an instance of an object.
+2012-05-11 11:28:51,133 [31] INFO  File Object reference not set to an instance of an object.
+2012-05-11 11:28:51,240 [31] INFO  File Object reference not set to an instance of an object.
+2012-05-11 11:28:51,279 [31] INFO  File Object reference not set to an instance of an object.
+2012-05-11 11:28:51,316 [31] INFO  File Object reference not set to an instance of an object.
+2012-05-11 11:28:55,258 [30] INFO  File Thread was being aborted.
+2012-05-11 11:29:26,335 [14] INFO  File Thread was being aborted.
+2012-05-11 11:29:36,125 [14] INFO  File Thread was being aborted.
+2012-05-11 11:29:36,149 [14] INFO  File Thread was being aborted.
+2012-05-11 11:38:25,735 [23] INFO  File Thread was being aborted.
+2012-05-11 11:38:42,391 [23] INFO  File Thread was being aborted.
+2012-05-11 11:38:53,855 [11] INFO  File Thread was being aborted.
+2012-05-11 11:44:50,788 [21] INFO  File The type initializer for 'Microsoft.Practices.EnterpriseLibrary.Common.Configuration.ObjectBuilder.EnterpriseLibraryFactory' threw an exception.
+2012-05-11 11:45:07,989 [16] INFO  File Object reference not set to an instance of an object.
+2012-05-11 11:47:35,287 [4] INFO  File Thread was being aborted.
+2012-05-11 11:47:56,074 [7] INFO  File Thread was being aborted.
+2012-05-11 11:48:41,197 [14] INFO  File Thread was being aborted.
+2012-05-11 11:51:11,917 [17] INFO  File Thread was being aborted.
+2012-05-11 11:53:03,944 [18] INFO  File Thread was being aborted.
+2012-05-11 11:55:39,371 [7] INFO  File Thread was being aborted.
+2012-05-11 12:00:21,751 [24] INFO  File Thread was being aborted.
+2012-05-11 12:00:43,701 [27] INFO  File Thread was being aborted.
+2012-05-11 12:03:29,379 [32] INFO  File Thread was being aborted.
+2012-05-11 12:06:00,066 [34] INFO  File Thread was being aborted.
+2012-05-11 12:12:27,706 [24] INFO  File Thread was being aborted.
+2012-05-11 12:12:36,269 [27] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:13:30,994 [25] INFO  File Thread was being aborted.
+2012-05-11 12:14:13,194 [30] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:17:05,091 [14] INFO  File Thread was being aborted.
+2012-05-11 12:19:05,578 [12] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:21:11,112 [18] INFO  File Thread was being aborted.
+2012-05-11 12:21:31,546 [29] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:23:17,448 [4] INFO  File Thread was being aborted.
+2012-05-11 12:23:17,926 [35] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:26:16,261 [19] INFO  File Thread was being aborted.
+2012-05-11 12:26:16,734 [28] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:27:55,719 [13] INFO  File Thread was being aborted.
+2012-05-11 12:27:56,205 [9] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:33:55,263 [21] INFO  File Thread was being aborted.
+2012-05-11 12:33:55,741 [10] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:37:15,467 [10] INFO  File Thread was being aborted.
+2012-05-11 12:37:15,953 [19] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:39:42,019 [16] INFO  File Thread was being aborted.
+2012-05-11 12:39:42,515 [32] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:40:26,653 [21] INFO  File Thread was being aborted.
+2012-05-11 12:40:27,079 [16] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:41:28,170 [29] INFO  File Thread was being aborted.
+2012-05-11 12:41:28,668 [16] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:42:20,076 [25] INFO  File Thread was being aborted.
+2012-05-11 12:42:20,507 [21] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:44:06,702 [19] INFO  File Thread was being aborted.
+2012-05-11 12:44:07,191 [13] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:45:26,308 [21] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:48:41,098 [17] INFO  File Thread was being aborted.
+2012-05-11 12:48:41,592 [16] INFO  File Object reference not set to an instance of an object.
+2012-05-11 12:53:31,221 [17] INFO  File Thread was being aborted.
+2012-05-11 12:53:45,930 [32] INFO  File Cannot drop the table 'dbo.tblCourseEvaluation', because it does not exist or you do not have permission.
+2012-05-11 12:53:55,450 [18] INFO  File Cannot drop the table 'dbo.tblCourseEvaluation', because it does not exist or you do not have permission.
+2012-05-11 12:54:05,976 [31] INFO  File Cannot drop the table 'dbo.tblCourseEvaluation', because it does not exist or you do not have permission.
+2012-05-11 12:55:12,458 [31] INFO  File Cannot drop the table 'dbo.tblCourseEvaluation', because it does not exist or you do not have permission.
+2012-05-11 12:55:32,382 [22] INFO  File Thread was being aborted.
+2012-05-11 12:55:52,963 [19] INFO  File Thread was being aborted.
+2012-05-11 12:56:27,621 [31] INFO  File Thread was being aborted.
+2012-05-11 12:56:41,447 [31] INFO  File Thread was being aborted.
+2012-05-11 12:57:10,000 [9] INFO  File Thread was being aborted.
+2012-05-11 12:57:10,688 [9] INFO  File Could not find stored procedure 'SP_getMaxRiskID'.
+2012-05-11 12:58:26,831 [9] INFO  File Thread was being aborted.
+2012-05-11 12:58:48,270 [24] INFO  File Thread was being aborted.
+2012-05-11 12:59:20,907 [24] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-11 13:00:00,890 [18] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-11 13:00:03,669 [19] INFO  File Thread was being aborted.
+2012-05-11 13:00:51,553 [32] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-11 13:01:22,131 [22] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-11 13:03:46,755 [32] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-11 13:07:38,124 [21] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-11 13:07:40,706 [15] INFO  File Thread was being aborted.
+2012-05-11 13:19:39,862 [12] INFO  File Invalid object name 'tblCourseEvaluation'.
+2012-05-11 13:19:42,499 [9] INFO  File Thread was being aborted.
+2012-05-11 13:21:10,575 [15] INFO  File Length cannot be less than zero.
+Parameter name: length
+2012-05-11 13:23:51,588 [18] INFO  File Thread was being aborted.
+2012-05-11 13:34:00,333 [10] INFO  File Object reference not set to an instance of an object.
+2012-05-11 13:34:15,955 [19] INFO  File Thread was being aborted.
+2012-05-11 13:36:29,882 [10] INFO  File Thread was being aborted.
+2012-05-11 13:38:54,757 [13] INFO  File Object reference not set to an instance of an object.
+2012-05-11 13:38:57,965 [13] INFO  File Thread was being aborted.
+2012-05-11 13:40:16,969 [14] INFO  File Object reference not set to an instance of an object.
+2012-05-11 13:40:19,988 [14] INFO  File Thread was being aborted.
+2012-05-11 13:41:31,219 [12] INFO  File Object reference not set to an instance of an object.
+2012-05-11 13:41:34,262 [20] INFO  File Thread was being aborted.
+2012-05-11 13:43:36,942 [12] INFO  File Object reference not set to an instance of an object.
+2012-05-11 13:43:39,840 [4] INFO  File Thread was being aborted.
+2012-05-11 13:44:39,333 [10] INFO  File Thread was being aborted.
+2012-05-11 13:48:56,782 [14] INFO  File Thread was being aborted.
+2012-05-11 13:49:52,171 [14] INFO  File Thread was being aborted.
+2012-05-11 13:50:31,910 [8] INFO  File Thread was being aborted.
+2012-05-11 13:54:25,334 [21] INFO  File Thread was being aborted.
+2012-05-11 13:54:41,169 [20] INFO  File Thread was being aborted.
+2012-05-11 13:54:47,961 [20] INFO  File Thread was being aborted.
+2012-05-11 13:55:01,652 [19] INFO  File Thread was being aborted.
+2012-05-11 13:56:38,664 [20] INFO  File Thread was being aborted.
+2012-05-11 14:02:24,634 [8] INFO  File Thread was being aborted.
+2012-05-11 14:03:59,712 [13] INFO  File Thread was being aborted.
+2012-05-11 14:04:04,778 [12] INFO  File Thread was being aborted.
+2012-05-11 14:05:14,774 [10] INFO  File Thread was being aborted.
+2012-05-11 14:07:50,732 [18] INFO  File Thread was being aborted.
+2012-05-11 14:08:20,112 [21] INFO  File Thread was being aborted.
+2012-05-11 14:09:04,464 [21] INFO  File Thread was being aborted.
+2012-05-11 14:12:09,796 [17] INFO  File Thread was being aborted.
+2012-05-11 14:12:35,431 [8] INFO  File Thread was being aborted.
+2012-05-11 14:14:02,899 [15] INFO  File Thread was being aborted.
+2012-05-11 14:15:35,487 [8] INFO  File Thread was being aborted.
+2012-05-11 14:16:51,945 [10] INFO  File Thread was being aborted.
+2012-05-11 14:22:06,496 [4] INFO  File Thread was being aborted.
+2012-05-11 14:23:03,135 [17] INFO  File Thread was being aborted.
+2012-05-11 14:23:38,164 [15] INFO  File Object reference not set to an instance of an object.
+2012-05-11 14:24:33,016 [9] INFO  File Object reference not set to an instance of an object.
+2012-05-11 14:25:05,670 [10] INFO  File Object reference not set to an instance of an object.
+2012-05-11 14:28:02,775 [17] INFO  File Specified argument was out of the range of valid values.
+Parameter name: index
+2012-05-11 14:28:07,961 [15] INFO  File Thread was being aborted.
+2012-05-11 14:28:14,202 [9] INFO  File Thread was being aborted.
+2012-05-11 14:29:52,624 [14] INFO  File Specified argument was out of the range of valid values.
+Parameter name: index
+2012-05-11 14:30:46,388 [14] INFO  File Specified argument was out of the range of valid values.
+Parameter name: index
+2012-05-11 14:45:20,069 [7] INFO  File Thread was being aborted.
+2012-05-11 14:47:21,142 [12] INFO  File Thread was being aborted.
+2012-05-11 14:47:35,925 [13] INFO  File Specified argument was out of the range of valid values.
+Parameter name: index
+2012-05-11 14:48:27,385 [10] INFO  File Specified argument was out of the range of valid values.
+Parameter name: index
+2012-05-11 14:48:40,465 [14] INFO  File Specified argument was out of the range of valid values.
+Parameter name: index
+2012-05-11 14:48:47,502 [7] INFO  File Thread was being aborted.
+2012-05-11 14:49:13,880 [4] INFO  File Thread was being aborted.
+2012-05-11 14:49:24,519 [10] INFO  File Specified argument was out of the range of valid values.
+Parameter name: index
+2012-05-11 14:49:28,171 [13] INFO  File Thread was being aborted.
+2012-05-11 14:51:50,358 [20] INFO  File Thread was being aborted.
+2012-05-11 14:52:16,166 [19] INFO  File Thread was being aborted.
+2012-05-11 14:52:42,468 [13] INFO  File Thread was being aborted.
+2012-05-11 14:53:07,004 [17] INFO  File Thread was being aborted.
+2012-05-11 14:54:33,889 [17] INFO  File Thread was being aborted.
+2012-05-11 14:54:40,834 [4] INFO  File Thread was being aborted.
+2012-05-11 14:54:51,403 [4] INFO  File Thread was being aborted.
+2012-05-11 14:54:59,975 [10] INFO  File Thread was being aborted.
+2012-05-11 14:56:16,373 [12] INFO  File Thread was being aborted.
+2012-05-11 15:00:46,445 [20] INFO  File Thread was being aborted.
+2012-05-11 15:01:49,620 [12] INFO  File Thread was being aborted.
+2012-05-11 15:03:46,447 [14] INFO  File Thread was being aborted.
+2012-05-11 15:03:56,709 [9] INFO  File Thread was being aborted.
+2012-05-11 15:04:02,644 [20] INFO  File Thread was being aborted.
+2012-05-11 15:04:43,786 [7] INFO  File Object reference not set to an instance of an object.
+2012-05-11 15:05:50,826 [9] INFO  File Object reference not set to an instance of an object.
+2012-05-11 15:06:03,355 [9] INFO  File Object reference not set to an instance of an object.
+2012-05-11 15:06:03,381 [9] INFO  File Object reference not set to an instance of an object.
+2012-05-11 15:06:03,407 [9] INFO  File Object reference not set to an instance of an object.
+2012-05-11 15:06:03,434 [9] INFO  File Object reference not set to an instance of an object.
+2012-05-11 15:06:03,460 [9] INFO  File Object reference not set to an instance of an object.
+2012-05-11 15:06:15,043 [11] INFO  File Thread was being aborted.
+2012-05-11 15:07:46,787 [4] INFO  File Thread was being aborted.
+2012-05-11 15:08:57,590 [12] INFO  File Thread was being aborted.
+2012-05-11 15:09:10,790 [15] INFO  File Thread was being aborted.
+2012-05-11 15:58:02,931 [20] INFO  File Unable to cast object of type 'ASP.master_login_master' to type 'SMS.SMSmaster'.
+2012-05-11 15:58:03,497 [20] INFO  File Thread was being aborted.
+2012-05-11 15:59:54,611 [18] INFO  File Unable to cast object of type 'ASP.master_login_master' to type 'SMS.SMSmaster'.
+2012-05-11 15:59:55,109 [18] INFO  File Thread was being aborted.
+2012-05-11 16:00:12,556 [20] INFO  File Unable to cast object of type 'ASP.master_login_master' to type 'SMS.SMSmaster'.
+2012-05-11 16:00:13,062 [20] INFO  File Thread was being aborted.
+2012-05-11 16:00:22,129 [19] INFO  File Unable to cast object of type 'ASP.master_login_master' to type 'SMS.SMSmaster'.
+2012-05-11 16:00:22,617 [19] INFO  File Thread was being aborted.
+2012-05-11 16:00:28,302 [19] INFO  File Thread was being aborted.
+2012-05-11 16:00:31,067 [20] INFO  File Unable to cast object of type 'ASP.master_login_master' to type 'SMS.SMSmaster'.
+2012-05-11 16:00:31,571 [20] INFO  File Thread was being aborted.
+2012-05-11 16:02:21,410 [18] INFO  File Thread was being aborted.
+2012-05-11 16:02:28,005 [16] INFO  File Thread was being aborted.
+2012-05-11 16:02:39,829 [20] INFO  File Thread was being aborted.
+2012-05-11 16:04:15,910 [16] INFO  File Thread was being aborted.
+2012-05-11 16:04:25,542 [16] INFO  File Thread was being aborted.
+2012-05-11 16:05:27,679 [9] INFO  File Thread was being aborted.
+2012-05-11 16:05:45,867 [14] INFO  File Thread was being aborted.
+2012-05-11 16:05:50,982 [4] INFO  File Thread was being aborted.
+2012-05-11 16:05:59,469 [4] INFO  File Thread was being aborted.
+2012-05-11 16:06:45,905 [8] INFO  File Thread was being aborted.
+2012-05-11 16:07:11,808 [9] INFO  File Thread was being aborted.
+2012-05-11 16:07:26,683 [11] INFO  File Thread was being aborted.
+2012-05-11 16:08:08,121 [4] INFO  File Thread was being aborted.
+2012-05-11 16:09:19,656 [12] INFO  File Thread was being aborted.
+2012-05-11 16:10:37,936 [21] INFO  File Object reference not set to an instance of an object.
+2012-05-11 16:10:42,269 [16] INFO  File Object reference not set to an instance of an object.
+2012-05-11 16:11:16,298 [21] INFO  File Object reference not set to an instance of an object.
+2012-05-11 16:11:19,433 [21] INFO  File Thread was being aborted.
+2012-05-11 16:12:13,588 [18] INFO  File Thread was being aborted.
+2012-05-11 16:17:15,726 [4] INFO  File Object reference not set to an instance of an object.
+2012-05-11 16:19:01,471 [14] INFO  File Thread was being aborted.
+2012-05-11 16:20:19,244 [4] INFO  File Thread was being aborted.
+2012-05-11 16:21:13,186 [14] INFO  File Thread was being aborted.

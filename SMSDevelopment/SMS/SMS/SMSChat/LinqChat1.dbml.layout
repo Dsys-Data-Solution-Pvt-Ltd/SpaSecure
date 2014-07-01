@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 24.5" name="LinqChat1">
+  <DataContextMoniker Name="/LinqChat1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="74d0929b-211e-4f98-86b3-3703a894d6e1" absoluteBounds="3.75, 1.75, 2, 22.539451497395834">
+      <DataClassMoniker Name="/LinqChat1DataContext/UserInformation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e61903f7-700d-4000-ac68-ca505441e5ca" absoluteBounds="3.765, 2.21, 1.9700000000000002, 21.979451497395832" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="18edc472-9403-4e4d-93f7-0b1d4d211cc8" absoluteBounds="6, 4.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LinqChat1DataContext/Message" />
+      <nestedChildShapes>
+        <elementListCompartment Id="126a350f-32ad-4ac0-8414-1e48d2b601ac" absoluteBounds="6.015, 4.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e6a70216-b55c-4011-943e-1e2889392d26" absoluteBounds="6, 1.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/LinqChat1DataContext/UserRoleMaster" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a75e63fc-ed0f-45b7-be00-ea8929eb29fd" absoluteBounds="6.015, 2.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

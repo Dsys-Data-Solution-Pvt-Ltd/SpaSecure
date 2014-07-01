@@ -1,0 +1,38 @@
+1.Management Contact Mobile no not getting saved on site update and add new site panel.It is getting saved in finance contact group.
+
+2.After adding any new record Message should be like this::"You have successfully Added Information".
+Presently it is "You have successfully Updated Information  "
+
+3.Searching problem for name field on Present Staff and Past Staff panel.//////////////////
+
+4.Search any record from Present Staff panel,Click on Edit button.View Issued Item button is not working on Update Staff panel.
+If click on this button nothing is happen.
+
+5.Without giving any manadatory field on Add New Staff panel,Click on Add button-It is not giving any restriction./////////////////////
+
+6.When select the check box on Add new staff panel,Add and Cancel button image is disable.////////////
+
+7.Not able to add new Staff.[High priority]
+
+8.Error page is displaying when click on Search button on Interview Management panel.[Urgent Priority]/////////////////////
+
+Error :"Source Error: An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below."///////////////
+
+9.Staff Management>Interview Management,Click on New Prescreen button.Enter all information,Click on Add button./////////////////
+
+Error page is displaying [Urgent Priority]////////////////////////
+
+10.Field are not getting cleared If click on Clear button on Interview Management panel./////////////
+
+11.Edit/View button is not working on Inventory Management panel.[Urgent Priority].//////////////////////
+
+12.Not able to add new Inventory Management.[Urgent Priority ./////////////////////////
+
+13.Added new Traing Management with Start Date 11/02/2010,End Date:11/17/2010.////////////
+
+Give Date from as 11/02/2010 and To as 11/18/2010.Click on Search button.It is getting display the saved record./////////////
+But it shld not display any record.
+
+14.Training Management>Add New Training.Enter all the field except Start and End date.Click on Save.Here restrictionshld fire /////////////
+"Start and Ed DAte is required".
+ 

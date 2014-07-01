@@ -1,0 +1,288 @@
+﻿body
+{
+	margin:0;
+	padding:0;
+	text-align:center;
+	background: #f0f0f0 url(body-bg.gif) repeat-x top;
+	font-size:62.5%;
+}
+#wrapper
+{
+	font-size:1.4em;
+	width:69.4em;
+	margin:10px auto;
+	text-align:left;
+	background:white;
+	border:0px solid silver;
+}
+.headerNew
+{
+	background:url(Images/head_bg.gif) repeat-x ;
+	padding:10px 15px 10px 13px;
+	
+
+}
+#header
+{
+	background: #1E5284 url(header-bg.gif) repeat-x bottom left;
+	padding:10px 15px 10px 13px;
+}
+#LogoHeader
+{
+	background:url('../../Images/bg_header.png') repeat-x;
+	
+   
+}
+
+.navigation
+{
+	background: #276AA0;
+	padding:10px 15px 10px 13px;
+}
+.seprator
+{
+	clear:both;
+	height:1pt;
+	max-height:1pt;
+	/*height:1 px;*/
+	overflow:hidden;
+	background-color:#ffffff;
+}
+
+.seprator1
+{
+	clear:both;
+	height:1pt;
+	max-height:1pt;
+	/*height:1 px;*/
+	overflow:hidden;
+	background-color:#133E67;
+	width:970px;
+}
+
+b.rtop, b.rbottom{display:block;background: #FFF}
+b.rtop b, b.rbottom b
+{
+	display:block;
+	height: 1px;
+    overflow: hidden; 
+    background: #06203C;
+}
+
+b.r1{margin: 0 5px}
+b.r2{margin: 0 3px}
+b.r3{margin: 0 2px}
+b.rtop b.r4, b.rbottom b.r4{margin: 0 1px;height: 2px}
+
+.rs1{margin: 0 2px}
+.rs2{margin: 0 1px}
+
+div.container
+{
+	background-color:#133E67;
+}
+ 
+#content-wrapper
+{
+	/*float:right;
+	background:#fff url(nav-to-content-trans.gif) repeat-y left;*/
+	width:849px;
+	height:auto;
+}
+
+#content-inner
+{
+	padding:1px 15px 0 10px;
+
+
+	
+}
+
+#navigation
+{
+	width:15em;
+	float:left;
+	padding-top:15px;
+}
+
+#footer
+{
+	clear:both;
+	background:#133E67;
+}
+.footertext
+{
+	padding:0 0 0 37em;
+	color:#ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	text-align:center;
+	clear:both;
+}
+
+.divContainer
+{
+	height:auto;
+	width:831px;
+	border:1px solid #D0E2F0;
+	margin-top:1em;
+	background-color:#EAF6FB;
+}
+
+.divHeader
+{
+	height:1.5em;
+	width:59.3em;
+	background-color:#D0E2F0;
+	border:0px solid #4596DD;
+	vertical-align:top;
+}
+
+.pageTitle
+{
+	color:#1F5588;
+	font-weight:bold;
+	font-family: Verdana;
+	font-size: 12px;
+	letter-spacing:1.5px;
+} 
+
+.WelcomeMsg
+{
+	color:#FAF9FE;
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:bold;
+}
+
+.Labels
+{
+	color:#003094;
+	font-family:Verdana;
+	font-size:11.5px;
+	}
+.Reportcolor
+{
+	color:black;
+	font-family:Verdana;
+	font-size:11.5px;
+	font-weight:normal;
+}
+
+.GrpName
+{
+	color:#0B5690;
+	font-family:Verdana;
+	font-size:11.5px;
+	font-weight:bold;
+}
+
+.ValSummary
+{
+	color:#D93737;
+	font-family:Verdana;
+	font-weight:bold;
+	font-size:11px;
+}
+
+.CISMenu
+{
+	background-color:#C4DBEC;
+	font-family:Verdana;
+	font-size:small;
+}
+
+.MenuTD td a
+{
+	width:100%;
+	display:block;
+	text-align:left;
+}
+
+.req
+{
+	font-size: 11px;
+	font-family: Verdana, Arial;
+	color: #FF0000;
+}
+
+.Buttons
+{
+	background-color:#6291A9;
+	color:White;
+	font-family:Verdana;
+	font-size:12px;
+	border:solid 1px #000;
+	}
+
+.Input,.ReadOnlyInput
+{
+	font-family: Verdana, Arial;
+	color: #000000;
+	font-size: 11px;
+	border: 1px #666666 solid;
+	margin-left: 0px;
+	height: 17px;
+}
+
+.ReadOnlyInput
+{
+	background-color:#EAF6FB;
+}
+
+.WaterMarked
+{
+	color:#0B5690;
+	font-family:Verdana;
+	font-size:11.0px;	
+}
+
+.LnkButton
+{
+	color:#1F5588;
+	font-weight:bold;
+	font-family: Verdana;
+	font-size: 10.5px;
+} 
+
+.CompMsg
+{
+	background-color:#EAF6FB;
+	color:#003094;
+	font-family:Verdana;
+	font-size:11px;
+}
+
+.Notes
+{
+	font-size: 10px;
+	font-family: Verdana;
+	color: #B51A1A;
+}
+
+.Messages
+{
+	background-color:#EAF6FB;
+	color:#003094;
+	font-family:Verdana;
+	font-size:11.7px;
+}
+
+.ErrMsg
+{
+	background-color:#EAF6FB;
+	color:#003094;
+	font-family:Verdana;
+	font-size:11.7px;
+}
+.divpnl
+{ 
+	height:200px;
+	width:250px;
+	position:absolute;
+	top: 250px;
+	left: 893px;
+}
+		.logo {float: left; padding: 0px 0 0 20px;}
+		.logo2 {float: right; padding: 50px 20px 0 20px;}

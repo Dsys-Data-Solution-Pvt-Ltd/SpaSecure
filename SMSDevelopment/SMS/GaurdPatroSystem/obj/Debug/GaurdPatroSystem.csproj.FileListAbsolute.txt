@@ -1,0 +1,581 @@
+D:\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+D:\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\SMS.BusinessEntities.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\log4net.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\Microsoft.Practices.Unity.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\SMS.Services.pdb
+D:\D-sys\dsys prjct\PedroSecure\Pedro23juneManish\SMSDevelopment\SMS\GaurdPatroSystem\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\Microsoft.Practices.Unity.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\GaurdPatroSystem\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxControlToolkit.pdb
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\ar\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\cs\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\de\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\es\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\fr\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\he\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\hi\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\it\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\ja\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\ko\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\nl\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\pt\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\ru\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\Spasecure\28_May\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\Spasecure\28_May\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\Spasecure\28_May\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\Spasecure\28_May\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\Spasecure\28_May\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\Spasecure\28_May\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\28_May\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\Spasecure\28_May\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\AjaxPro.2.dll
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.csprojResolveAssemblyReference.cache
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.dll
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\GaurdPatroSystem\bin\GaurdPatroSystem.pdb
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\GaurdPatroSystem\bin\itextsharp.dll
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\GaurdPatroSystem\bin\TimePicker.dll
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.dll
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\GaurdPatroSystem\obj\Debug\GaurdPatroSystem.pdb

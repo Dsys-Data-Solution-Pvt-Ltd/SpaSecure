@@ -1,0 +1,66 @@
+﻿	 
+	 .GridMain
+	 {
+	 	border: solid 1px #4596DD;
+	 	clear:both;
+	 	width:100%;
+	 }
+	 
+	 .HeaderRow
+	{
+		background-color:#C4DBEC;
+		color:#494C5A;
+		font-family:Verdana;
+		font-size:11.5px;
+		font-weight:bold;
+	}
+	
+	.NoRecords
+	{
+		background-color:#C3DCF9;
+		color:#B51A1A;
+		font-family:Verdana;
+		font-size:11.7px;
+	}	 
+	
+	.NormalRow
+	{
+		background-color:#FFF;
+		color:#494C5A;
+		font-family:Verdana;
+		font-size:11.5px;
+		font-weight:normal;
+	}
+	
+	.AlternateRow
+	{
+		background-color:#E8F1F8;
+		color:#494C5A;
+		font-family:Verdana;
+		font-size:11.5px;
+	}
+	
+	.PagingRow
+	{
+		background-color:#993300;
+		color:#000;
+		
+	}
+	
+	.PagingRow a
+	{
+		
+		 background:url(images/pagging.gif) repeat-x 0 0; height:20px; float:left; padding:0 8px; border:solid 1px #d5d5d5; text-decoration: none; color:#949494; margin-left:5px;  
+	
+	}
+	.PagingRow a:hover
+	{
+		
+		 border-color:#8c3521; background:#ba4c32; color:#fff;
+	}
+	
+ .PagingRow td {   
+     border-width: 0;   
+     padding: 0 6px;   
+    
+  }     

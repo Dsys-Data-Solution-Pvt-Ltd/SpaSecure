@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="I:\GTS" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:02" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll" publishTime="05/15/2008 06:13:00" />
+    <file relUrl="PatroTimeSystem.aspx" publishTime="07/19/2012 16:25:24" />
+    <file relUrl="bin/SMS.Services.pdb" publishTime="07/13/2012 14:41:04" />
+    <file relUrl="bin/log4net.dll" publishTime="11/04/2009 23:58:30" />
+    <file relUrl="bin/es/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:00" />
+    <file relUrl="style.css" publishTime="03/23/2011 10:45:12" />
+    <file relUrl="bin/hi/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:00" />
+    <file relUrl="ClientPatroTime.aspx" publishTime="07/19/2012 13:15:44" />
+    <file relUrl="bin/GaurdPatroSystem.pdb" publishTime="07/19/2012 16:45:30" />
+    <file relUrl="bin/zh-CHS/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:02" />
+    <file relUrl="VerifyLogin.aspx" publishTime="07/19/2012 16:25:24" />
+    <file relUrl="AdminMaster.Master" publishTime="07/19/2012 16:23:54" />
+    <file relUrl="bin/GaurdPatroSystem.dll" publishTime="07/19/2012 16:45:30" />
+    <file relUrl="WebForm1.aspx" publishTime="04/20/2011 21:59:40" />
+    <file relUrl="bin/AjaxControlToolkit.pdb" publishTime="11/17/2011 03:51:58" />
+    <file relUrl="SMSCalander.css" publishTime="03/02/2011 10:58:14" />
+    <file relUrl="bin/de/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:00" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll" publishTime="05/15/2008 06:13:14" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="11/17/2011 03:51:58" />
+    <file relUrl="bin/AjaxPro.2.dll" publishTime="10/01/2009 18:05:44" />
+    <file relUrl="images/edit.gif" publishTime="03/02/2011 11:23:24" />
+    <file relUrl="bin/fr/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:00" />
+    <file relUrl="viewclient.aspx" publishTime="07/19/2012 16:25:24" />
+    <file relUrl="Default.aspx" publishTime="03/02/2011 10:09:52" />
+    <file relUrl="AddNewClient.aspx" publishTime="07/19/2012 16:24:19" />
+    <file relUrl="bin/Microsoft.Practices.Unity.dll" publishTime="05/15/2008 05:27:26" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Validation.dll" publishTime="05/15/2008 06:13:12" />
+    <file relUrl="bin/he/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:00" />
+    <file relUrl="bin/itextsharp.dll" publishTime="07/07/2009 09:25:16" />
+    <file relUrl="LoginHome.aspx" publishTime="07/18/2012 13:03:36" />
+    <file relUrl="bin/nl/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:02" />
+    <file relUrl="bin/tr-TR/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:02" />
+    <file relUrl="updateviewclient.aspx" publishTime="07/19/2012 16:25:24" />
+    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:00" />
+    <file relUrl="images/calendar.bmp" publishTime="03/02/2011 10:50:44" />
+    <file relUrl="images/close.gif" publishTime="03/02/2011 11:23:24" />
+    <file relUrl="bin/SMS.BusinessEntities.pdb" publishTime="07/13/2012 14:40:58" />
+    <file relUrl="bin/TimePicker.dll" publishTime="05/24/2009 14:57:44" />
+    <file relUrl="bin/Microsoft.Practices.ObjectBuilder2.dll" publishTime="05/15/2008 05:27:26" />
+    <file relUrl="Web.config" publishTime="07/18/2012 14:24:20" />
+    <file relUrl="images/del.gif" publishTime="03/02/2011 11:23:24" />
+    <file relUrl="SMSGrid.css" publishTime="03/02/2011 10:30:10" />
+    <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:00" />
+    <file relUrl="bin/pt/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:02" />
+    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:00" />
+    <file relUrl="bin/SMS.BusinessEntities.dll" publishTime="07/13/2012 14:41:00" />
+    <file relUrl="bin/SMS.Services.dll" publishTime="07/13/2012 14:41:04" />
+    <file relUrl="EditPatroSystem.aspx" publishTime="07/19/2012 16:24:41" />
+    <file relUrl="bin/ko/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:02" />
+    <file relUrl="bin/ja/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:00" />
+    <file relUrl="bin/zh-CHT/AjaxControlToolkit.resources.dll" publishTime="11/17/2011 03:52:02" />
+    <file relUrl="GPS_locSearch.aspx" publishTime="07/19/2012 16:25:24" />
+  </publishProfile>
+</publishData>

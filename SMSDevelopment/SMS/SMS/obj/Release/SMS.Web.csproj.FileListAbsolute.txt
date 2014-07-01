@@ -1,0 +1,438 @@
+D:\WINAPP\MOM\MOM_Ver_3\SMS\SMS\bin\SMS.dll
+D:\WINAPP\MOM\MOM_Ver_3\SMS\SMS\bin\SMS.pdb
+D:\WINAPP\MOM\MOM_Ver_3\SMS\SMS\bin\AjaxPro.2.dll
+D:\WINAPP\MOM\MOM_Ver_3\SMS\SMS\bin\EO.Web.dll
+D:\WINAPP\MOM\MOM_Ver_3\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\WINAPP\MOM\MOM_Ver_3\SMS\SMS\obj\Release\SMS.dll
+D:\WINAPP\MOM\MOM_Ver_3\SMS\SMS\obj\Release\SMS.pdb
+D:\webapp\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\webapp\SMS\SMS\obj\Release\SMS.dll
+D:\webapp\SMS\SMS\bin\SMS.dll
+D:\webapp\SMS\SMS\bin\SMS.pdb
+D:\webapp\SMS\SMS\bin\EO.Web.dll
+D:\webapp\SMS\SMS\obj\Release\SMS.pdb
+C:\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+C:\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+C:\SMSDevelopment\SMS\SMS\bin\SMS.dll
+C:\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+C:\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+C:\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+C:\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+C:\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+C:\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\webapp\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\webapp\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\webapp\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\webapp\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\webapp\SMSDevelopment\SMS\SMS\bin\EO.Web.dll
+D:\webapp\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\webapp\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\webapp\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\webapp\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.Unity.dll
+D:\webapp\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\webapp\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\webapp\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\webapp\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\webapp\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\bin\SMS.dll
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\bin\EO.Web.dll
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.Unity.dll
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+C:\Users\mansi\Desktop\SMStill3rdOct\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+C:\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+C:\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\office.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.Forms.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+C:\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+C:\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+C:\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+C:\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+C:\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+C:\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+C:\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+C:\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+C:\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+C:\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+C:\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+D:\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+D:\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\11MaySMS\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\11MaySMS\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\11MaySMS\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Interop.OLXLib.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Outlook.xml
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\ResolveAssemblyReference.cache
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\office.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Vbe.Interop.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Office.Interop.Excel.xml
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\office.xml
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\AjaxControlToolkit.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\ar\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\cs\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\de\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\es\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\fr\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\he\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\hi\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\it\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\ja\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\ko\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\nl\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\pt\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\ru\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\AjaxControlToolkit.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\SMS.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\SMS.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\GaurdPatroSystem.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\SMS.Services.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\SMS.BusinessEntities.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\GaurdPatroSystem.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\SMS.Services.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\Interop.ACROIEHELPERLib.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\bin\Interop.AcroPDFLib.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csprojResolveAssemblyReference.cache
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\obj\Release\Interop.ACROIEHELPERLib.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\obj\Release\Interop.AcroPDFLib.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\obj\Release\SMS.Web.csproj.ResolveComReference.cache
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\obj\Release\SMS.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS\obj\Release\SMS.pdb

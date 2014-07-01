@@ -1,0 +1,192 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="login.master.cs" Inherits="SMS.master.login" %>
+
+<%@ Register Assembly="AjaxControlToolKit" Namespace="AjaxControlToolkit" TagPrefix="AJAX" %>
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+<%@ Register Assembly="EO.Web" Namespace="EO.Web" TagPrefix="eo" %>
+<%@ Register Assembly="iFadey" Namespace="iFadey" TagPrefix="cc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Welcome to KT Secure</title>
+    <link href="../Styles/StyleSheet1.css" rel="stylesheet" type="text/css" />
+    <link href="../Styles/StyleSheet2.css" rel="Stylesheet" type="text/css" />
+    <link href="../Styles/calander.css" rel="Stylesheet" type="text/css" />
+    <link href="../Styles/StyleSheet2.css" rel="Stylesheet" type="text/css" />
+    <link href="../Styles/calander.css" rel="Stylesheet" type="text/css" />
+    <link href="../Styles/StyleSheet3.css" rel="Stylesheet" type="text/css" />
+    <link href="../Styles/menucss.css" type="text/css" rel="Stylesheet" />
+    <%--<script>
+    function home() {
+        document.getElementById("home").style.background = "#CCCCCC";
+        document.getElementById("ahome").style.color = "Black";
+        document.getElementById("ahome").style.font-weight="100em";
+    }
+    function home1() {
+        document.getElementById("home").style.background = "none";
+        document.getElementById("ahome").style.color = "White";
+        document.getElementById("ahome").style.font-weight="20em";
+ 
+    }
+    function logout() {
+        document.getElementById("logout").style.background = "#CCCCCC";
+        document.getElementById("alogout").style.color = "Black";
+
+    }
+    function logout1() {
+        document.getElementById("logout").style.background = "none";
+               document.getElementById("alogout").style.color = "White";
+
+
+    }
+    function profile() {
+        document.getElementById("profile").style.background = "#CCCCCC";
+        document.getElementById("aprofile").style.color = "Black";
+
+    }
+    function profile1() {
+        document.getElementById("profile").style.background = "none";
+       document.getElementById("aprofile").style.color = "White";
+
+    }
+
+</script>--%>
+</head>
+<body id="homepage">
+    <div id="header">
+        <img src="../../Images/KnightTempler.png" alt="D-SYS Data Solution" style="margin-top: 3px;
+            height: 95px; width: 105px; margin-left: 1px" />
+        <img src="../../Images/KTSecure.png" alt="SPA Secure" style="margin-left: 730px;
+            height: 41px; width: 206px; margin-right: 0px" />
+        <%--<table align="left" class="tabl">
+<tr><td><div class="hovermenu" style="width:3em;">
+<ul>
+<li>  <a title="Go To Homepage" id="a1" href="../../master/login.aspx?t=#"  title="" style="color:White; font-family; Verdana, Arial; font-size:1.2em; font-weight:20em;text-decoration: none">Home</a>
+</li>
+</ul>
+</div></td><td><div class="hovermenu">
+<ul>
+<li>  <a href="../../master/login3.aspx" id="alogout"  title="logout" style="color:White; font-family:Verdana, Arial; font-size:1.2em; font-weight:20em;text-decoration: none;">Logout</a>
+</li>
+</ul></div></td><td><div class="hovermenu">
+<ul>
+<li>  <a href="../ADMIN/profile_viewreport.aspx" id="a2" title="view profile" style="color:White; font-family:Verdana, Arial; font-size:1.2em; font-weight:20em;text-decoration: none">Profile</a>
+</li>
+</ul>
+</div></td></tr>
+</table> --%>
+    </div>
+    <br />
+    <!-- Top Breadcrumb Start -->
+    <!--<div id="breadcrumb"></div>-->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <form id="form1" runat="server">
+    <table align="left" class="tabl">
+        <tr>
+            <td>
+                <div class="hovermenu" style="width: 3em;">
+                    <ul>
+                        <li>
+                            <%--<a title="Go To Homepage" id="a1" href="../../master/login.aspx?t=#"  title="" style="color:White; font-family; Verdana, Arial; font-size:1.2em; font-weight:20em;text-decoration: none">Home</a>
+                            --%>
+                            <asp:LinkButton ID="lnkBack1" runat="server" Style="color: White; font-family; verdana, arial;
+                                font-size: 1.2em; font-weight: 20em" OnClick="lnkBack1_Click">Home</asp:LinkButton>
+                        </li>
+                    </ul>
+                </div>
+            </td>
+            <td>
+                <div class="hovermenu">
+                    <ul>
+                        <li><a href="../../master/login3.aspx" id="a3" title="logout" style="color: White;
+                            font-family: Verdana, Arial; font-size: 1.2em; font-weight: 20em; text-decoration: none;">
+                            Logout</a> </li>
+                    </ul>
+                </div>
+            </td>
+            <td>
+                <div class="hovermenu">
+                    <ul>
+                        <li><a href="../ADMIN/profile_viewreport.aspx" id="a4" title="view profile" style="color: White;
+                            font-family: Verdana, Arial; font-size: 1.2em; font-weight: 20em; text-decoration: none">
+                            Profile</a> </li>
+                    </ul>
+                </div>
+            </td>
+            <td>
+                <div class="hovermenu">
+                    <ul>
+                        <li><a href="../../master/UploadGuardTourData.aspx" id="a1" title="view profile"
+                            style="color: White; font-family: Verdana, Arial; font-size: 1.2em; font-weight: 20em;
+                            text-decoration: none; width: 15em">Upload Guard Tour Data</a> </li>
+                    </ul>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <div id="leftside" style="height: 49.8em; width: 17.25em">
+        <div class="user">
+            <asp:Image ID="image1" runat="server" Width="105px" Height="120px" class="hoverimg"
+                Style="margin-top: -.28em"></asp:Image>
+            <p style="margin-left: 7.5em; margin-top: 1em">
+                Welcome User:</p>
+            <p style="margin-left: 8.1em; margin-top: .9em">
+                <asp:Label ID="nameLabel" runat="server" Text="" Style="width: 70px; color: #fff;
+                    font-size: 13.4px; font-weight: 700; letter-spacing: 0px; padding-bottom: 5px;"></asp:Label></p>
+           
+        </div>
+        <p>
+        </p>
+        <telerik:RadScriptManager ID="radScript" runat="server">
+        </telerik:RadScriptManager>
+        <telerik:RadSkinManager ID="RadSkinManager1" runat="server">
+        </telerik:RadSkinManager>
+        <asp:Panel ID="Panel1" runat="server" Style="top: 135px; left: 0px; position: absolute;
+            height: 780px; width: 18em">
+            <div style="border: thin; width: 18em; height: 780px">
+                <telerik:RadMenu ID="rdDBMenu" runat="server" Flow="Vertical" BackColor="White" EnableRoundedCorners="true"
+                    Font-Bold="True" EnableShadows="true" Width="6.95em" ExpandDelay="500" ForeColor="#66CCFF"
+                    Height="0px" Style="z-index: 2; font-size: xx-large" EnableAutoScroll="true"
+                    EnableEmbeddedScripts="True" GroupSettings-ExpandDirection="Down" OnItemClick="rdDBMenu_ItemClick">
+                    <ExpandAnimation Type="InOutQuad" />
+                    <DefaultGroupSettings ExpandDirection="Down" />
+                </telerik:RadMenu>
+            </div>
+        </asp:Panel>
+    </div>
+    <!--</div>-->
+    <!--<asp:HyperLink ID="HyperLink1" runat="server" 
+            style="overflow: auto; top: 30px; left: 18px; position: absolute; height: 22px; width: 97px" 
+            NavigateUrl="~/permission.aspx">permission</asp:HyperLink>-->
+    <asp:Panel ID="Panel2" runat="server" Style="top: 167px; left: 231px; position: absolute;
+        height: 200px; width: 470px">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+            <p>
+                &nbsp;</p>
+        </asp:ContentPlaceHolder>
+    </asp:Panel>
+    <!-------------------------------------------------------------------->
+    <!---------------------------------------------------------------------->
+    </form>
+</body>
+</html>

@@ -1,0 +1,186 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Services;
+using System.Web.Script.Services;
+using System.Configuration;
+using System.Data;
+using System.Text;
+using System.Web.Script.Serialization;
+using System.Data.SqlClient;
+
+namespace SMS.SMSChat
+{
+    [WebService(Namespace = "http://tempuri.org/")]
+    [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
+    // To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
+    // [System.Web.Script.Services.ScriptService]
+    [ScriptService]
+    public class GetChatData : System.Web.Services.WebService
+    {
+
+        public GetChatData()
+        {
+
+            //Uncomment the following line if using designed components 
+            //InitializeComponent(); 
+        }
+
+        [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
+        [WebMethod(EnableSession = true)]
+        public string GetLoggedInUsers()
+        {
+            try
+            {
+                LinqChat1DataContext db = new LinqChat1DataContext();
+                string userIcon;
+                StringBuilder sb = new StringBuilder();
+
+                var Users = (from u in db.UserInformations
+                             where u.UserID != (string)Session[SMSAppUtilities.SessionKeys.SESSION_LOGIN_USER] && u.Role != (string)Session["role"]
+                             orderby u.LastActivityTime descending
+                             select u).Take(20);
+                var roles = (from r in db.RoleMasters
+                             where r.RoleName != (string)Session["role"]
+                             select r);
+
+                foreach (var role in roles)
+                {
+                    sb.Append("<div style='font-family:Arial;font-size:13px'><b>" + role.RoleName + "</b></div>");
+                    int i = 1;
+                    foreach (var User in Users)
+                    {
+                        if (User.Role == role.RoleName)
+                        {
+                            if ((DateTime.Now - (DateTime)User.LastActivityTime).TotalSeconds > 14)
+                            {
+                                sb.Append("<div style='padding:0 0 0 20px'>");
+                                userIcon = "<img src='Images/offline.png' style='vertical-align:middle' alt=''>  ";
+                                sb.Append(userIcon + "<a href=\"#\" onclick=\"AddNewWindow('" + Session[SMSAppUtilities.SessionKeys.SESSION_LOGIN_USER].ToString() + "','" + User.UserID + "');\">" + User.UserID + "</a><br>");
+                                sb.Append("</div>");
+                            }
+                            else
+                            {
+                                sb.Append("<div style='padding:0 0 0 20px'>");
+                                userIcon = "<img src='Images/online.png' style='vertical-align:middle' alt=''>  ";
+                                sb.Append(userIcon + "<a href=\"#\" onclick=\"AddNewWindow('" + Session[SMSAppUtilities.SessionKeys.SESSION_LOGIN_USER].ToString() + "','" + User.UserID + "');\">" + User.UserID + "</a><br>");
+                                sb.Append("</div>");
+                            }
+                            i = 0;
+                        }
+                    }
+                    if (i == 1)
+                    {
+                        sb.Append("<div style='padding:0 0 0 20px;color:red'>");
+                        sb.Append("No Registered Users");
+                        sb.Append("</div>");
+                    }
+                }
+                return sb.ToString();
+            }
+            catch (Exception ex)
+            {
+                return ex.Message + " " + ex.InnerException + " " + ex.Source;
+            }
+        }
+
+        [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
+        [WebMethod(EnableSession = true)]
+        public void InsertMessage(string text, string toUserid)
+        {
+            LinqChat1DataContext db = new LinqChat1DataContext();
+            string date = DateTime.Now.ToString();
+            Message message = new Message();
+            message.UserID = Session[SMSAppUtilities.SessionKeys.SESSION_LOGIN_USER].ToString();
+            message.ToUserID = toUserid;
+            message.TimeStamp = DateTime.Now;
+            message.Text = text.Replace("<", "");
+            message.Color = "black";
+            db.Messages.InsertOnSubmit(message);
+            db.SubmitChanges();
+            UpdateActivityTime(Convert.ToDateTime(date));
+        }
+
+        [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
+        [WebMethod(EnableSession = true, CacheDuration = 0, BufferResponse = false)]
+        public string GetMessages(string stat)
+        {
+            SqlConnection cn = new SqlConnection(System.Configuration.ConfigurationManager.ConnectionStrings["SMSConnectionString"].ConnectionString);
+            cn.Open();
+            string qry;
+            if (stat == "on")
+            {
+                qry = "select * from Message where TimeStamp >  convert(datetime,'" + (DateTime)Session["LastMsg"] + "') and ToUserID='" + (string)Session[SMSAppUtilities.SessionKeys.SESSION_LOGIN_USER] + "' order by ToUserID,TimeStamp";
+            }
+            else
+            {
+                LinqChat1DataContext db = new LinqChat1DataContext();
+                var usr = (from u in db.UserInformations
+                           where u.UserID == (string)Session[SMSAppUtilities.SessionKeys.SESSION_LOGIN_USER]
+                           select u).SingleOrDefault();
+                qry = "select * from Message where TimeStamp >  convert(datetime,'" + usr.LastActivityTime + "') and ToUserID='" + (string)Session["ChatUserID"] + "' order by ToUserID,TimeStamp";
+            }
+            Session["LastMsg"] = DateTime.Now;
+            SqlDataAdapter da = new SqlDataAdapter(qry, cn);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            UpdateActivityTime((DateTime)Session["LastMsg"]);
+            StringBuilder sb = new StringBuilder();
+            JavaScriptSerializer jss = new JavaScriptSerializer();
+            jss.Serialize(RowsToDictionary(dt), sb);
+            cn.Dispose();
+            da.Dispose();
+            dt.Dispose();
+            string json = sb.ToString();
+            return json;
+        }
+
+        private void UpdateActivityTime(DateTime dt)
+        {
+            LinqChat1DataContext db = new LinqChat1DataContext();
+            var users = from u in db.UserInformations
+                        where u.UserID == (string)Session[SMSAppUtilities.SessionKeys.SESSION_LOGIN_USER]
+                        select u;
+            foreach (var u in users)
+            {
+                u.LastActivityTime = dt;
+                db.SubmitChanges();
+            }
+        }
+        public static List<Dictionary<string, object>>
+            RowsToDictionary(DataTable table)
+        {
+            List<Dictionary<string, object>> objs =
+                new List<Dictionary<string, object>>();
+            foreach (DataRow dr in table.Rows)
+            {
+                Dictionary<string, object> drow = new Dictionary<string, object>();
+                for (int i = 0; i < table.Columns.Count; i++)
+                {
+                    drow.Add(table.Columns[i].ColumnName, dr[i]);
+                }
+                objs.Add(drow);
+            }
+
+            return objs;
+        }
+
+        public static Dictionary<string, object> ToJson(DataTable table)
+        {
+            Dictionary<string, object> d = new Dictionary<string, object>();
+            d.Add(table.TableName, RowsToDictionary(table));
+            return d;
+        }
+
+        public static Dictionary<string, object> ToJson(DataSet data)
+        {
+            Dictionary<string, object> d = new Dictionary<string, object>();
+            foreach (DataTable table in data.Tables)
+            {
+                d.Add(table.TableName, RowsToDictionary(table));
+            }
+            return d;
+        }
+    }
+}

@@ -1,0 +1,698 @@
+F:\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+F:\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+F:\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+F:\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+F:\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\Final\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\Final\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\Final\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\Final\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\Final\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\Final\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\Final\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\Documents and Settings\Administrator.DSDS\My Documents\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Documents and Settings\Administrator.DSDS\My Documents\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Documents and Settings\Administrator.DSDS\My Documents\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Documents and Settings\Administrator.DSDS\My Documents\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Documents and Settings\Administrator.DSDS\My Documents\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.DSDS\My Documents\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\Documents and Settings\Administrator.DSDS\My Documents\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+G:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+G:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+G:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+G:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+G:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+G:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+G:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+H:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+H:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+H:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+H:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+H:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+H:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+H:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+F:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+F:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+F:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+F:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+F:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+F:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+F:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+F:\NewSmsDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+F:\NewSmsDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+F:\NewSmsDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+F:\NewSmsDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+F:\NewSmsDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+F:\NewSmsDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+F:\NewSmsDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\tspsecure5\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\tspsecure5\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\tspsecure5\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\tspsecure5\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\tspsecure5\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\tspsecure5\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\tspsecure5\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\tspsecure5\LatestSMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+F:\Deepak\Code\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+F:\Deepak\Code\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+F:\Deepak\Code\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+F:\Deepak\Code\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+F:\Deepak\Code\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+F:\Deepak\Code\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+F:\Deepak\Code\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+F:\Deepak\Code\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+F:\Deepak\Code\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+F:\Deepak\Code\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\NewSMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\NewSMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\NewSMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\NewSMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\NewSMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\NewSMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\NewSMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\NewSMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\SMSDevelopment1\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\SMSDevelopment1\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\SMSDevelopment1\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\SMSDevelopment1\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\SMSDevelopment1\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\SMSDevelopment1\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\SMSDevelopment1\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\SMSDevelopment1\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\SMSDevelopment1\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\SMSDevelopment1\SMS\SMS.Services\SMS.Services\bin\office.xml
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\Projects\Projects\SMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Projects\SMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\Projects\Projects\SMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\Projects\Projects\SMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\Projects\Projects\SMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\Projects\Projects\SMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\Projects\Projects\SMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\Projects\Projects\SMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Users\mihirkhatri\Desktop\SMS Backup\SMSDevelopment 20-09 7-43\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Users\mihirkhatri\Desktop\SMS Backup\SMSDevelopment 20-09 7-43\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Users\mihirkhatri\Desktop\SMS Backup\SMSDevelopment 20-09 7-43\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\Users\mihirkhatri\Desktop\SMS Backup\SMSDevelopment 20-09 7-43\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Users\mihirkhatri\Desktop\SMS Backup\SMSDevelopment 20-09 7-43\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Users\mihirkhatri\Desktop\SMS Backup\SMSDevelopment 20-09 7-43\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mihirkhatri\Desktop\SMS Backup\SMSDevelopment 20-09 7-43\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\Users\mihirkhatri\Desktop\SMS Backup\SMSDevelopment 20-09 7-43\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\Users\mihirkhatri\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Users\mihirkhatri\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Users\mihirkhatri\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\Users\mihirkhatri\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Users\mihirkhatri\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Users\mihirkhatri\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mihirkhatri\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\Users\mihirkhatri\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\Estimate\TSPBroucher\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Estimate\TSPBroucher\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Estimate\TSPBroucher\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\Estimate\TSPBroucher\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Estimate\TSPBroucher\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Estimate\TSPBroucher\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Estimate\TSPBroucher\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\Estimate\TSPBroucher\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\Documents and Settings\admin\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\Documents and Settings\admin\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Documents and Settings\admin\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Documents and Settings\admin\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\Documents and Settings\admin\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Documents and Settings\admin\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Documents and Settings\admin\Desktop\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\Estimate\SMSDevelopment_2609\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Estimate\SMSDevelopment_2609\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Estimate\SMSDevelopment_2609\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\Estimate\SMSDevelopment_2609\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Estimate\SMSDevelopment_2609\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Estimate\SMSDevelopment_2609\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Estimate\SMSDevelopment_2609\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\Estimate\SMSDevelopment_2609\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\Estimate\SMSDevelopment_2609\23Oct\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Estimate\SMSDevelopment_2609\23Oct\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Estimate\SMSDevelopment_2609\23Oct\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\Estimate\SMSDevelopment_2609\23Oct\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Estimate\SMSDevelopment_2609\23Oct\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Estimate\SMSDevelopment_2609\23Oct\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Estimate\SMSDevelopment_2609\23Oct\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\Estimate\SMSDevelopment_2609\23Oct\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\D-Sys Data Solution\SpaSecure material\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-Sys Data Solution\SpaSecure material\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-Sys Data Solution\SpaSecure material\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-Sys Data Solution\SpaSecure material\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\D-Sys Data Solution\SpaSecure material\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-Sys Data Solution\SpaSecure material\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-Sys Data Solution\SpaSecure material\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\D-Sys Data Solution\SpaSecure material\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\D-Sys Data Solution\SpaSecure material\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\D-Sys Data Solution\SpaSecure material\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\New folder\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SpaSecure material\spasecurelatest\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\D-Sys Data Solution original\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+I:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.ObjectBuilder2.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.Unity.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Triple S\Triple'S Secure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroSecure\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+I:\rakesh\PedroSecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\Microsoft.Practices.Unity.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\SPA Secure Project Version's\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\D-Sys Data Solution original\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\Users\Ruchi\Desktop\Tspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\Users\Ruchi\Desktop\newtspsecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\Users\Ruchi\Desktop\NewPedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+C:\Users\Ruchi\Desktop\tspsecurbyrakesh\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\D-Sys Data Solution Project\spasecur\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\D-sys\dsys prjct\PedroSecure\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\tspsecure\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\padro\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\tspsecurenew\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro18june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro20june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro21june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro21june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro21june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro21june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro21june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro21june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro21june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro21june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro21june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro21june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroNew\Pedro22june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\Pedro23juneManish\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroLatest\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroLatest\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroLatest\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroLatest\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroLatest\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroLatest\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\PedroLatest\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\PedroLatest\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\PedroLatest\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\PedroLatest\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\SunLightSecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\AssuredProtection\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\SpaSecureProject\D-Sys Data Solution original\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+F:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+E:\FinalSemesterProjectFile\NightTempler\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\Spasecure\28_May\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\Spasecure\28_May\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\Spasecure\28_May\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\Spasecure\28_May\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\Spasecure\28_May\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\Spasecure\28_May\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\Spasecure\28_May\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\Spasecure\28_May\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\28_May\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\Spasecure\28_May\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\Spasecure\10-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\Spasecure\11-6-2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\Spasecure\19_6_2014\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.csprojResolveAssemblyReference.cache
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\DsysProjects\SingaporeProject\SpaSecure20June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\Spasecure\SpaSecure23June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\Spasecure\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.csprojResolveAssemblyReference.cache
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.dll
+D:\Spasecure\spasecure30june\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Debug\SMS.Services.pdb

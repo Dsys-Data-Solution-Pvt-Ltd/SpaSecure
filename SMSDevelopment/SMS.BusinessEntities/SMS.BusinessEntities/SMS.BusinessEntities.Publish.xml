@@ -1,0 +1,10 @@
+<publishData>
+  <publishTarget publishUrl="C:\HttpDocs\SMS.BusinessEntities\">
+    <file relUrl="bin/SMS.BusinessEntities.pdb" publishTime="10/15/2009 19:26:19" />
+    <file relUrl="bin/SMS.BusinessEntities.dll" publishTime="10/15/2009 19:26:19" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\HttpDocs\SMS.BusinessEntities1\">
+    <file relUrl="bin/SMS.BusinessEntities.pdb" publishTime="10/14/2009 19:45:36" />
+    <file relUrl="bin/SMS.BusinessEntities.dll" publishTime="10/14/2009 19:45:36" />
+  </publishTarget>
+</publishData>

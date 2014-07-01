@@ -1,0 +1,12 @@
+﻿.divWaiting{
+   
+position: absolute;
+background-color: #FAFAFA;
+z-index: 2147483647 !important;
+opacity: 0.8;
+overflow: hidden;
+text-align: center; top: 0; left: 0;
+height: 70%;
+width: 100%;
+padding-top:20%;
+} 

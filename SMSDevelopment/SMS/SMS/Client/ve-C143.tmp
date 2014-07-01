@@ -1,0 +1,168 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using SMS.SMSAppUtilities;
+using SMS.Services.DataService;
+using System.Data.SqlClient;
+using System.Data;
+
+namespace SMS.Client
+{
+    public partial class ViewPreRegisteredVisotors : System.Web.UI.Page
+    {
+        DataAccessLayer dal = new DataAccessLayer();
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+            {
+                BindGrid();
+            }
+        }
+
+        protected void gvPreRegisteredVisits_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            log4net.ILog logger = log4net.LogManager.GetLogger("File");
+            try
+            {
+                if (e.NewPageIndex >= 0)
+                {
+                    gvPreRegisteredVisits.PageIndex = e.NewPageIndex;
+                    int pageSize = ContextKeys.GRID_PAGE_SIZE;
+                    gvPreRegisteredVisits.PageSize = pageSize;
+                    if (txtdatefrom.Text.Trim() != "" || txtdateto.Text.Trim() != "" || txtExpectedTime.Text.Trim() != "" || txtVisitors.Text.Trim() != "")
+                    {
+                        BindGridWithFilter();
+                    }
+                    else
+                    {
+                        BindGrid();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                logger.Info(ex.Message);
+            }
+        }
+
+        protected void gvPreRegisteredVisits_RowCommand(object sender, GridViewCommandEventArgs e)
+        {
+                        log4net.ILog logger = log4net.LogManager.GetLogger("File");
+            try
+            {
+                string PRVID = Convert.ToString(e.CommandArgument);
+
+                if (e.CommandName == "EditRow")
+                {
+                    Response.Redirect("PreRegisterVisitors.aspx?mode=edit?id=" + PRVID);
+                }
+                if (e.CommandName == "DeleteRow")
+                {
+                    DeleteItem(PRVID);
+                }
+            }
+
+            catch (Exception ex)
+            {
+                logger.Info(ex.Message);
+            }
+        }
+        private void DeleteItem(string argPRVID)
+        {
+            log4net.ILog logger = log4net.LogManager.GetLogger("File");
+            try
+            {
+                if (!string.IsNullOrEmpty(argPRVID))
+                {
+                    dal.executesql("Update PreRegisteredVisits set IsDeleted=1 where PRVID=" + argPRVID);
+                    HttpContext.Current.Items.Add(ContextKeys.CTX_COMPLETE, "DELETE");
+                    Server.Transfer("../SMSAdmin/AlertUpdateComplete.aspx");
+                }
+            }
+            catch (Exception ex)
+            {
+                logger.Info(ex.Message);
+            }
+        }
+
+        protected void gvPreRegisteredVisits_RowDataBound(object sender, GridViewRowEventArgs e)
+        {
+            log4net.ILog logger = log4net.LogManager.GetLogger("File");
+            try
+            {
+                if (e.Row.RowType == DataControlRowType.DataRow)
+                {
+                    ImageButton Delete = (ImageButton)e.Row.FindControl("btnDelete");
+                    Delete.Attributes.Add("onclick", "javascript:return " +
+                        "confirm('Are you sure to delete this record?')");
+                }
+            }
+
+            catch (Exception ex)
+            {
+                logger.Info(ex.Message);
+            }
+        }
+
+        private void BindGrid()
+        {
+            log4net.ILog logger = log4net.LogManager.GetLogger("File");
+            try
+            {
+                SqlParameter[] para = new SqlParameter[1];
+                para[0] = new SqlParameter("@LocationID", int.Parse(Session["LCID"].ToString()));
+                DataTable dt = dal.executeprocedure("usp_GetPRVByLocation", para, true);
+                gvPreRegisteredVisits.DataSource = dt;
+                gvPreRegisteredVisits.DataBind();
+            }
+            catch (Exception ex)
+            {
+                logger.Info(ex.Message);
+            }
+        }
+
+        private void BindGridWithFilter()
+        {
+            log4net.ILog logger = log4net.LogManager.GetLogger("File");
+            try
+            {
+                SqlParameter[] para = new SqlParameter[5];
+                para[0] = new SqlParameter("@LocationID", int.Parse(Session["LCID"].ToString()));
+                para[1] = new SqlParameter("@FromDate", (txtdatefrom.Text == "" ? "null" : DateTime.ParseExact(txtdatefrom.Text,"MM/dd/yyyy",null).ToString()));
+                para[2] = new SqlParameter("@ToDate", (txtdateto.Text == "" ? "null" : DateTime.ParseExact(txtdateto.Text,"MM/dd/yyyy",null).ToString()));
+                para[3] = new SqlParameter("@ExpectedTime", txtExpectedTime.Text);
+                para[4] = new SqlParameter("@Visitors", int.Parse(txtVisitors.Text));
+                DataTable dt = dal.executeprocedure("usp_GetFilteredPRV", para, true);
+                gvPreRegisteredVisits.DataSource = dt;
+                gvPreRegisteredVisits.DataBind();
+            }
+            catch (Exception ex)
+            {
+                logger.Info(ex.Message);
+            }
+        }
+
+        protected void btnClearLocationAdd_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void btnSearchKeyAdd_Click(object sender, EventArgs e)
+        {
+            BindGridWithFilter();
+        }
+
+        protected void btnClearKeyAdd_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void btnNewBTable_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("PreRegistereVisitors.aspx");
+        }
+    }
+}

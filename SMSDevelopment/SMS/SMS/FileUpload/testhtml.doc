@@ -1,0 +1,363 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	Welcome to Triple,S Secure
+</title><link href="../../Styles/StyleSheet1.css" rel="stylesheet" type="text/css" /><link href="../../Styles/StyleSheet2.css" rel="Stylesheet" type="text/css" /><link href="../../Styles/calander.css" rel="Stylesheet" type="text/css" /><link href="../../Styles/StyleSheet2.css" rel="Stylesheet" type="text/css" /><link href="../../Styles/calander.css" rel="Stylesheet" type="text/css" /><link href="../../Styles/StyleSheet3.css" rel="Stylesheet" type="text/css" /><link href="../../Styles/menucss.css" type="text/css" rel="Stylesheet" /><link href="/WebResource.axd?d=8XxFlRJN13Bkbd5dAsSXIim_HI8vy3va7JPw44CODWXEW7u6T1GTIpnj4Mmrb5kg-OENA6ALRllc8f1v3hhiC-dUsNg-vUSXbZmgKz0PMCisRjhxCqd05aHmKZu9PXm2vEJdDHOTgp54GwaatIXekA2&amp;t=634571077180000000" type="text/css" rel="stylesheet" /><link href="/WebResource.axd?d=bW9Mg7Vdx9oH7KccLtgoirvzOo777HCRW7s9WNVCz8vWgaAkhukS7dkFBNRzgJwS0frmD8JnRBaVn-LgbBeqQdwwn7u6iB6jsbsQVOnN2pYzbXmtG_iI1eVaCMKYreqWxlAiKWV8CtV9GKeCF6UcFA2&amp;t=634732112200000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=2RaJGfb5ludVfLZaPawhnKT8TXkpUqubM2FORSQzwNvmUK9bL8lq_QjQ_k3k9kKqSH4bBe78s0Ix4QREZEVwISs3qVWTxXLus9SQ90iaAdpkCqo8WojwJo6CprXAv2PgdpOWWqUfuZ9BV_QQkU1OewamXkdKkn5NsH9pyIJCn3Y1&amp;t=634732112200000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body id="homepage">
+<div id="header">      
+<img src="../../Images/Untitled.png" alt="D-SYS Data Solution" class="logo" />
+<img src="../../Images/spasecure_logo.png" align="" class="logo2" alt="SPA Secure"/>
+
+    
+
+ 
+<table align="left" class="tabl">
+<tr><td><div class="hovermenu" style="width:3em;">
+<ul>
+<li>  <a title="Go To Homepage" id="a1" href="../../master/login.aspx?t=#"  title="" style="color:White; font-family; Verdana, Arial; font-size:1.2em; font-weight:20em;text-decoration: none">Home</a>
+</li>
+</ul>
+</div></td><td><div class="hovermenu">
+<ul>
+<li>  <a href="../master/login3.aspx" id="alogout"  title="logout" style="color:White; font-family:Verdana, Arial; font-size:1.2em; font-weight:20em;text-decoration: none;">Logout</a>
+</li>
+</ul></div></td><td><div class="hovermenu">
+<ul>
+<li>  <a href="../ADMIN/profile_viewreport.aspx" id="a2" title="view profile" style="color:White; font-family:Verdana, Arial; font-size:1.2em; font-weight:20em;text-decoration: none">Profile</a>
+</li>
+</ul>
+</div></td></tr>
+</table> 
+
+</div> 
+<br /> 
+    <!-- Top Breadcrumb Start -->
+    <!--<div id="breadcrumb"></div>-->
+    
+
+     
+
+
+ <form name="aspnetForm" method="post" action="AlertReport.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="ctl00_radScript_TSM" id="ctl00_radScript_TSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINjQ3MzcwNzYPZBYCZg9kFgICBQ9kFgoCAQ8PFgIeCEltYWdlVXJsBR9+XEFkbWluXEltYWdlc1w1ZmRkMDkyMmQ5M2IuanBnZGQCAw8PFgIeBFRleHQFBkRlZXBha2RkAgcPZBYCZg8UKwACDxYIHgtfIURhdGFCb3VuZGcfAQUHRGVmYXVsdB4TY2FjaGVkU2VsZWN0ZWRWYWx1ZWQeB1Zpc2libGVoZA8UKwAOFCsAAg8WBh8BBQVCbGFjax4FVmFsdWUFBUJsYWNrHghTZWxlY3RlZGhkZBQrAAIPFgYfAQUHRGVmYXVsdB8FBQdEZWZhdWx0HwZnZGQUKwACDxYGHwEFBkZvcmVzdB8FBQZGb3Jlc3QfBmhkZBQrAAIPFgYfAQUDSGF5HwUFA0hheR8GaGRkFCsAAg8WBh8BBQpPZmZpY2UyMDA3HwUFCk9mZmljZTIwMDcfBmhkZBQrAAIPFgYfAQUHT3V0bG9vax8FBQdPdXRsb29rHwZoZGQUKwACDxYGHwEFBlNpbXBsZR8FBQZTaW1wbGUfBmhkZBQrAAIPFgYfAQUKU2l0ZWZpbml0eR8FBQpTaXRlZmluaXR5HwZoZGQUKwACDxYGHwEFBlN1bnNldB8FBQZTdW5zZXQfBmhkZBQrAAIPFgYfAQUHVGVsZXJpax8FBQdUZWxlcmlrHwZoZGQUKwACDxYGHwEFBVZpc3RhHwUFBVZpc3RhHwZoZGQUKwACDxYGHwEFBVdlYjIwHwUFBVdlYjIwHwZoZGQUKwACDxYGHwEFB1dlYkJsdWUfBQUHV2ViQmx1ZR8GaGRkFCsAAg8WBh8BBQhXaW5kb3dzNx8FBQhXaW5kb3dzNx8GaGRkDxQrAQ5mZmZmZmZmZmZmZmZmZhYBBXhUZWxlcmlrLldlYi5VSS5SYWRDb21ib0JveEl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTAuMy4xMTA5LjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQWIGYPDxYEHghDc3NDbGFzcwUJcmNiSGVhZGVyHgRfIVNCAgJkZAIBDw8WBB8HBQlyY2JGb290ZXIfCAICZGQCAg8PFgYfAQUFQmxhY2sfBQUFQmxhY2sfBmhkZAIDDw8WBh8BBQdEZWZhdWx0HwUFB0RlZmF1bHQfBmdkZAIEDw8WBh8BBQZGb3Jlc3QfBQUGRm9yZXN0HwZoZGQCBQ8PFgYfAQUDSGF5HwUFA0hheR8GaGRkAgYPDxYGHwEFCk9mZmljZTIwMDcfBQUKT2ZmaWNlMjAwNx8GaGRkAgcPDxYGHwEFB091dGxvb2sfBQUHT3V0bG9vax8GaGRkAggPDxYGHwEFBlNpbXBsZR8FBQZTaW1wbGUfBmhkZAIJDw8WBh8BBQpTaXRlZmluaXR5HwUFClNpdGVmaW5pdHkfBmhkZAIKDw8WBh8BBQZTdW5zZXQfBQUGU3Vuc2V0HwZoZGQCCw8PFgYfAQUHVGVsZXJpax8FBQdUZWxlcmlrHwZoZGQCDA8PFgYfAQUFVmlzdGEfBQUFVmlzdGEfBmhkZAINDw8WBh8BBQVXZWIyMB8FBQVXZWIyMB8GaGRkAg4PDxYGHwEFB1dlYkJsdWUfBQUHV2ViQmx1ZR8GaGRkAg8PDxYGHwEFCFdpbmRvd3M3HwUFCFdpbmRvd3M3HwZoZGQCCQ9kFgICAQ8UKwACFCsAAg8WDB4LRGF0YUZpZWxkSUQFAklEHhdFbmFibGVBamF4U2tpblJlbmRlcmluZ2geDURhdGFUZXh0RmllbGQFC0Rpc3BsYXlUZXh0HwJnHhFEYXRhRmllbGRQYXJlbnRJRAUIUGFyZW50SWQeFERhdGFOYXZpZ2F0ZVVybEZpZWxkBQtOYXZpZ2F0ZVVybGQPFCsAFBQrAAIPFgQfAQUHUmVwb3J0cx4LTmF2aWdhdGVVcmxlFgIeBXN0eWxlBQ5jdXJzb3I6cG9pbnRlchAWBGYCAQICAgMWBBQrAAIPFgQfAQUOQ3VycmVudCBSZXBvcnQfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchAWCmYCAQICAgMCBAIFAgYCBwIIAgkWChQrAAIPFgQfAQUPQ2hlY2sgSW4gUmVwb3J0Hw4FPn4vU01TVXNlcnMvUmVwb3J0cy9BdHRlbmRhbmNlUmVwb3J0LmFzcHg/YWN0aW9uPWNoZWNraW4mY3Vycj0wZGQUKwACDxYEHwEFEENoZWNrIE91dCBSZXBvcnQfDgU3fi9TTVNVc2Vycy9SZXBvcnRzL0F0dGVuZGFuY2VSZXBvcnQuYXNweD9hY3Rpb249Y2hlY2tpbmRkFCsAAg8WBB8BBQ9JbmNpZGVudCBSZXBvcnQfDgUmfi9TTVNVc2Vycy9SZXBvcnRzL0luY2lkZW50UmVwb3J0LmFzcHhkZBQrAAIPFgQfAQUNQWxlcnRzIFJlcG9ydB8OBSN+L1NNU1VzZXJzL1JlcG9ydHMvQWxlcnRSZXBvcnQuYXNweGRkFCsAAg8WBB8BBQtPY2N1cnJlbmNlIB8OBSp+L1NNU1VzZXJzL1JlcG9ydHMvRGlnaXRhbERhaXJ5UmVwb3J0LmFzcHhkZBQrAAIPFgQfAQUOVmlzaXRvciBSZXBvcnQfDgUlfi9TTVNVc2Vycy9SZXBvcnRzL1Zpc2l0b3JSZXBvcnQuYXNweGRkFCsAAg8WBB8BBQtDb250cmFjdG9yIB8OBSh+L1NNU1VzZXJzL1JlcG9ydHMvQ29udHJhY3RvclJlcG9ydC5hc3B4ZGQUKwACDxYEHwEFDEV2ZW50IFJlcG9ydB8OBSN+L1NNU1VzZXJzL1JlcG9ydHMvRXZlbnRyZXBvcnQuYXNweGRkFCsAAg8WBB8BBRBJbnZlbnRvcnkgUmVwb3J0Hw4FIn4vU01TVVNlcnMvUmVwb3J0cy9JdGVtUmVwb3J0LmFzcHhkZBQrAAIPFgQfAQUJTG9zdEZvdW5kHw4FJ34vU01TVXNlcnMvUmVwb3J0cy9Mb3N0Rm91bnRSZXBvcnQuYXNweGRkDxYKZmZmZmZmZmZmZhYBBXRUZWxlcmlrLldlYi5VSS5SYWRNZW51SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAxMC4zLjExMDkuNDAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBQrAAIPFgQfAQUMUGFzdCBSZXBvcnRzHw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIQFgpmAgECAgIDAgQCBQIGAgcCCAIJFgoUKwACDxYEHwEFD0NoZWNrIEluIFJlcG9ydB8OBTZ+L1NNU1VzZXJzL0F0dGVuZGFuY2VSZXBvcnQuYXNweD9hY3Rpb249Y2hlY2tpbiZjdXJyPTBkZBQrAAIPFgQfAQUQQ2hlY2sgT3V0IFJlcG9ydB8OBS9+L1NNU1VzZXJzL0F0dGVuZGFuY2VSZXBvcnQuYXNweD9hY3Rpb249Y2hlY2tpbmRkFCsAAg8WBB8BBQ9JbmNpZGVudCBSZXBvcnQfDgUmfi9TTVNVc2Vycy9SZXBvcnRzL0luY2lkZW50UmVwb3J0LmFzcHhkZBQrAAIPFgQfAQUNQWxlcnRzIFJlcG9ydB8OBSN+L1NNU1VzZXJzL1JlcG9ydHMvQWxlcnRSZXBvcnQuYXNweGRkFCsAAg8WBB8BBQpPY2N1cnJlbmNlHw4FKn4vU01TVXNlcnMvUmVwb3J0cy9EaWdpdGFsRGFpcnlSZXBvcnQuYXNweGRkFCsAAg8WBB8BBQ5WaXNpdG9yIFJlcG9ydB8OBSV+L1NNU1VzZXJzL1JlcG9ydHMvVmlzaXRvclJlcG9ydC5hc3B4ZGQUKwACDxYEHwEFCkNvbnRyYWN0b3IfDgUofi9TTVNVc2Vycy9SZXBvcnRzL0NvbnRyYWN0b3JSZXBvcnQuYXNweGRkFCsAAg8WBB8BBQxFdmVudCBSZXBvcnQfDgUjfi9TTVNVc2Vycy9SZXBvcnRzL0V2ZW50cmVwb3J0LmFzcHhkZBQrAAIPFgQfAQUQSW52ZW50b3J5IFJlcG9ydB8OBSJ+L1NNU1VTZXJzL1JlcG9ydHMvSXRlbVJlcG9ydC5hc3B4ZGQUKwACDxYEHwEFCUxvc3RGb3VuZB8OBSd+L1NNU1VzZXJzL1JlcG9ydHMvTG9zdEZvdW50UmVwb3J0LmFzcHhkZA8WCmZmZmZmZmZmZmYWAQV0VGVsZXJpay5XZWIuVUkuUmFkTWVudUl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTAuMy4xMTA5LjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwACDxYEHwEFDEFmdGVyQWN0aW9uMR8OBSt+L1N1cGVyVmlzb3IvQWZ0ZXJBY3Rpb25SZXZpZXcyX01hc3Rlci5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBQxBZnRlckFjdGlvbiAfDgUjfi9TdXBlclZpc29yL0FmdGVyQWN0aW9uUmV2aWV3LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQPFgRmZmZmFgEFdFRlbGVyaWsuV2ViLlVJLlJhZE1lbnVJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDEwLjMuMTEwOS40MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAAg8WBB8BBRBFdmVudCBNYW5hZ2VtZW50Hw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIQFgFmFgEUKwACDxYEHwEFC1ZpZXcgRXZlbnRzHw4FHH4vU01TQWRtaW4vZXZlbnRwbGFubmVyLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQPFgFmFgEFdFRlbGVyaWsuV2ViLlVJLlJhZE1lbnVJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDEwLjMuMTEwOS40MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAAg8WBB8BBRBTaGlmdCBEZXBsb3ltZW50Hw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIQFgNmAgECAhYDFCsAAg8WBB8BBQ5Nb250aGx5IFJvc3Rlch8OBR1+L1NNU0FkbWluL01vbnRobHlSb3N0ZXIuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZBQrAAIPFgQfAQUNV2Vla2x5IFJvc3Rlch8OBRx+L1NNU0FkbWluL1dlZWtseVJvc3Rlci5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBQxEYWlseSBSb3N0ZXIfDgUbfi9TTVNBZG1pbi9EYWlseVJvc3Rlci5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkDxYDZmZmFgEFdFRlbGVyaWsuV2ViLlVJLlJhZE1lbnVJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDEwLjMuMTEwOS40MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAAg8WBB8BBRNMb2NhdGlvbiBNYW5hZ2VtZW50Hw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIQFgNmAgECAhYDFCsAAg8WBB8BBQ1QcmVzZW50IFNpdGVzHw4FGH4vQURNSU4vUHJlc2VudFNpdGUuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZBQrAAIPFgQfAQUMQWRkIE5ldyBTaXRlHw4FF34vQURNSU4vQWRkTmV3U2l0ZS5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBQpQYXN0IFNpdGVzHw4FFX4vQURNSU4vUGFzdFNpdGUuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZA8WA2ZmZhYBBXRUZWxlcmlrLldlYi5VSS5SYWRNZW51SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAxMC4zLjExMDkuNDAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBQrAAIPFgQfAQUQU3RhZmYgTWFuYWdlbWVudB8OZRYCHw8FDmN1cnNvcjpwb2ludGVyEBYFZgIBAgICAwIEFgUUKwACDxYEHwEFDVByZXNlbnQgU3RhZmYfDgUZfi9BRE1JTi9QcmVzZW50U3RhZmYuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZBQrAAIPFgQfAQUNQWRkIE5ldyBTdGFmZh8OBRh+L0FETUlOL0FkZE5ld1N0YWZmLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQUKwACDxYEHwEFClBhc3QgU3RhZmYfDgUWfi9BRE1JTi9QYXN0U3RhZmYuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZBQrAAIPFgQfAQUST2ZmLyBMZWF2ZSBTZXR0aW5nHw4FIX4vU3VwZXJWaXNvci9PZmZMZWF2ZVNldHRpbmcuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZBQrAAIPFgQfAQURRW1lcmdlbmN5IENvbnRhY3QfDgUrfi9TdXBlclZpc29yL0FkbWluTGlzdEVtZXJnZW5jeUNvbnRhY3QuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZA8WBWZmZmZmFgEFdFRlbGVyaWsuV2ViLlVJLlJhZE1lbnVJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDEwLjMuMTEwOS40MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAAg8WBB8BBQlJbnZlbnRvcnkfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchAWA2YCAQICFgMUKwACDxYEHwEFDlZpZXcgSW52ZW50b3J5Hw4FGn4vQURNSU4vQWRtaW5JbnZldG9yeS5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBQhBZGQgSXRlbR8OBR5+L0FETUlOL0FkZCBOZXcgSW52ZW50b3J5LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQUKwACDxYEHwEFDUludmVudG9yeSBPdXQfDgUffi9BRE1JTi9BZGROZXdJbnZlbnRvcnlPdXQuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZA8WA2ZmZhYBBXRUZWxlcmlrLldlYi5VSS5SYWRNZW51SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAxMC4zLjExMDkuNDAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBQrAAIPFgQfAQUXRGlnaXRhbCBPY2N1cnJlbmNlIEJvb2sfDgUcfi9TTVNVc2Vycy9EaWdpdGFsRGFpcnkuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZBQrAAIPFgQfAQUMVmlldyBSZXBvcnRzHw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIQFgdmAgECAgIDAgQCBQIGFgcUKwACDxYEHwEFHFZpZXcgUHJlLVJlZ2lzdGVyZWQgVmlzaXRvcnMfDgUnfi9DbGllbnQvVmlld1ByZVJlZ2lzdGVyZWRWaXNpdG9ycy5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBSBWaWV3IFN0YW5kYXJkIE9wZXJhdGluZyBQcm9jZWQuLh8OBRh+L1NNU0FkbWluL1NPUEFkbWluLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQUKwACDxYEHwEFC1ZpZXcgRXZlbnRzHw4FGX4vU01TQWRtaW4vRXZlbnRQbGFuLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQUKwACDxYEHwEFFFZpZXcgQ2xpZW50IERhdGFiYXNlHw4FIH4vU3VwZXJWaXNvci9DbGllbnREYXRhQmFzZS5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBRNWaWV3IFBlbmFsdHkgQ2xhdXNlHw4FIX4vU3VwZXJWaXNvci9QZW5hbHR5U2VjdXJpdHkuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZBQrAAIPFgQfAQUQUG9saWN5IFN0YXRlbWVudB8OBSF+L1N1cGVyVmlzb3IvUG9saWN5U3RhdGVtZW50LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQUKwACDxYEHwEFC1ZpZXcgQWxlcnRzHw4FIX4vU3VwZXJWaXNvci9BbGVydFJlcG9ydFZpZXcuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZA8WB2ZmZmZmZmYWAQV0VGVsZXJpay5XZWIuVUkuUmFkTWVudUl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTAuMy4xMTA5LjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwACDxYEHwEFBUFsZXJ0Hw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIQFgFmFgEUKwACDxYEHwEFC1ZpZXcgQWxlcnRzHw4FHH4vU3VwZXJWaXNvci9BZG1pbkFsZXJ0LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQPFgFmFgEFdFRlbGVyaWsuV2ViLlVJLlJhZE1lbnVJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDEwLjMuMTEwOS40MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAAg8WBB8BBQtNYWludGVuYW5jZR8OZRYCHw8FDmN1cnNvcjpwb2ludGVyEBYFZgIBAgICAwIEFgUUKwACDxYEHwEFC0tleSBNYW5hZ2VyHw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIQFgNmAgECAhYDFCsAAg8WBB8BBQtBZGQgTmV3IEtleR8OBRl+L1NNU0FkbWluL05ld0tleUFkZC5hc3B4ZGQUKwACDxYEHwEFCVZpZXcgS2V5cx8OBRl+L1NNU0FkbWluL0FkZE5ld0tleS5hc3B4ZGQUKwACDxYEHwEFDENoZWNrIEluIEtleR8OBRx+L1N1cGVyVmlzb3IvQ2hlY2tJbktleS5hc3B4ZGQPFgNmZmYWAQV0VGVsZXJpay5XZWIuVUkuUmFkTWVudUl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTAuMy4xMTA5LjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwACDxYEHwEFDFBhc3MgTWFuYWdlch8OZRYCHw8FDmN1cnNvcjpwb2ludGVyEBYCZgIBFgIUKwACDxYEHwEFDEFkZCBOZXcgUGFzcx8OBRx+L1N1cGVyVmlzb3IvQWRkTmV3UGFzcy5hc3B4ZGQUKwACDxYEHwEFC1ZpZXcgUGFzc2VzHw4FG34vU3VwZXJWaXNvci9BZG1pblBhc3MuYXNweGRkDxYCZmYWAQV0VGVsZXJpay5XZWIuVUkuUmFkTWVudUl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTAuMy4xMTA5LjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwACDxYEHwEFDEl0ZW0gTWFuYWdlch8OZRYCHw8FDmN1cnNvcjpwb2ludGVyEBYCZgIBFgIUKwACDxYEHwEFDkNoZWNrIE91dCBJdGVtHw4FHH4vU3VwZXJWaXNvci9BZGROZXdJdGVtLmFzcHhkZBQrAAIPFgQfAQUKVmlldyBJdGVtcx8OBR5+L1N1cGVyVmlzb3IvQWRtaW5BZGRJdGVtLmFzcHhkZA8WAmZmFgEFdFRlbGVyaWsuV2ViLlVJLlJhZE1lbnVJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDEwLjMuMTEwOS40MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAAg8WBB8BBQtTT1AgTWFuYWdlch8OZRYCHw8FDmN1cnNvcjpwb2ludGVyEBYCZgIBFgIUKwACDxYEHwEFC0FkZCBOZXcgU09QHw4FGX4vU01TQWRtaW4vTmV3U09QQWRkLmFzcHhkZBQrAAIPFgQfAQUJVmlldyBTT1BzHw4FGH4vU01TQWRtaW4vU09QQWRtaW4uYXNweGRkDxYCZmYWAQV0VGVsZXJpay5XZWIuVUkuUmFkTWVudUl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTAuMy4xMTA5LjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwACDxYEHwEFDkFsZXJ0ICBNYW5hZ2VyHw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIQFgFmFgEUKwACDxYEHwEFC1ZpZXcgQWxlcnRzHw4FHH4vU3VwZXJWaXNvci9BZG1pbkFsZXJ0LmFzcHhkZA8WAWYWAQV0VGVsZXJpay5XZWIuVUkuUmFkTWVudUl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTAuMy4xMTA5LjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQPFgVmZmZmZhYBBXRUZWxlcmlrLldlYi5VSS5SYWRNZW51SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAxMC4zLjExMDkuNDAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBQrAAIPFgQfAQUKRGFzaCBCb2FyZB8OBR5+L0NvbnRyb2xsZXIvRGFzaEJvYXJkTmV3LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQUKwACDxYEHwEFCUVtZXJnZW5jeR8OBSF+L1N1cGVyVmlzb3IvTGlzdEVtZXJnZW5jeU5vLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlchAWAmYCARYCFCsAAg8WBB8BBRRDcmVhdGVFdmFjdWF0aW9uUGxhbh8OBR9+L1NNU1VzZXJzL1JlY2VudENoZWNrZWRJbi5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBRBFbWVyZ2VuY3lDb250YWN0Hw4FIX4vU3VwZXJWaXNvci9MaXN0RW1lcmdlbmN5Tm8uYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZA8WAmZmFgEFdFRlbGVyaWsuV2ViLlVJLlJhZE1lbnVJdGVtLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDEwLjMuMTEwOS40MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FCsAAg8WBB8BBQRTT1AgHw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIQFgJmAgEWAhQrAAIPFgQfAQUHQWRkIFNPUB8OBRl+L1NNU0FkbWluL05ld1NPUEFkZC5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBQlWaWV3IFNPUHMfDgUYfi9TTVNBZG1pbi9TT1BBZG1pbi5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkDxYCZmYWAQV0VGVsZXJpay5XZWIuVUkuUmFkTWVudUl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTAuMy4xMTA5LjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwACDxYEHwEFEFNoaWZ0IE1hbmFnZW1lbnQfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchAWBGYCAQICAgMWBBQrAAIPFgQfAQUKVmlldyBTaGlmdB8OBRd+L0FETUlOL1ZpZXdTaGlmdHMuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZBQrAAIPFgQfAQUJQWRkIFNoaWZ0Hw4FFX4vQURNSU4vQWRkU2hpZnQuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZBQrAAIPFgQfAQUVQXNzaWduIExvY2F0aW9uIFNoaWZ0Hw4FI34vU01TQWRtaW4vQXNzaWduTG9jYXRpb25TaGlmdC5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBRVBc3NpZ24gU2l0ZXMgVG8gVXNlcnMfDgUkfi9PcGVyYXRpb25zL0Fzc2lnblNpdGVzVG9Vc2Vycy5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkDxYEZmZmZhYBBXRUZWxlcmlrLldlYi5VSS5SYWRNZW51SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAxMC4zLjExMDkuNDAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBQrAAIPFgQfAQUKUGVybWlzc2lvbh8OBR5+L21hc3Rlci9wZXJtaXNzaW9uLmFzcHg/aWQ9NDUWAh8PBQ5jdXJzb3I6cG9pbnRlcmQUKwACDxYEHwEFD0Fzc2lnbiBMb2NhdGlvbh8OBSR+L09wZXJhdGlvbnMvQXNzaWduU2l0ZXNUb1VzZXJzLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQUKwACDxYEHwEFHU1hc3RlciBQZXJzb25hbCBEaWdpdGFsIERpYXJ5Hw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIQFgJmAgEWAhQrAAIPFgQfAQUMQ2xpZW50IFZpc2l0Hw4FKX4vU3VwZXJWaXNvci9BZG1pbkNsaWVudFZpc2l0TWludXRlcy5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBQpTaXRlIFZpc2l0Hw4FJn4vU3VwZXJWaXNvci9BZG1pbkFzc2lnbm1lbnRfVmlzdC5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkDxYCZmYWAQV0VGVsZXJpay5XZWIuVUkuUmFkTWVudUl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTAuMy4xMTA5LjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQUKwACDxYEHwEFC0xvZyBTZXR0aW5nHw4FF34vQURNSU4vTG9nU2V0dGluZy5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBQ9BY2NvdW50IFNldHRpbmcfDgUbfi9BRE1JTi9DaGFuZ2VQYXNzd29yZC5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkFCsAAg8WBB8BBQpVcGxvYWRMb2dvHw4FEX4vVXBsb2FkTG9nby5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkDxQrARRmZmZmZmZmZmZmZmZmZmZmZmZmZhYBBXRUZWxlcmlrLldlYi5VSS5SYWRNZW51SXRlbSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAxMC4zLjExMDkuNDAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNGQWKGYPDxYEHwEFB1JlcG9ydHMfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYIZg8PFgQfAQUOQ3VycmVudCBSZXBvcnQfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYUZg8PFgQfAQUPQ2hlY2sgSW4gUmVwb3J0Hw4FPn4vU01TVXNlcnMvUmVwb3J0cy9BdHRlbmRhbmNlUmVwb3J0LmFzcHg/YWN0aW9uPWNoZWNraW4mY3Vycj0wZGQCAQ8PFgQfAQUQQ2hlY2sgT3V0IFJlcG9ydB8OBTd+L1NNU1VzZXJzL1JlcG9ydHMvQXR0ZW5kYW5jZVJlcG9ydC5hc3B4P2FjdGlvbj1jaGVja2luZGQCAg8PFgQfAQUPSW5jaWRlbnQgUmVwb3J0Hw4FJn4vU01TVXNlcnMvUmVwb3J0cy9JbmNpZGVudFJlcG9ydC5hc3B4ZGQCAw8PFgQfAQUNQWxlcnRzIFJlcG9ydB8OBSN+L1NNU1VzZXJzL1JlcG9ydHMvQWxlcnRSZXBvcnQuYXNweGRkAgQPDxYEHwEFC09jY3VycmVuY2UgHw4FKn4vU01TVXNlcnMvUmVwb3J0cy9EaWdpdGFsRGFpcnlSZXBvcnQuYXNweGRkAgUPDxYEHwEFDlZpc2l0b3IgUmVwb3J0Hw4FJX4vU01TVXNlcnMvUmVwb3J0cy9WaXNpdG9yUmVwb3J0LmFzcHhkZAIGDw8WBB8BBQtDb250cmFjdG9yIB8OBSh+L1NNU1VzZXJzL1JlcG9ydHMvQ29udHJhY3RvclJlcG9ydC5hc3B4ZGQCBw8PFgQfAQUMRXZlbnQgUmVwb3J0Hw4FI34vU01TVXNlcnMvUmVwb3J0cy9FdmVudHJlcG9ydC5hc3B4ZGQCCA8PFgQfAQUQSW52ZW50b3J5IFJlcG9ydB8OBSJ+L1NNU1VTZXJzL1JlcG9ydHMvSXRlbVJlcG9ydC5hc3B4ZGQCCQ8PFgQfAQUJTG9zdEZvdW5kHw4FJ34vU01TVXNlcnMvUmVwb3J0cy9Mb3N0Rm91bnRSZXBvcnQuYXNweGRkAgEPDxYEHwEFDFBhc3QgUmVwb3J0cx8OZRYCHw8FDmN1cnNvcjpwb2ludGVyFhRmDw8WBB8BBQ9DaGVjayBJbiBSZXBvcnQfDgU2fi9TTVNVc2Vycy9BdHRlbmRhbmNlUmVwb3J0LmFzcHg/YWN0aW9uPWNoZWNraW4mY3Vycj0wZGQCAQ8PFgQfAQUQQ2hlY2sgT3V0IFJlcG9ydB8OBS9+L1NNU1VzZXJzL0F0dGVuZGFuY2VSZXBvcnQuYXNweD9hY3Rpb249Y2hlY2tpbmRkAgIPDxYEHwEFD0luY2lkZW50IFJlcG9ydB8OBSZ+L1NNU1VzZXJzL1JlcG9ydHMvSW5jaWRlbnRSZXBvcnQuYXNweGRkAgMPDxYEHwEFDUFsZXJ0cyBSZXBvcnQfDgUjfi9TTVNVc2Vycy9SZXBvcnRzL0FsZXJ0UmVwb3J0LmFzcHhkZAIEDw8WBB8BBQpPY2N1cnJlbmNlHw4FKn4vU01TVXNlcnMvUmVwb3J0cy9EaWdpdGFsRGFpcnlSZXBvcnQuYXNweGRkAgUPDxYEHwEFDlZpc2l0b3IgUmVwb3J0Hw4FJX4vU01TVXNlcnMvUmVwb3J0cy9WaXNpdG9yUmVwb3J0LmFzcHhkZAIGDw8WBB8BBQpDb250cmFjdG9yHw4FKH4vU01TVXNlcnMvUmVwb3J0cy9Db250cmFjdG9yUmVwb3J0LmFzcHhkZAIHDw8WBB8BBQxFdmVudCBSZXBvcnQfDgUjfi9TTVNVc2Vycy9SZXBvcnRzL0V2ZW50cmVwb3J0LmFzcHhkZAIIDw8WBB8BBRBJbnZlbnRvcnkgUmVwb3J0Hw4FIn4vU01TVVNlcnMvUmVwb3J0cy9JdGVtUmVwb3J0LmFzcHhkZAIJDw8WBB8BBQlMb3N0Rm91bmQfDgUnfi9TTVNVc2Vycy9SZXBvcnRzL0xvc3RGb3VudFJlcG9ydC5hc3B4ZGQCAg8PFgQfAQUMQWZ0ZXJBY3Rpb24xHw4FK34vU3VwZXJWaXNvci9BZnRlckFjdGlvblJldmlldzJfTWFzdGVyLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCAw8PFgQfAQUMQWZ0ZXJBY3Rpb24gHw4FI34vU3VwZXJWaXNvci9BZnRlckFjdGlvblJldmlldy5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgEPDxYEHwEFEEV2ZW50IE1hbmFnZW1lbnQfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYCZg8PFgQfAQULVmlldyBFdmVudHMfDgUcfi9TTVNBZG1pbi9ldmVudHBsYW5uZXIuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZAICDw8WBB8BBRBTaGlmdCBEZXBsb3ltZW50Hw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIWBmYPDxYEHwEFDk1vbnRobHkgUm9zdGVyHw4FHX4vU01TQWRtaW4vTW9udGhseVJvc3Rlci5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgEPDxYEHwEFDVdlZWtseSBSb3N0ZXIfDgUcfi9TTVNBZG1pbi9XZWVrbHlSb3N0ZXIuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZAICDw8WBB8BBQxEYWlseSBSb3N0ZXIfDgUbfi9TTVNBZG1pbi9EYWlseVJvc3Rlci5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgMPDxYEHwEFE0xvY2F0aW9uIE1hbmFnZW1lbnQfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYGZg8PFgQfAQUNUHJlc2VudCBTaXRlcx8OBRh+L0FETUlOL1ByZXNlbnRTaXRlLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCAQ8PFgQfAQUMQWRkIE5ldyBTaXRlHw4FF34vQURNSU4vQWRkTmV3U2l0ZS5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgIPDxYEHwEFClBhc3QgU2l0ZXMfDgUVfi9BRE1JTi9QYXN0U2l0ZS5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgQPDxYEHwEFEFN0YWZmIE1hbmFnZW1lbnQfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYKZg8PFgQfAQUNUHJlc2VudCBTdGFmZh8OBRl+L0FETUlOL1ByZXNlbnRTdGFmZi5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgEPDxYEHwEFDUFkZCBOZXcgU3RhZmYfDgUYfi9BRE1JTi9BZGROZXdTdGFmZi5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgIPDxYEHwEFClBhc3QgU3RhZmYfDgUWfi9BRE1JTi9QYXN0U3RhZmYuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZAIDDw8WBB8BBRJPZmYvIExlYXZlIFNldHRpbmcfDgUhfi9TdXBlclZpc29yL09mZkxlYXZlU2V0dGluZy5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgQPDxYEHwEFEUVtZXJnZW5jeSBDb250YWN0Hw4FK34vU3VwZXJWaXNvci9BZG1pbkxpc3RFbWVyZ2VuY3lDb250YWN0LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCBQ8PFgQfAQUJSW52ZW50b3J5Hw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIWBmYPDxYEHwEFDlZpZXcgSW52ZW50b3J5Hw4FGn4vQURNSU4vQWRtaW5JbnZldG9yeS5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgEPDxYEHwEFCEFkZCBJdGVtHw4FHn4vQURNSU4vQWRkIE5ldyBJbnZlbnRvcnkuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZAICDw8WBB8BBQ1JbnZlbnRvcnkgT3V0Hw4FH34vQURNSU4vQWRkTmV3SW52ZW50b3J5T3V0LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCBg8PFgQfAQUXRGlnaXRhbCBPY2N1cnJlbmNlIEJvb2sfDgUcfi9TTVNVc2Vycy9EaWdpdGFsRGFpcnkuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZAIHDw8WBB8BBQxWaWV3IFJlcG9ydHMfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYOZg8PFgQfAQUcVmlldyBQcmUtUmVnaXN0ZXJlZCBWaXNpdG9ycx8OBSd+L0NsaWVudC9WaWV3UHJlUmVnaXN0ZXJlZFZpc2l0b3JzLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCAQ8PFgQfAQUgVmlldyBTdGFuZGFyZCBPcGVyYXRpbmcgUHJvY2VkLi4fDgUYfi9TTVNBZG1pbi9TT1BBZG1pbi5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgIPDxYEHwEFC1ZpZXcgRXZlbnRzHw4FGX4vU01TQWRtaW4vRXZlbnRQbGFuLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCAw8PFgQfAQUUVmlldyBDbGllbnQgRGF0YWJhc2UfDgUgfi9TdXBlclZpc29yL0NsaWVudERhdGFCYXNlLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCBA8PFgQfAQUTVmlldyBQZW5hbHR5IENsYXVzZR8OBSF+L1N1cGVyVmlzb3IvUGVuYWx0eVNlY3VyaXR5LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCBQ8PFgQfAQUQUG9saWN5IFN0YXRlbWVudB8OBSF+L1N1cGVyVmlzb3IvUG9saWN5U3RhdGVtZW50LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCBg8PFgQfAQULVmlldyBBbGVydHMfDgUhfi9TdXBlclZpc29yL0FsZXJ0UmVwb3J0Vmlldy5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAggPDxYEHwEFBUFsZXJ0Hw5lFgIfDwUOY3Vyc29yOnBvaW50ZXIWAmYPDxYEHwEFC1ZpZXcgQWxlcnRzHw4FHH4vU3VwZXJWaXNvci9BZG1pbkFsZXJ0LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCCQ8PFgQfAQULTWFpbnRlbmFuY2UfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYKZg8PFgQfAQULS2V5IE1hbmFnZXIfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYGZg8PFgQfAQULQWRkIE5ldyBLZXkfDgUZfi9TTVNBZG1pbi9OZXdLZXlBZGQuYXNweGRkAgEPDxYEHwEFCVZpZXcgS2V5cx8OBRl+L1NNU0FkbWluL0FkZE5ld0tleS5hc3B4ZGQCAg8PFgQfAQUMQ2hlY2sgSW4gS2V5Hw4FHH4vU3VwZXJWaXNvci9DaGVja0luS2V5LmFzcHhkZAIBDw8WBB8BBQxQYXNzIE1hbmFnZXIfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYEZg8PFgQfAQUMQWRkIE5ldyBQYXNzHw4FHH4vU3VwZXJWaXNvci9BZGROZXdQYXNzLmFzcHhkZAIBDw8WBB8BBQtWaWV3IFBhc3Nlcx8OBRt+L1N1cGVyVmlzb3IvQWRtaW5QYXNzLmFzcHhkZAICDw8WBB8BBQxJdGVtIE1hbmFnZXIfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYEZg8PFgQfAQUOQ2hlY2sgT3V0IEl0ZW0fDgUcfi9TdXBlclZpc29yL0FkZE5ld0l0ZW0uYXNweGRkAgEPDxYEHwEFClZpZXcgSXRlbXMfDgUefi9TdXBlclZpc29yL0FkbWluQWRkSXRlbS5hc3B4ZGQCAw8PFgQfAQULU09QIE1hbmFnZXIfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYEZg8PFgQfAQULQWRkIE5ldyBTT1AfDgUZfi9TTVNBZG1pbi9OZXdTT1BBZGQuYXNweGRkAgEPDxYEHwEFCVZpZXcgU09Qcx8OBRh+L1NNU0FkbWluL1NPUEFkbWluLmFzcHhkZAIEDw8WBB8BBQ5BbGVydCAgTWFuYWdlch8OZRYCHw8FDmN1cnNvcjpwb2ludGVyFgJmDw8WBB8BBQtWaWV3IEFsZXJ0cx8OBRx+L1N1cGVyVmlzb3IvQWRtaW5BbGVydC5hc3B4ZGQCCg8PFgQfAQUKRGFzaCBCb2FyZB8OBR5+L0NvbnRyb2xsZXIvRGFzaEJvYXJkTmV3LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCCw8PFgQfAQUJRW1lcmdlbmN5Hw4FIX4vU3VwZXJWaXNvci9MaXN0RW1lcmdlbmN5Tm8uYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyFgRmDw8WBB8BBRRDcmVhdGVFdmFjdWF0aW9uUGxhbh8OBR9+L1NNU1VzZXJzL1JlY2VudENoZWNrZWRJbi5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgEPDxYEHwEFEEVtZXJnZW5jeUNvbnRhY3QfDgUhfi9TdXBlclZpc29yL0xpc3RFbWVyZ2VuY3lOby5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgwPDxYEHwEFBFNPUCAfDmUWAh8PBQ5jdXJzb3I6cG9pbnRlchYEZg8PFgQfAQUHQWRkIFNPUB8OBRl+L1NNU0FkbWluL05ld1NPUEFkZC5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgEPDxYEHwEFCVZpZXcgU09Qcx8OBRh+L1NNU0FkbWluL1NPUEFkbWluLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCDQ8PFgQfAQUQU2hpZnQgTWFuYWdlbWVudB8OZRYCHw8FDmN1cnNvcjpwb2ludGVyFghmDw8WBB8BBQpWaWV3IFNoaWZ0Hw4FF34vQURNSU4vVmlld1NoaWZ0cy5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgEPDxYEHwEFCUFkZCBTaGlmdB8OBRV+L0FETUlOL0FkZFNoaWZ0LmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCAg8PFgQfAQUVQXNzaWduIExvY2F0aW9uIFNoaWZ0Hw4FI34vU01TQWRtaW4vQXNzaWduTG9jYXRpb25TaGlmdC5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAgMPDxYEHwEFFUFzc2lnbiBTaXRlcyBUbyBVc2Vycx8OBSR+L09wZXJhdGlvbnMvQXNzaWduU2l0ZXNUb1VzZXJzLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCDg8PFgQfAQUKUGVybWlzc2lvbh8OBR5+L21hc3Rlci9wZXJtaXNzaW9uLmFzcHg/aWQ9NDUWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCDw8PFgQfAQUPQXNzaWduIExvY2F0aW9uHw4FJH4vT3BlcmF0aW9ucy9Bc3NpZ25TaXRlc1RvVXNlcnMuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZAIQDw8WBB8BBR1NYXN0ZXIgUGVyc29uYWwgRGlnaXRhbCBEaWFyeR8OZRYCHw8FDmN1cnNvcjpwb2ludGVyFgRmDw8WBB8BBQxDbGllbnQgVmlzaXQfDgUpfi9TdXBlclZpc29yL0FkbWluQ2xpZW50VmlzaXRNaW51dGVzLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCAQ8PFgQfAQUKU2l0ZSBWaXNpdB8OBSZ+L1N1cGVyVmlzb3IvQWRtaW5Bc3NpZ25tZW50X1Zpc3QuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZAIRDw8WBB8BBQtMb2cgU2V0dGluZx8OBRd+L0FETUlOL0xvZ1NldHRpbmcuYXNweBYCHw8FDmN1cnNvcjpwb2ludGVyZAISDw8WBB8BBQ9BY2NvdW50IFNldHRpbmcfDgUbfi9BRE1JTi9DaGFuZ2VQYXNzd29yZC5hc3B4FgIfDwUOY3Vyc29yOnBvaW50ZXJkAhMPDxYEHwEFClVwbG9hZExvZ28fDgURfi9VcGxvYWRMb2dvLmFzcHgWAh8PBQ5jdXJzb3I6cG9pbnRlcmQCDQ9kFgICAQ9kFgQCAQ9kFgICAQ9kFgICAw8QZBAVBAEgBUQtc3lzBGdvbGUFcGFkYXYVBAEgBUQtc3lzBGdvbGUFcGFkYXYUKwMEZ2dnZ2RkAgMPPCsAEQIADxYGHghQYWdlU2l6ZQIKHwJnHgtfIUl0ZW1Db3VudGZkARAWABYAFgBkGAMFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBQ5jdGwwMCRyZERCTWVudQUpY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRpbWdCdG5Gcm9tRGF0ZTIFKWN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkaW1nQnRuRnJvbURhdGUzBShjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJGd2TG9jdGlvblRhYmxlDzwrAAwBCGZkBRFjdGwwMCRTa2luQ2hvb3Nlcg8UKwACBQdEZWZhdWx0BQdEZWZhdWx0ZDiIgX9JITwogBXrqN5RJ2fiA/6cux82NpHiHKspsY+i" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=_roB_s3PG-bhuj5XQTF1JhyuS4d2yy5N16y7MfK74KAezTjmPpCMi8zdp-BWZsbM8S8NibRlgdrpdh9RtXj4y3rCJ0wIsnP56ExuUgVy4AU1&amp;t=634732073509527500" type="text/javascript"></script>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_radScript_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.51116.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3afd384f95-1b49-47cf-9b47-2fa2a921a36a%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%2c+Version%3d2010.3.1109.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a30468509-1b07-456a-b5f4-bb35a9cae168%3ae330518b%3a16e4e7cd%3af7645509%3a24ee1bba%3a1e771326%3ac8618e41%3bAjaxControlToolkit%2c+Version%3d4.1.51116.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3afd384f95-1b49-47cf-9b47-2fa2a921a36a%3a923aa3cc%3a4f16cded%3a853c2e0b%3a46f97eb1%3a782b16ab%3a50114f04%3a29340eb0%3af5853050%3ae7edf47a" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWEQKGy/SzBgLWgYGHDAK4+86jCQKBofXhBgKc4duMBQLI/aWSCALS4MT8BALDld36CALvu5m6AQL7iMetBgLfz/D0BQL8iMetBgK1zc3VCAK35o+XAgKptbbPBALM6qb/DQK8rMnpB23WQArFwUBGOmxLcryXCI4TG8AYw8jy6vS7hnXLwr8f" />
+</div>
+
+
+
+<div id="leftside" style=" height:49.8em; width:17.25em">
+
+    <div class="user">
+        	<img id="ctl00_image1" class="hoverimg" src="../../Admin/Images/5fdd0922d93b.jpg" style="height:127px;width:110px;border-width:0px; margin-top:-.28em" />
+            <p style=" margin-left:8.1em; margin-top:1em">Welcome User:</p>
+            <p style=" margin-left:8.1em; margin-top:.9em"><span id="ctl00_nameLabel" style="width:70px;color: #fff; font-size: 13.4px; font-weight:700; letter-spacing: 0px; padding-bottom: 5px;">Deepak</span></p>
+             <!--<p class="userbtn" style=" margin-top:.5em; margin-left:6.1em"><a href="../ADMIN/profile_viewreport.aspx" title="">Profile</a></p>
+             <p class="userbtn" style=" margin-top:-1.56em; margin-left:10.8em"><a href="../../index.html"  title="">Log out</a></p>
+             <p class="userbtn" style=" margin-top:-6.9em; margin-left:8.2em"><a href="../../master/login.aspx?t=#"  title="">Home Page</a></p>
+             -->
+             </div>
+
+            <p></p>
+   
+    
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$radScript', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+            
+       <div id="ctl00_Panel1" style="top: 135px; left: 0px; position: absolute; height: 780px;width:18em">
+	
+    <div style="border:thin;width:18em;height:780px">
+            <div id="ctl00_rdDBMenu" class="RadMenu RadMenu_Default rmSized" GroupSettings-ExpandDirection="Down" style="color:#66CCFF;background-color:White;font-weight:bold;height:0px;width:6.95em;z-index:2;font-size:xx-large">
+		<!-- 2010.3.1109.40 --><ul class="rmRootGroup rmRoundedCorners rmShadows rmVertical">
+			<li class="rmItem rmFirst"><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Reports</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="#" class="rmLink" style="cursor:pointer"><span class="rmText">Current Report</span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel2">
+							<li class="rmItem rmFirst"><a href="AttendanceReport.aspx?action=checkin&amp;curr=0" class="rmLink"><span class="rmText">Check In Report</span></a></li><li class="rmItem "><a href="AttendanceReport.aspx?action=checkin" class="rmLink"><span class="rmText">Check Out Report</span></a></li><li class="rmItem "><a href="IncidentReport.aspx" class="rmLink"><span class="rmText">Incident Report</span></a></li><li class="rmItem "><a href="AlertReport.aspx" class="rmLink"><span class="rmText">Alerts Report</span></a></li><li class="rmItem "><a href="DigitalDairyReport.aspx" class="rmLink"><span class="rmText">Occurrence </span></a></li><li class="rmItem "><a href="VisitorReport.aspx" class="rmLink"><span class="rmText">Visitor Report</span></a></li><li class="rmItem "><a href="ContractorReport.aspx" class="rmLink"><span class="rmText">Contractor </span></a></li><li class="rmItem "><a href="Eventreport.aspx" class="rmLink"><span class="rmText">Event Report</span></a></li><li class="rmItem "><a href="ItemReport.aspx" class="rmLink"><span class="rmText">Inventory Report</span></a></li><li class="rmItem rmLast"><a href="LostFountReport.aspx" class="rmLink"><span class="rmText">LostFound</span></a></li>
+						</ul>
+					</div></li><li class="rmItem "><a href="#" class="rmLink" style="cursor:pointer"><span class="rmText">Past Reports</span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel2">
+							<li class="rmItem rmFirst"><a href="../AttendanceReport.aspx?action=checkin&amp;curr=0" class="rmLink"><span class="rmText">Check In Report</span></a></li><li class="rmItem "><a href="../AttendanceReport.aspx?action=checkin" class="rmLink"><span class="rmText">Check Out Report</span></a></li><li class="rmItem "><a href="IncidentReport.aspx" class="rmLink"><span class="rmText">Incident Report</span></a></li><li class="rmItem "><a href="AlertReport.aspx" class="rmLink"><span class="rmText">Alerts Report</span></a></li><li class="rmItem "><a href="DigitalDairyReport.aspx" class="rmLink"><span class="rmText">Occurrence</span></a></li><li class="rmItem "><a href="VisitorReport.aspx" class="rmLink"><span class="rmText">Visitor Report</span></a></li><li class="rmItem "><a href="ContractorReport.aspx" class="rmLink"><span class="rmText">Contractor</span></a></li><li class="rmItem "><a href="Eventreport.aspx" class="rmLink"><span class="rmText">Event Report</span></a></li><li class="rmItem "><a href="ItemReport.aspx" class="rmLink"><span class="rmText">Inventory Report</span></a></li><li class="rmItem rmLast"><a href="LostFountReport.aspx" class="rmLink"><span class="rmText">LostFound</span></a></li>
+						</ul>
+					</div></li><li class="rmItem "><a href="../../SuperVisor/AfterActionReview2_Master.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">AfterAction1</span></a></li><li class="rmItem rmLast"><a href="../../SuperVisor/AfterActionReview.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">AfterAction </span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Event Management</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst rmLast"><a href="../../SMSAdmin/eventplanner.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">View Events</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Shift Deployment</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="../../SMSAdmin/MonthlyRoster.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Monthly Roster</span></a></li><li class="rmItem "><a href="../../SMSAdmin/WeeklyRoster.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Weekly Roster</span></a></li><li class="rmItem rmLast"><a href="../../SMSAdmin/DailyRoster.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Daily Roster</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Location Management</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="../../ADMIN/PresentSite.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Present Sites</span></a></li><li class="rmItem "><a href="../../ADMIN/AddNewSite.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Add New Site</span></a></li><li class="rmItem rmLast"><a href="../../ADMIN/PastSite.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Past Sites</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Staff Management</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="../../ADMIN/PresentStaff.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Present Staff</span></a></li><li class="rmItem "><a href="../../ADMIN/AddNewStaff.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Add New Staff</span></a></li><li class="rmItem "><a href="../../ADMIN/PastStaff.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Past Staff</span></a></li><li class="rmItem "><a href="../../SuperVisor/OffLeaveSetting.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Off/ Leave Setting</span></a></li><li class="rmItem rmLast"><a href="../../SuperVisor/AdminListEmergencyContact.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Emergency Contact</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Inventory</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="../../ADMIN/AdminInvetory.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">View Inventory</span></a></li><li class="rmItem "><a href="../../ADMIN/Add%20New%20Inventory.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Add Item</span></a></li><li class="rmItem rmLast"><a href="../../ADMIN/AddNewInventoryOut.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Inventory Out</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="../DigitalDairy.aspx" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Digital Occurrence Book</span></a></li><li class="rmItem "><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">View Reports</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="../../Client/ViewPreRegisteredVisitors.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">View Pre-Registered Visitors</span></a></li><li class="rmItem "><a href="../../SMSAdmin/SOPAdmin.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">View Standard Operating Proced..</span></a></li><li class="rmItem "><a href="../../SMSAdmin/EventPlan.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">View Events</span></a></li><li class="rmItem "><a href="../../SuperVisor/ClientDataBase.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">View Client Database</span></a></li><li class="rmItem "><a href="../../SuperVisor/PenaltySecurity.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">View Penalty Clause</span></a></li><li class="rmItem "><a href="../../SuperVisor/PolicyStatement.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Policy Statement</span></a></li><li class="rmItem rmLast"><a href="../../SuperVisor/AlertReportView.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">View Alerts</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Alert</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst rmLast"><a href="../../SuperVisor/AdminAlert.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">View Alerts</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Maintenance</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="#" class="rmLink" style="cursor:pointer"><span class="rmText">Key Manager</span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel2">
+							<li class="rmItem rmFirst"><a href="../../SMSAdmin/NewKeyAdd.aspx" class="rmLink"><span class="rmText">Add New Key</span></a></li><li class="rmItem "><a href="../../SMSAdmin/AddNewKey.aspx" class="rmLink"><span class="rmText">View Keys</span></a></li><li class="rmItem rmLast"><a href="../../SuperVisor/CheckInKey.aspx" class="rmLink"><span class="rmText">Check In Key</span></a></li>
+						</ul>
+					</div></li><li class="rmItem "><a href="#" class="rmLink" style="cursor:pointer"><span class="rmText">Pass Manager</span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel2">
+							<li class="rmItem rmFirst"><a href="../../SuperVisor/AddNewPass.aspx" class="rmLink"><span class="rmText">Add New Pass</span></a></li><li class="rmItem rmLast"><a href="../../SuperVisor/AdminPass.aspx" class="rmLink"><span class="rmText">View Passes</span></a></li>
+						</ul>
+					</div></li><li class="rmItem "><a href="#" class="rmLink" style="cursor:pointer"><span class="rmText">Item Manager</span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel2">
+							<li class="rmItem rmFirst"><a href="../../SuperVisor/AddNewItem.aspx" class="rmLink"><span class="rmText">Check Out Item</span></a></li><li class="rmItem rmLast"><a href="../../SuperVisor/AdminAddItem.aspx" class="rmLink"><span class="rmText">View Items</span></a></li>
+						</ul>
+					</div></li><li class="rmItem "><a href="#" class="rmLink" style="cursor:pointer"><span class="rmText">SOP Manager</span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel2">
+							<li class="rmItem rmFirst"><a href="../../SMSAdmin/NewSOPAdd.aspx" class="rmLink"><span class="rmText">Add New SOP</span></a></li><li class="rmItem rmLast"><a href="../../SMSAdmin/SOPAdmin.aspx" class="rmLink"><span class="rmText">View SOPs</span></a></li>
+						</ul>
+					</div></li><li class="rmItem rmLast"><a href="#" class="rmLink" style="cursor:pointer"><span class="rmText">Alert  Manager</span></a><div class="rmSlide">
+						<ul class="rmVertical rmGroup rmLevel2">
+							<li class="rmItem rmFirst rmLast"><a href="../../SuperVisor/AdminAlert.aspx" class="rmLink"><span class="rmText">View Alerts</span></a></li>
+						</ul>
+					</div></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="../../Controller/DashBoardNew.aspx" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Dash Board</span></a></li><li class="rmItem "><a href="../../SuperVisor/ListEmergencyNo.aspx" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Emergency</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="../RecentCheckedIn.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">CreateEvacuationPlan</span></a></li><li class="rmItem rmLast"><a href="../../SuperVisor/ListEmergencyNo.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">EmergencyContact</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">SOP </span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="../../SMSAdmin/NewSOPAdd.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Add SOP</span></a></li><li class="rmItem rmLast"><a href="../../SMSAdmin/SOPAdmin.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">View SOPs</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Shift Management</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="../../ADMIN/ViewShifts.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">View Shift</span></a></li><li class="rmItem "><a href="../../ADMIN/AddShift.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Add Shift</span></a></li><li class="rmItem "><a href="../../SMSAdmin/AssignLocationShift.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Assign Location Shift</span></a></li><li class="rmItem rmLast"><a href="../../Operations/AssignSitesToUsers.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Assign Sites To Users</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="../../master/permission.aspx?id=45" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Permission</span></a></li><li class="rmItem "><a href="../../Operations/AssignSitesToUsers.aspx" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Assign Location</span></a></li><li class="rmItem "><a href="#" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Master Personal Digital Diary</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a href="../../SuperVisor/AdminClientVisitMinutes.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Client Visit</span></a></li><li class="rmItem rmLast"><a href="../../SuperVisor/AdminAssignment_Vist.aspx" class="rmLink" style="cursor:pointer"><span class="rmText">Site Visit</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a href="../../ADMIN/LogSetting.aspx" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Log Setting</span></a></li><li class="rmItem "><a href="../../ADMIN/ChangePassword.aspx" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">Account Setting</span></a></li><li class="rmItem rmLast"><a href="../../UploadLogo.aspx" class="rmLink rmRootLink" style="cursor:pointer"><span class="rmText">UploadLogo</span></a></li>
+		</ul><script type="text/javascript">
+			Telerik.Web.UI.RadMenu._adjustRootItemWidth("ctl00_rdDBMenu");
+		</script><input id="ctl00_rdDBMenu_ClientState" name="ctl00_rdDBMenu_ClientState" type="hidden" />
+	</div>
+        </div>
+
+    
+</div>
+
+        </div>
+        
+    <!--</div>-->
+
+
+
+        <!--<a id="ctl00_HyperLink1" href="../../permission.aspx" style="overflow: auto; top: 30px; left: 18px; position: absolute; height: 22px; width: 97px">permission</a>-->
+
+    
+    
+    <div id="ctl00_Panel2" style="top: 167px; left: 231px; position: absolute; height: 200px; width: 470px">
+	
+    
+<div class="divContainer">
+        <div class="divHeader">
+            <span class="pageTitle">Alert Report</span></div>       
+                    <div id="ctl00_ContentPlaceHolder1_divAdvSearch">
+                        <br />
+                         <div id="ctl00_ContentPlaceHolder1_Pnl" style="background-color:White;font-weight:bold;width:880px; margin-left:1.5em; margin-top: 0px;">
+		
+                                        <table width="100%" class="table">                                        
+                                              <tr>
+                                                    <td>
+                                                         <span id="ctl00_ContentPlaceHolder1_lblLocation" class="Labels">Location</span>
+                                                    </td>
+                                                    <td>
+                                                         <select name="ctl00$ContentPlaceHolder1$ddllocation" id="ctl00_ContentPlaceHolder1_ddllocation" class="Labels" class="Label2">
+			<option selected="selected" value=" "> </option>
+			<option value="D-sys">D-sys</option>
+			<option value="gole">gole</option>
+			<option value="padav">padav</option>
+
+		</select>                                                    
+                                                         
+                                                    </td>                                                              
+                                                    <td>
+                                                    <span id="ctl00_ContentPlaceHolder1_lblAlertType" class="Labels">Alert Type</span>
+                                                  </td>
+                                                  <td>
+                                                    <select name="ctl00$ContentPlaceHolder1$ddlAlertType" id="ctl00_ContentPlaceHolder1_ddlAlertType" class="Labels" class="Label2">
+			<option selected="selected" value=""></option>
+			<option value="Person Alert">Person Alert</option>
+			<option value="Vehicle Alert">Vehicle Alert</option>
+
+		</select>
+                                                </td>
+                                        </tr>
+                                        <tr>        
+                                                <td>
+                                                    <span id="ctl00_ContentPlaceHolder1_lbldatefrom" class="Labels">Date:  From</span>
+                                                </td>
+                                                   <td>
+                                                    <input name="ctl00$ContentPlaceHolder1$txtdatefrom" type="text" id="ctl00_ContentPlaceHolder1_txtdatefrom" class="Input" />
+                                                        
+                                                     
+                                                     <input type="image" name="ctl00$ContentPlaceHolder1$imgBtnFromDate2" id="ctl00_ContentPlaceHolder1_imgBtnFromDate2" class="calender" src="../../Images/calendar.bmp" align="absmiddle" style="border-width:0px;" />
+                                               </td>
+                                                
+                                               <td>
+                                                        <span id="ctl00_ContentPlaceHolder1_lbldateto" class="Labels">To</span>
+                                                </td>
+                                                 <td>
+                                                        <input name="ctl00$ContentPlaceHolder1$txtdateto" type="text" id="ctl00_ContentPlaceHolder1_txtdateto" class="Input" />
+                                                                
+                                                        
+                                                         <input type="image" name="ctl00$ContentPlaceHolder1$imgBtnFromDate3" id="ctl00_ContentPlaceHolder1_imgBtnFromDate3" class="calender" src="../../Images/calendar.bmp" align="absmiddle" style="border-width:0px;" />
+                                                </td>
+                                            </tr>
+                                            <tr><td height="50px"></td>                                            
+                                            </tr>
+                                            </table>
+                                            
+	</div>     
+                                            <table  width="101%" style="margin-left:1em; margin-bottom:-0.4em;border:1px;border-style:groove; border-color:Black; background-color:Gray ">
+
+
+                                            <tr>
+                                                <td colspan="4" align="center" style="width: 897px">
+                                                    <input type="submit" name="ctl00$ContentPlaceHolder1$btnSearchAdminAlert" value="Search" id="ctl00_ContentPlaceHolder1_btnSearchAdminAlert" class="Buttons" style="width:85px;" />
+                                                         &nbsp;&nbsp;&nbsp;&nbsp; 
+                                                    <input type="submit" name="ctl00$ContentPlaceHolder1$btnClearAdminAlert" value="Clear" id="ctl00_ContentPlaceHolder1_btnClearAdminAlert" class="Buttons" style="width:85px;" />
+                                                </td>
+                                            </tr>
+                                            </table>
+                                        
+                                                          
+                    </div>
+                <br/>
+              <!--<div style="overflow: auto">-->
+                    <div>
+		<table class="GridMain2" cellspacing="0" cellpadding="5" rules="all" border="1" id="ctl00_ContentPlaceHolder1_gvLoctionTable" style="width:100%;border-collapse:collapse;">
+			<tr class="NoRecords">
+				<td colspan="6">
+                            <span id="ctl00_ContentPlaceHolder1_gvLoctionTable_ctl01_lblNoRecords">no record(s) in the system.</span>                            
+                        </td>
+			</tr>
+		</table>
+	</div>
+         <!--</div>-->
+  <br />
+  <br />
+     
+    
+
+    <div id="ctl00_ContentPlaceHolder1_Pnl5" style="background-color:White;font-weight:bold;width:880px; margin-left:1.5em; margin-top: 0px;">
+		
+          <table width="100%" class="table">               
+               <tr>
+                   <td style="width: 121px">
+                        <span id="ctl00_ContentPlaceHolder1_exportto" class="Labels" style="color:#000099;font-weight:bold;">Export To :</span>
+                   </td>
+                   <td>
+                        <select name="ctl00$ContentPlaceHolder1$DropDownList1" id="ctl00_ContentPlaceHolder1_DropDownList1" class="Labels" style="color:#000099;height:24px;width:79px;">
+			<option value="Pdf">Pdf</option>
+			<option selected="selected" value="Word">Word</option>
+
+		</select>
+                   &nbsp;&nbsp;
+                        <input type="submit" name="ctl00$ContentPlaceHolder1$btnGo" value="Go" id="ctl00_ContentPlaceHolder1_btnGo" class="Buttons" style="width:60px;" />          
+                    </td>
+                    <td>
+                        
+                    </td>
+                    <td>
+                        
+                    </td>
+                </tr>
+            </table>
+             
+	</div>   
+    
+    <br/>
+ </div> 
+
+    
+</div>
+    <!-------------------------------------------------------------------->
+
+
+
+
+
+    <!---------------------------------------------------------------------->
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_flow":0,"_postBackReference":"__doPostBack(\u0027ctl00$rdDBMenu\u0027,\u0027arguments\u0027)","_skin":"Default","attributes":{"GroupSettings-ExpandDirection":"Down"},"clientStateFieldID":"ctl00_rdDBMenu_ClientState","collapseAnimation":"{\"duration\":450}","defaultGroupSettings":"{\"expandDirection\":2}","enableAutoScroll":true,"enableRoundedCorners":true,"enableShadows":true,"expandAnimation":"{\"type\":4,\"duration\":450}","expandDelay":500,"itemData":[{"items":[{"items":[{"navigateUrl":"~/SMSUsers/Reports/AttendanceReport.aspx?action=checkin&curr=0"},{"navigateUrl":"~/SMSUsers/Reports/AttendanceReport.aspx?action=checkin"},{"navigateUrl":"~/SMSUsers/Reports/IncidentReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/AlertReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/DigitalDairyReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/VisitorReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/ContractorReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/Eventreport.aspx"},{"navigateUrl":"~/SMSUSers/Reports/ItemReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/LostFountReport.aspx"}]},{"items":[{"navigateUrl":"~/SMSUsers/AttendanceReport.aspx?action=checkin&curr=0"},{"navigateUrl":"~/SMSUsers/AttendanceReport.aspx?action=checkin"},{"navigateUrl":"~/SMSUsers/Reports/IncidentReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/AlertReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/DigitalDairyReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/VisitorReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/ContractorReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/Eventreport.aspx"},{"navigateUrl":"~/SMSUSers/Reports/ItemReport.aspx"},{"navigateUrl":"~/SMSUsers/Reports/LostFountReport.aspx"}]},{"navigateUrl":"~/SuperVisor/AfterActionReview2_Master.aspx"},{"navigateUrl":"~/SuperVisor/AfterActionReview.aspx"}]},{"items":[{"navigateUrl":"~/SMSAdmin/eventplanner.aspx"}]},{"items":[{"navigateUrl":"~/SMSAdmin/MonthlyRoster.aspx"},{"navigateUrl":"~/SMSAdmin/WeeklyRoster.aspx"},{"navigateUrl":"~/SMSAdmin/DailyRoster.aspx"}]},{"items":[{"navigateUrl":"~/ADMIN/PresentSite.aspx"},{"navigateUrl":"~/ADMIN/AddNewSite.aspx"},{"navigateUrl":"~/ADMIN/PastSite.aspx"}]},{"items":[{"navigateUrl":"~/ADMIN/PresentStaff.aspx"},{"navigateUrl":"~/ADMIN/AddNewStaff.aspx"},{"navigateUrl":"~/ADMIN/PastStaff.aspx"},{"navigateUrl":"~/SuperVisor/OffLeaveSetting.aspx"},{"navigateUrl":"~/SuperVisor/AdminListEmergencyContact.aspx"}]},{"items":[{"navigateUrl":"~/ADMIN/AdminInvetory.aspx"},{"navigateUrl":"~/ADMIN/Add New Inventory.aspx"},{"navigateUrl":"~/ADMIN/AddNewInventoryOut.aspx"}]},{"navigateUrl":"~/SMSUsers/DigitalDairy.aspx"},{"items":[{"navigateUrl":"~/Client/ViewPreRegisteredVisitors.aspx"},{"navigateUrl":"~/SMSAdmin/SOPAdmin.aspx"},{"navigateUrl":"~/SMSAdmin/EventPlan.aspx"},{"navigateUrl":"~/SuperVisor/ClientDataBase.aspx"},{"navigateUrl":"~/SuperVisor/PenaltySecurity.aspx"},{"navigateUrl":"~/SuperVisor/PolicyStatement.aspx"},{"navigateUrl":"~/SuperVisor/AlertReportView.aspx"}]},{"items":[{"navigateUrl":"~/SuperVisor/AdminAlert.aspx"}]},{"items":[{"items":[{"navigateUrl":"~/SMSAdmin/NewKeyAdd.aspx"},{"navigateUrl":"~/SMSAdmin/AddNewKey.aspx"},{"navigateUrl":"~/SuperVisor/CheckInKey.aspx"}]},{"items":[{"navigateUrl":"~/SuperVisor/AddNewPass.aspx"},{"navigateUrl":"~/SuperVisor/AdminPass.aspx"}]},{"items":[{"navigateUrl":"~/SuperVisor/AddNewItem.aspx"},{"navigateUrl":"~/SuperVisor/AdminAddItem.aspx"}]},{"items":[{"navigateUrl":"~/SMSAdmin/NewSOPAdd.aspx"},{"navigateUrl":"~/SMSAdmin/SOPAdmin.aspx"}]},{"items":[{"navigateUrl":"~/SuperVisor/AdminAlert.aspx"}]}]},{"navigateUrl":"~/Controller/DashBoardNew.aspx"},{"items":[{"navigateUrl":"~/SMSUsers/RecentCheckedIn.aspx"},{"navigateUrl":"~/SuperVisor/ListEmergencyNo.aspx"}],"navigateUrl":"~/SuperVisor/ListEmergencyNo.aspx"},{"items":[{"navigateUrl":"~/SMSAdmin/NewSOPAdd.aspx"},{"navigateUrl":"~/SMSAdmin/SOPAdmin.aspx"}]},{"items":[{"navigateUrl":"~/ADMIN/ViewShifts.aspx"},{"navigateUrl":"~/ADMIN/AddShift.aspx"},{"navigateUrl":"~/SMSAdmin/AssignLocationShift.aspx"},{"navigateUrl":"~/Operations/AssignSitesToUsers.aspx"}]},{"navigateUrl":"~/master/permission.aspx?id=45"},{"navigateUrl":"~/Operations/AssignSitesToUsers.aspx"},{"items":[{"navigateUrl":"~/SuperVisor/AdminClientVisitMinutes.aspx"},{"navigateUrl":"~/SuperVisor/AdminAssignment_Vist.aspx"}]},{"navigateUrl":"~/ADMIN/LogSetting.aspx"},{"navigateUrl":"~/ADMIN/ChangePassword.aspx"},{"navigateUrl":"~/UploadLogo.aspx"}]}, null, null, $get("ctl00_rdDBMenu"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.CalendarBehavior, {"button":$get("ctl00_ContentPlaceHolder1_imgBtnFromDate2"),"cssClass":"AjaxCalendar","format":"MM/dd/yyyy","id":"ctl00_ContentPlaceHolder1_CalendarExtender1"}, null, null, $get("ctl00_ContentPlaceHolder1_txtdatefrom"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.CalendarBehavior, {"button":$get("ctl00_ContentPlaceHolder1_imgBtnFromDate3"),"cssClass":"AjaxCalendar","format":"MM/dd/yyyy","id":"ctl00_ContentPlaceHolder1_CalendarExtender2"}, null, null, $get("ctl00_ContentPlaceHolder1_txtdateto"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

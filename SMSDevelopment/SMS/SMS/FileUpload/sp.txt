@@ -1,0 +1,37 @@
+ /* if (DrpDnSubRole.SelectedValue.Equals("") && TxtFristName.Text.Equals("") && TxtNRIC.Text.Equals("")&& DrpdnOrderBy.SelectedValue.Equals("") && DrpDnAlpha.SelectedValue.Equals("") && TxtDateFrom.Text.Equals("") && TxtDateTo.Text.Equals(""))
+            {
+                pk.SubRole = DrpDnSubRole.SelectedValue.ToString();
+                pk.FirstName = TxtFristName.Text;
+                pk.Nric = TxtNRIC.Text;
+                GridView2.DataSource = ds.Searchstaff(pk);
+                GridView2.DataBind();
+            }
+            else if (DrpdnOrderBy.SelectedValue.Equals("") && DrpDnAlpha.SelectedValue.Equals("") && TxtDateFrom.Text.Equals("") && TxtDateTo.Text.Equals(""))
+            {
+                pk.SubRole = DrpDnSubRole.SelectedValue.ToString();
+                pk.FirstName = TxtFristName.Text;
+                string date = System.DateTime.Now.ToShortDateString();            
+                pk.Nric = TxtNRIC.Text;
+                GridView2.DataSource = ds.Searchstaff(pk);
+                GridView2.DataBind();
+                // Response.Write("<script>alert('Record Searched.....')</script>");
+            }
+            else
+            {               
+                pk.OrderBy = DrpdnOrderBy.SelectedValue.ToString();
+                pk.AlphabetBy = DrpDnAlpha.SelectedValue.ToString();
+                pk.Date_from = TxtDateFrom.Text;
+                pk.Date_to = TxtDateTo.Text;
+                GridView2.DataSource = ds.SearchStaffOrderBy(pk);
+                GridView2.DataBind();                
+            }*/
+           // string where = "Select FirstName,NRICno,Staff_Telphone,Role from StaffInfo where 1=1";
+           
+            //pk.SubRole = DrpDnSubRole.SelectedValue.ToString();
+            //pk.FirstName = TxtFristName.Text;
+            //pk.Nric = TxtNRIC.Text;
+            pk.OrderBy = DrpdnOrderBy.SelectedValue.ToString();
+            //pk.AlphabetBy = DrpDnAlpha.SelectedValue.ToString();
+            //pk.Date_from = TxtDateFrom.Text;
+            //pk.Date_to = TxtDateTo.Text;
+            //pk.Status="Active";

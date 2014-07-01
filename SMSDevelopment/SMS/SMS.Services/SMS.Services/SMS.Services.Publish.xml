@@ -1,0 +1,17 @@
+<publishData>
+  <publishTarget publishUrl="C:\HttpDocs\SMS.Services\">
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll" publishTime="05/15/2008 05:13:00" />
+    <file relUrl="bin/SMS.BusinessEntities.dll" publishTime="10/15/2009 19:26:19" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll" publishTime="05/15/2008 05:12:08" />
+    <file relUrl="bin/Microsoft.Practices.ObjectBuilder2.dll" publishTime="05/15/2008 04:27:26" />
+    <file relUrl="bin/SMS.Services.dll" publishTime="10/16/2009 01:07:22" />
+    <file relUrl="bin/Microsoft.Practices.Unity.dll" publishTime="05/15/2008 04:27:26" />
+    <file relUrl="bin/SMS.BusinessEntities.pdb" publishTime="10/15/2009 19:26:19" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Validation.dll" publishTime="05/15/2008 05:13:12" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll" publishTime="05/15/2008 05:12:48" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Logging.dll" publishTime="05/15/2008 05:13:30" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll" publishTime="05/15/2008 05:11:50" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll" publishTime="05/15/2008 05:13:14" />
+    <file relUrl="bin/SMS.Services.pdb" publishTime="10/16/2009 01:07:22" />
+  </publishTarget>
+</publishData>

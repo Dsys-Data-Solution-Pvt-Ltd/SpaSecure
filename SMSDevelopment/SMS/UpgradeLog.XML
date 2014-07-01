@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SMS">
+</Property><Property Name="Solution File" Value="D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.sln">
+</Property><Property Name="Date" Value="Wednesday, March 21, 2012">
+</Property><Property Name="Time" Value="22:42 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SMS.Web" Source="SMS\SMS.Web.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SMS.Web" Source="SMS\SMS.Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SMS.Services" Source="SMS.Services\SMS.Services\SMS.Services.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SMS.Services" Source="SMS.Services\SMS.Services\SMS.Services.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SMS.BusinessEntities" Source="..\SMS.BusinessEntities\SMS.BusinessEntities\SMS.BusinessEntities.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SMS.BusinessEntities" Source="..\SMS.BusinessEntities\SMS.BusinessEntities\SMS.BusinessEntities.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GaurdPatroSystem" Source="GaurdPatroSystem\GaurdPatroSystem.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GaurdPatroSystem" Source="GaurdPatroSystem\GaurdPatroSystem.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SMS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SMS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SMS.Web" Source="SMS\SMS.Web.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SMS.Services" Source="SMS.Services\SMS.Services\SMS.Services.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SMS.BusinessEntities" Source="..\SMS.BusinessEntities\SMS.BusinessEntities\SMS.BusinessEntities.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GaurdPatroSystem" Source="GaurdPatroSystem\GaurdPatroSystem.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

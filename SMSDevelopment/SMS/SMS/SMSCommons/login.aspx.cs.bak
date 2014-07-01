@@ -1,0 +1,91 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using System.Xml.Linq;
+
+using SMS.BusinessEntities;
+using SMS.BusinessEntities.Authorization;
+using SMS.Services.BusinessServices;
+using SMS.Services.DALUtilities;
+using SMS.Services.DataService;
+using SMS.Web.SMSAppUtilities;
+using SMS.BusinessEntities.Main;
+
+namespace SMS.SMSCommons
+{
+    public partial class login : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+            if (!IsPostBack)
+            {
+                Session[SessionKeys.SESSION_LOGIN_USER] = null;
+                Session[SessionKeys.SESSION_MENU_ITEMS] = null;
+                txtUserName.Focus();
+                txtUserName.Text = string.Empty;
+                txtPassword.Text = string.Empty;
+            }
+        }
+
+        protected void btnLogin_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (!AuthenticateUser())
+                {
+                    divMsg.Visible = true;
+                    lblMsg.Text = "Please enter a valid User Name and Password.";
+                }
+
+                else
+                {
+                    Session.Add(SessionKeys.SESSION_LOGIN_USER, txtUserName.Text);
+                    Response.Redirect("Default.aspx");
+                }
+            }
+            catch (System.Threading.ThreadAbortException)
+            {
+            }
+            catch (Exception ex)
+            {
+                Response.Write(ex.Message);
+            }
+
+            Response.Redirect("default.aspx");
+        }
+
+        private bool AuthenticateUser()
+        {
+            AdminBLL ws = new AdminBLL();
+            UserInformation _oUserInfo = new UserInformation();
+            GetAuthRequest _req = new GetAuthRequest();
+
+
+            try
+            {
+                
+                _oUserInfo.UserID = txtUserName.Text;
+                _oUserInfo.UserPassword = txtPassword.Text;
+
+                _req.UserInfo = _oUserInfo;
+
+             
+            }
+            catch (Exception ex)
+            {
+                //Response.Write(ex.Message);
+            }
+            return ws.AuthenticateUser(_req);
+        }
+
+    }
+}

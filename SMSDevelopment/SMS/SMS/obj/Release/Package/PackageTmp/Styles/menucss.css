@@ -1,0 +1,51 @@
+
+.tabl
+{
+    margin-top:-2.8em;
+    margin-left:205px;
+    }
+.hovermenu 
+{
+    width:4.2em; height:1.4em; margin-top:-1.6em; margin-left:1em;
+    margin-right:1em;
+    }
+.hovermenu2 
+{
+    width:4.2em; height:1.4em; margin-top:-1.6em; margin-left:1em;
+    margin-right:0em;
+    }
+    .hovermenu 
+{
+    width:4.2em; height:1.4em; margin-top:-1.6em; margin-left:1em;
+    margin-right:1em;
+    }
+.hovermenu ul{
+font: bold 13px arial;
+padding-left: 0;
+margin-left: 0;
+height: 20px;
+    width: 75px;
+}
+
+.hovermenu ul li{
+list-style: none;
+display: inline;
+}
+
+.hovermenu ul li a{
+padding: 2px 0.5em;
+text-decoration: none;
+float: left;
+color: black;
+background-color:transparent;
+border: 0px solid #FFF2BF;
+}
+
+.hovermenu ul li a:hover{
+background-color:Gray;
+border-style: outset;
+}
+
+html>body .hovermenu ul li a:active{ /* Apply mousedown effect only to NON IE browsers */
+border-style: inset;
+}

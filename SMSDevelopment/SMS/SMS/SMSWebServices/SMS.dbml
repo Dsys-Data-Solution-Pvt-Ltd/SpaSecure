@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="SMS" Class="SMSDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=MIHIR-VAIO\SQLEXPRESS;Initial Catalog=SMS;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="SMSConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Shift_Staff" Member="Shift_Staffs">
+    <Type Name="Shift_Staff">
+      <Column Name="Shift_ID" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Staff_ID" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Shift_Master" Member="Shift_Masters">
+    <Type Name="Shift_Master">
+      <Column Name="shift_ID" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="shiftdep" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="ShiftDateFrom" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ShiftDateTo" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ShiftTimeFrom" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="ShiftTimeTo" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Location" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="superid" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="supername" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="supercontno" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.UserInformation" Member="UserInformations">
+    <Type Name="UserInformation">
+      <Column Name="UserID" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="UserPassword" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="MiddleName" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="KinName" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="HomeAddress" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="State" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Country" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Mobile" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Fax" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="EmailId" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="PostalCode" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="KinContactNo" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="NRICno" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DOB" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Role" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Staff_ID" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="UserSecretQues" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="UserSecretAns" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="UserStatus" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="LastLoginTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="LastActivityTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ImagePathName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="ManagementRole" Type="System.String" DbType="VarChar(35)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

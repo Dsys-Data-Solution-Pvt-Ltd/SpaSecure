@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SpaSecureLatest" Class="LinqChat1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=Sandy-VAIO;Initial Catalog=SpaSecureLatest;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="SMSConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.UserInformation" Member="UserInformations">
+    <Type Name="UserInformation">
+      <Column Name="UserID" Type="System.String" DbType="VarChar(300) NOT NULL" CanBeNull="false" />
+      <Column Name="UserPassword" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="MiddleName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="KinName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="NRICno" Type="System.String" DbType="VarChar(300) NOT NULL" CanBeNull="false" />
+      <Column Name="Role" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_ID" Type="System.String" DbType="VarChar(300) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="UserSecretAns" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="LastLoginTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="LastActivityTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ImagePathName" Type="System.String" DbType="VarChar(500)" CanBeNull="true" />
+      <Column Name="ThumbImage" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Staff_PreName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Status" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Name" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Address" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Telphone" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_HPno" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_DOB" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_POB" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Race" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Citizenship" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Age" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Religion" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Sex" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_DriverLicense" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_IncomeTax" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_MaritalStatus" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_NoOfChile" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_MarriedSpousName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmergencyName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmergencyAdd" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmergencyTelphone" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_PrimarySchoolName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_PrimaryAddress" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_PrimaryLevel" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_PrimaryFrom" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_PrimaryTo" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_PrimaryQualification" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_SecondarySchoolName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_SecondaryAddress" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_SecondaryLevel" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_SecondaryFrom" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_SecondaryTo" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_SecondaryQualification" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_VocationSchoolName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_VocationAddress" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_VocationLevel" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_VocationFrom" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_VocationTo" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_VocationQualification" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_OtherSchoolName" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_OtherAddress" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_OtherLevel" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_OtherFrom" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_OtherTo" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_OtherQualification" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_OtherTraining" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Hobbies" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_NSFrom" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_NSTo" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_NSTypeOfDischarge" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_NSVocation" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_NSNextInCamp" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_NSLastRank" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_NSExempted" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_NSReason" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_NSDateOFRegistration" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExCompName1" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExFrom1" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExTo1" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExReasonLeaving1" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExLastDrawnSalary1" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExCompName2" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExFrom2" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExTo2" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExReasonLeaving2" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExLastDrawnSalary2" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExCompName3" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExFrom3" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExTo3" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExReasonLeaving3" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExLastDrawnSalary3" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExCompName4" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExFrom4" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExTo4" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExReasonLeaving4" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_EmpExLastDrawnSalary4" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_ExpectedSalary" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_CommenceWork" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_LAW" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_LAWResion" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Injury" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_InjuryResion" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_ComfirmPassword" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_MalasianWorkPermitExpire" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_MalasianPassportExpire" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_MalasianIC" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_MalasianOLDIC" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_MalasianPassportNo" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_MalasianWorkPermit" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_MalasianEducationLevel" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_NRICWorkPermitCertificate" Type="System.String" DbType="VarChar(500)" CanBeNull="true" />
+      <Column Name="Staff_NSRSWSQModulesCertificate" Type="System.String" DbType="VarChar(500)" CanBeNull="true" />
+      <Column Name="Staff_OtherRecognisedCertificate" Type="System.String" DbType="VarChar(500)" CanBeNull="true" />
+      <Column Name="Staff_ExemptionCertificate" Type="System.String" DbType="VarChar(500)" CanBeNull="true" />
+      <Column Name="Staff_SecurityOfficerLicenseCertificate" Type="System.String" DbType="VarChar(500)" CanBeNull="true" />
+      <Column Name="Staff_SIRDScreenCertificate" Type="System.String" DbType="VarChar(500)" CanBeNull="true" />
+      <Column Name="Staff_Occupation" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="Staff_Mobile" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Squrity_Question" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Message" Member="Messages">
+    <Type Name="Message">
+      <Column Name="MessageID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserID" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="ToUserID" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="Text" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TimeStamp" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Color" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.UserRoleMaster" Member="UserRoleMasters">
+    <Type Name="UserRoleMaster">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UserRole" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="ParentId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

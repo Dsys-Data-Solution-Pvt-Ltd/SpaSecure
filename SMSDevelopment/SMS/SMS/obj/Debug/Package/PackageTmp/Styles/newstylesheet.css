@@ -1,0 +1,36 @@
+﻿body {
+}
+.newInput
+{
+   font-family: Verdana, Arial;
+	color: #000000;
+	font-size: 13px;
+	border: 4px #666666 solid;
+	margin-left: 20px;
+	height: 18px;
+    left: 424px;
+    position: absolute;
+    width: 126px;  
+}
+.lblerror
+{
+     font-size:18px;
+     font-family:Verdana, Arial;
+      font-size:18px;
+     
+}
+.Label2
+{ font-family:Verdana;
+	font-size:15px;
+	font-size: 14px;
+	 width:162px;
+	 height:18em;
+	 color:Black;
+}
+.tabpanel
+{
+    /*background-color:Blue;*/
+    height:1.3em;
+    font-size:16px;
+    color:Maroon;
+}

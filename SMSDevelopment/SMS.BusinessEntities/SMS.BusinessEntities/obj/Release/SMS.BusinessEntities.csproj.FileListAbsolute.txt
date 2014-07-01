@@ -1,0 +1,351 @@
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\webapp\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\webapp\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\webapp\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\webapp\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\webapp\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\D-sys\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+C:\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+C:\New Folder\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+C:\Shine Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+C:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\11MaySMS\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\28juneSunlightCode\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.SmartTag.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Vbe.Interop.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Excel.xml
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Office.Interop.Outlook.xml
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\office.xml
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\ResolveAssemblyReference.cache
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\SMS.BusinessEntities.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\bin\Microsoft.Practices.Unity.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS.BusinessEntities\SMS.BusinessEntities\obj\Release\SMS.BusinessEntities.pdb

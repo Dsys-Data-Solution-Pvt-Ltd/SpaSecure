@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 12" name="Deployment">
+  <DataContextMoniker Name="/DeploymentDataContext" />
+  <nestedChildShapes>
+    <classShape Id="33fc7578-7d14-4338-b0f1-71f842d89835" absoluteBounds="4, 1.375, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/DeploymentDataContext/vwDailyDeployment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eea22bf2-a66e-429c-b6d0-7216a8cb3846" absoluteBounds="4.015, 1.835, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d615f457-4023-42f0-a33c-ec42bb73e374" absoluteBounds="7.75, 2.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DeploymentDataContext/Shift_Master" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2b075050-3057-49b1-8186-e2603abd3636" absoluteBounds="7.765, 2.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7.75 : 2.94314697265625); (6 : 2.94314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DeploymentDataContext/Shift_Master/Shift_Master_vwDailyDeployment" />
+      <nodes>
+        <classShapeMoniker Id="d615f457-4023-42f0-a33c-ec42bb73e374" />
+        <classShapeMoniker Id="33fc7578-7d14-4338-b0f1-71f842d89835" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="ef6d3613-6389-4ca8-9a40-fc0e1e4a9240" absoluteBounds="1.5, 2.875, 2, 8.8860498046875">
+      <DataClassMoniker Name="/DeploymentDataContext/location" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6f1a1654-d208-45eb-84f7-25ae3290c544" absoluteBounds="1.5150000000000001, 3.335, 1.9700000000000002, 8.3260498046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.5 : 4.16425699869792); (4 : 4.16425699869792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DeploymentDataContext/location/location_vwDailyDeployment" />
+      <nodes>
+        <classShapeMoniker Id="ef6d3613-6389-4ca8-9a40-fc0e1e4a9240" />
+        <classShapeMoniker Id="33fc7578-7d14-4338-b0f1-71f842d89835" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="1852ab7c-32c0-47e6-a212-c7857f1b7f64" absoluteBounds="0.75, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DeploymentDataContext/WeekDayRoster" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c132cac4-7b95-466a-9cb7-eaa0c882b81f" absoluteBounds="0.76500000000000012, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.82294840494792); (4 : 1.82294840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DeploymentDataContext/WeekDayRoster/WeekDayRoster_vwDailyDeployment" />
+      <nodes>
+        <classShapeMoniker Id="1852ab7c-32c0-47e6-a212-c7857f1b7f64" />
+        <classShapeMoniker Id="33fc7578-7d14-4338-b0f1-71f842d89835" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

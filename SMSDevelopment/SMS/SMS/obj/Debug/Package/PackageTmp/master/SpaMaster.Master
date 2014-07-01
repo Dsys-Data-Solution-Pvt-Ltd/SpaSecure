@@ -1,0 +1,1899 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SpaMaster.master.cs"
+    Inherits="SMS.master.SpaMaster" %>
+
+<%@ Import Namespace="SMS.BusinessEntities.Main" %>
+<%@ Import Namespace="SMS.Services.DataService" %>
+<%@ Import Namespace="System.Data.SqlClient" %>
+<%@ Import Namespace="System.Data" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>Spa Secure</title>
+    <link rel='stylesheet' type='text/css' href='../css/styles.css' />
+    <link href="../Styles/calander.css" rel="Stylesheet" type="text/css" />
+    <link rel="stylesheet" href="../Css/style.css" type="text/css" media="screen" />
+    <link rel="Stylesheet" href="../css/progressbarr.css" />
+    <link href="../css/globle.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="../interchangedesign/css/default/default.css" />
+    <%-- <link rel='stylesheet' type='text/css' href='../css/styles.css' />--%>
+    <link rel='stylesheet' type='text/css' href='../css/css.css' />
+    <%-- <link rel="stylesheet" href="../Css/reset.css" type="text/css" media="screen" />--%>
+    <%-- <link rel="stylesheet" href="../Css/invalid.css" type="text/css" media="screen" />--%>
+    <script type="text/javascript" src="../js/jquery-latest.min.js"></script>
+    <script type="text/javascript">
+        function CallService() {
+            var name = document.getElementById("<%# HiddenFieldID.ClientID %>").value;
+            // var name = $("#HiddenFieldID").val();
+
+            $.ajax({
+                type: "POST",
+                url: "../auto.asmx/send",
+                data: "{ 'name': '" + name + "'}",
+                contentType: "application/json",
+                dataType: "json",
+                success: function (data) {
+
+                    var sms = data.d;
+                    if (sms != "") {
+
+                        document.getElementById("<%# QualityMsg.ClientID %>").innerHTML = sms;
+                        // $("#QualityMsg").html(sms);
+                        $find("mpe").show();
+                    }
+                    else
+                    //                    $('#message').text("");
+
+                    //alert("Mail has been Sent.");
+                        $("#name").val('');
+                }
+            });
+
+        }
+        function CallServiceClose() {
+            //alert('hi');
+            //alert($("#name").val());
+            var name = document.getElementById("<%# HiddenFieldID.ClientID %>").value;
+            // var name = $("#HiddenFieldID").val();
+            //  alert(name);
+            $.ajax({
+                type: "POST",
+                url: "../auto.asmx/Close",
+                data: "{ 'name': '" + name + "'}",
+                contentType: "application/json",
+                async: false,
+                crossDomain: true,
+                success: function (data) {
+                    var sms = data.d;
+                    if (sms != "") {
+
+
+                        $find("mpe").hide();
+                    }
+                    else
+                    //                    $('#message').text("");
+
+                    //alert("Mail has been Sent.");
+                        $("#name").val('');
+                }
+            });
+
+        }
+    </script>
+    <script type="text/javascript">
+        $(document).ready(
+            function () {
+                setInterval(function () {
+                    CallService();
+                    //                    var randomnumber = Math.floor(Math.random() * 100);
+                    //                    $('#show').text(
+                    //                                                'I am getting refreshed every 3 seconds..! Random Number ==> ' + randomnumber);
+                }, 9000);
+            });
+    </script>
+    <script type="text/javascript" src="../Scripts/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="../Scripts/simpla.jquery.configuration.js"></script>
+    <script type="text/javascript" src="../Scripts/facebox.js"></script>
+    <script type="text/javascript" src="../Scripts/jquery.wysiwyg.js"></script>
+    <script type="text/javascript" src="../Scripts/jquery.datePicker.html"></script>
+    <script type="text/javascript" src="../Scripts/jquery.date.js"></script>
+    <style type="text/css">
+        .modalBackground
+        {
+            background-color: Gray;
+            filter: alpha(opacity=80);
+            opacity: 0.8;
+            z-index: 10000;
+        }
+    </style>
+    <style type="text/css">
+        .smsbox
+        {
+            border: 1px solid rgb(202, 198, 198);
+            margin: 5px 0px 1px 0px;
+            padding: 5px;
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+            -moz-box-shadow: 0px 0px 2px #000;
+            -webkit-box-shadow: 10px 20px 20px greenyellow;
+            box-shadow: 0px 0px 2px #000;
+            -moz-border-radius-bottomleft: 5px;
+            -moz-border-radius-topright: 5px;
+            box-shadow: 0px 0px 15px 2px #CAAFAF;
+        }
+    </style>
+    <style type="text/css">
+        input.ruFakeInput.radPreventDecorate
+        {
+            visibility: hidden;
+        }
+        input.ruFakeInput.radPreventDecorate
+        {
+            position: fixed;
+            z-index: 1;
+            opacity: 1;
+            -moz-opacity: 0;
+            filter: alpha(opacity=0);
+            font: 10px monospace;
+            margin: 0;
+            padding: 0;
+            right: 0;
+            top: 0;
+            width: 100px;
+        }
+        input.ruFileInput
+        {
+            vertical-align: top;
+        }
+    </style>
+    <style type="text/css">
+        .glass_effect
+        {
+            border: 5px solid #FFFFFF;
+            margin: 9px;
+            box-shadow: 0px 0px 0px 6px rgba(0, 0, 0, 0.3), 0px 0px 0px 0px rgba(0, 0, 0, 0.6);
+            behavior: url(../PIE/PIE.htc) !important;
+        }
+    </style>
+    <link rel="stylesheet" href="../Css/slide.css" type="text/css" media="screen" />
+    <script src="../js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script src="../js/slide.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../js/easy.notification.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#clickable').click(function () {
+                $.easyNotification('The paragraph has been clicked!');
+            })
+        });
+        function showscreensms(message)
+        { $.easyNotification(message); }
+
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" class="custom">
+    <asp:ScriptManager ID="ScriptManager1" ScriptMode="Release" EnablePageMethods="true"
+        runat="server" EnablePartialRendering="true" LoadScriptsBeforeUI="false">
+    </asp:ScriptManager>
+    <%-- <asp:ContentPlaceHolder ID="InitialContentHolder" runat="server">--%>
+    <!-- / wrapper \ -->
+    <div id="wrapper">
+        <!-- / main container \ -->
+        <div id="mainCntr">
+            <!-- / header container \-->
+            <div id="headerCntr">
+                <h1>
+                    <%--<img src="../Images/KnightTempler.png" style="position: absolute; height: 45px; width: 70px;
+                        z-index: 99;" />--%>
+                    <asp:Image runat="server" ID="imgHeaderLogo" Style="height: 40px; width: 100px; z-index: 99;
+                        position: absolute;"></asp:Image>
+                    <a href="#">
+                        <asp:Label ID="lbllogo" runat="server"></asp:Label>
+                    </a>
+                </h1>
+                <!-- / top box \-->
+                <div class="topBox">
+                    <ul>
+                        <%-- <li>
+                                <h3 style="font-family: Calibri; color: Black; margin-left: -430px; font-size: 25px">
+                                </h3>
+                            </li>--%>
+                        <%-- <li>
+                                <asp:Label ID="lblWelcome" runat="server"></asp:Label>
+                                <span>
+                                    <asp:Label ID="LblUserNameWelcome" runat="server"></asp:Label></span></li>--%>
+                        <%-- <li><a href="#" class="dropd" data-dropdown="drop2">
+                                <img src="../icon/ic-globe.jpg" style="margin: 0px 5px -2px 0; font-weight: bold" />Language<span
+                                    class="caret"></span></a>
+                                <ul id="drop2" class="f-dropdown" data-dropdown-content>
+                                    <li id="Q1" runat="server" style="height: 25px">
+                                        <asp:LinkButton ID="lnkeng" runat="server" CausesValidation="false" Text="English"></asp:LinkButton>
+                                    </li>
+                                    <li id="Q2" runat="server">
+                                        <asp:LinkButton ID="lnkspan" runat="server" CausesValidation="false" Text="Spanish"></asp:LinkButton>
+                                    </li>
+                                </ul>
+                            </li>--%>
+                        <li></li>
+                        <li>
+                            <asp:LinkButton ID="lnkBack1" runat="server" Font-Bold="true" OnClick="lnkBack1_Click">Home</asp:LinkButton>
+                        </li>
+                        <li><a href="../../master/Logout.aspx">
+                            <asp:Label ID="lblLogOut" runat="server" Font-Bold="true">Log Out</asp:Label></a></li>
+                        <li><a href="../ADMIN/profile_viewreport.aspx" id="a4" style="font-weight: bold"
+                            title="view profile">Profile</a> </li>
+                        <li><a href="../../master/UploadGuardTourData.aspx" id="a1" style="font-weight: bold"
+                            title="view profile">Upload Guard Tour Data</a> </li>
+                    </ul>
+                </div>
+                <!-- \ top box /-->
+                <!-- / menu box \-->
+                <div class="mynav">
+                    <ul>
+                        <%     
+                               
+                            DataTable dt = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "1");
+
+                            if (dt.Rows.Count > 0)
+                            {
+                        %>
+                        <li id="li3" runat="server"><a href="#">
+                            <asp:Label ID="Label3" runat="server" Text="Reports"></asp:Label></a>
+                            <ul>
+                                <%     
+                               
+                                    DataTable dt1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "2");
+
+                                    if (dt1.Rows.Count > 0)
+                                    {
+                                %>
+                                <li><a href="#">
+                                    <asp:Label ID="Label4" runat="server" Text="Current Report"><span id="Span7" runat="server">
+                                    </span></asp:Label></a>
+                                    <ul style="margin-left: 150px; margin-top: -35px;">
+                                        <%     
+                               
+                                        DataTable dtCheckIn1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "4");
+
+                                        if (dtCheckIn1.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li id="Li5" runat="server"><a href="../Reports/AttendanceReport.aspx?action=checkin&curr=0">
+                                            <asp:Label ID="Label5" runat="server" Text="Check In Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+                                        }
+                                        %>
+                                        <%     
+                               
+                                        DataTable dtCheckOut1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "5");
+
+                                        if (dtCheckOut1.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li id="Li4" runat="server"><a href="../Reports/AttendanceReport.aspx?action=checkin">
+                                            <asp:Label ID="Label6" runat="server" Text="Check Out Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtIncident1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "6");
+
+                                            if (dtIncident1.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li6" runat="server"><a href="../Reports/IncidentReport.aspx">
+                                            <asp:Label ID="Label7" runat="server" Text="Incident Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtAlerts1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "7");
+
+                                            if (dtAlerts1.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li7" runat="server"><a href="../Reports/AlertReport.aspx">
+                                            <asp:Label ID="Label8" runat="server" Text="Alerts Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtOccurrence1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "8");
+
+                                            if (dtOccurrence1.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li8" runat="server"><a href="../Reports/DigitalDairyReport.aspx">
+                                            <asp:Label ID="Label9" runat="server" Text="Occurrence Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtVisitor1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "9");
+
+                                            if (dtVisitor1.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li9" runat="server"><a href="../Reports/VisitorReport.aspx">
+                                            <asp:Label ID="Label10" runat="server" Text="Visitor Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtContractor1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "10");
+
+                                            if (dtContractor1.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li10" runat="server"><a href="../Reports/ContractorReport.aspx">
+                                            <asp:Label ID="Label11" runat="server" Text="Contractor Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtEvent1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "11");
+
+                                            if (dtEvent1.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li11" runat="server"><a href="../Reports/Eventreport.aspx">
+                                            <asp:Label ID="Label12" runat="server" Text="Event Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtInventory1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "12");
+
+                                            if (dtInventory1.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li12" runat="server"><a href="../Reports/ItemReport.aspx">
+                                            <asp:Label ID="Label13" runat="server" Text="Inventory Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+}
+                                        %>
+                                        <%     
+                               
+DataTable dtLostFound1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "138");
+
+if (dtLostFound1.Rows.Count > 0)
+{
+                                        %>
+                                        <li id="Li13" runat="server"><a href="../Reports/LostFountReport.aspx">
+                                            <asp:Label ID="Label14" runat="server" Text="Lost Found Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+}
+                                        %>
+                                        <%     
+                               
+DataTable dtOMCheckIn1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "142");
+
+if (dtOMCheckIn1.Rows.Count > 0)
+{
+                                        %>
+                                        <li id="Li14" runat="server"><a href="../Reports/OM_CheckInReport.aspx?curr=0">
+                                            <asp:Label ID="Label15" runat="server" Text="OM Check In Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+}
+                                        %>
+                                        <%     
+                               
+DataTable dtOMCheckOut1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "143");
+
+if (dtOMCheckOut1.Rows.Count > 0)
+{
+                                        %>
+                                        <li id="Li15" runat="server"><a href="../Reports/OM_CheckOutReport.aspx">
+                                            <asp:Label ID="Label16" runat="server" Text="OM Check Out Report"></asp:Label></a>
+                                        </li>
+                                        <%     
+                               
+}
+                                        %>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dt2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "3");
+
+                                    if (dt2.Rows.Count > 0)
+                                    {
+                                %>
+                                <li><a href="#">
+                                    <asp:Label ID="Label17" runat="server" Text="Past Report"><span id="Span5" runat="server">
+                                    </span></asp:Label></a>
+                                    <ul style="margin-left: 150px; margin-top: -35px;">
+                                        <%     
+                               
+                                        DataTable dtCheckIn2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "13");
+
+                                        if (dtCheckIn2.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li id="Li16" runat="server"><a href="../Reports/AttendanceReportPast.aspx?action=checkin&curr=0">
+                                            <asp:Label ID="Label18" runat="server" Text="Check In Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+                                        }
+                                        %>
+                                        <%     
+                               
+                                        DataTable dtCheckOut2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "14");
+
+                                        if (dtCheckOut2.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li id="Li17" runat="server"><a href="../Reports/AttendanceReportPast.aspx?action=checkin">
+                                            <asp:Label ID="Label19" runat="server" Text="Check Out Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtIncident2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "15");
+
+                                            if (dtIncident2.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li18" runat="server"><a href="../Reports/IncidentReport.aspx">
+                                            <asp:Label ID="Label20" runat="server" Text="Incident Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtAlerts2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "16");
+
+                                            if (dtAlerts2.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li19" runat="server"><a href="../Reports/AlertReport.aspx">
+                                            <asp:Label ID="Label21" runat="server" Text="Alerts Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtOccurrence2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "17");
+
+                                            if (dtOccurrence2.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li20" runat="server"><a href="../Reports/DigitalDairyReport.aspx">
+                                            <asp:Label ID="Label22" runat="server" Text="Occurrence Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtVisitor2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "18");
+
+                                            if (dtVisitor2.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li21" runat="server"><a href="../Reports/VisitorReport.aspx">
+                                            <asp:Label ID="Label23" runat="server" Text="Visitor Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtContractor2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "19");
+
+                                            if (dtContractor2.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li22" runat="server"><a href="../Reports/ContractorReport.aspx">
+                                            <asp:Label ID="Label24" runat="server" Text="Contractor Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtEvent2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "20");
+
+                                            if (dtEvent2.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li23" runat="server"><a href="../Reports/Eventreport.aspx">
+                                            <asp:Label ID="Label25" runat="server" Text="Event Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtInventory2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "21");
+
+                                            if (dtInventory2.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li24" runat="server"><a href="../Reports/ItemReport.aspx">
+                                            <asp:Label ID="Label26" runat="server" Text="Inventory Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+}
+                                        %>
+                                        <%     
+                               
+DataTable dtLostFound2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "139");
+
+if (dtLostFound2.Rows.Count > 0)
+{
+                                        %>
+                                        <li id="Li25" runat="server"><a href="../Reports/LostFountReport.aspx">
+                                            <asp:Label ID="Label27" runat="server" Text="Lost Found Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+}
+                                        %>
+                                        <%     
+                               
+DataTable dtOMCheckIn2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "144");
+
+if (dtOMCheckIn2.Rows.Count > 0)
+{
+                                        %>
+                                        <li id="Li26" runat="server"><a href="../Reports/OM_CheckInReport.aspx?curr=0">
+                                            <asp:Label ID="Label28" runat="server" Text="OM Check In Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+}
+                                        %>
+                                        <%     
+                               
+DataTable dtOMCheckOut2 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "145");
+
+if (dtOMCheckOut2.Rows.Count > 0)
+{
+                                        %>
+                                        <li id="Li27" runat="server"><a href="../Reports/OM_CheckOutReport.aspx">
+                                            <asp:Label ID="Label29" runat="server" Text="OM Check Out Report"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+}
+                                        %>
+                                    </ul>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dt3 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "127");
+
+                                    if (dt3.Rows.Count > 0)
+                                    {
+                                %>
+                                <li><a href="../SuperVisor/AfterActionReview.aspx">
+                                    <asp:Label ID="Label30" runat="server" Text="After Action"><span id="Span6" runat="server">
+                                    </span></asp:Label></a> </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dt4 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "126");
+
+                                    if (dt4.Rows.Count > 0)
+                                    {
+                                %>
+                                <li><a href="../SuperVisor/AfterActionReview2_Master.aspx">
+                                    <asp:Label ID="Label31" runat="server" Text="After Action1"><span id="Span8" runat="server">
+                                    </span></asp:Label></a> </li>
+                                     <li><a href="../Reports/RosterMasterReport.aspx">
+                                    <asp:Label ID="Label66" runat="server" Text="Roster Detail Report"><span id="Span10" runat="server">
+                                    </span></asp:Label></a> </li>
+                                     <li><a href="../Reports/RosterSummaryReport.aspx">
+                                     <asp:Label ID="Label67" runat="server" Text="Roster Summary Report"><span id="Span11" runat="server">
+                                    </span></asp:Label></a> </li>
+                                <%
+                                  
+                                    }
+                                %>
+                            </ul>
+                        </li>
+                        <%
+                                  
+                            }
+                        %>
+                        <%     
+                               
+                            DataTable dtShiftDeployment = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "25");
+
+                            if (dtShiftDeployment.Rows.Count > 0)
+                            {
+                        %>
+                        <li><a href="#">
+                            <asp:Label ID="lblShiftDeployment" runat="server" Text="Shift Deployment"></asp:Label></a>
+                            <ul>
+                                <%     
+                               
+                                DataTable dtMonthlyRoster = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "54");
+
+                                if (dtMonthlyRoster.Rows.Count > 0)
+                                {
+                                %>
+                                <li id="Li28" runat="server"><a href="../SMSAdmin/MonthlyRoster.aspx">
+                                    <asp:Label ID="Label2" runat="server" Text="Monthly Roster"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                }
+                                %>
+                                <%     
+                               
+                                DataTable dtWeeklyRoster = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "55");
+
+                                if (dtWeeklyRoster.Rows.Count > 0)
+                                {
+                                %>
+                                <li id="Li29" runat="server"><a href="../SMSAdmin/WeeklyRoster.aspx">
+                                    <asp:Label ID="Label32" runat="server" Text="Weekly Roster"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtDailyRoster = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "56");
+
+                                    if (dtDailyRoster.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li30" runat="server"><a href="../SMSAdmin/DailyRoster.aspx">
+                                    <asp:Label ID="Label33" runat="server" Text="Daily Roster"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                            </ul>
+                        </li>
+                        <%
+                                  
+                            }
+                        %>
+                        <%     
+                               
+                            DataTable dtCheck = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "32");
+
+                            if (dtCheck.Rows.Count > 0)
+                            {
+                        %>
+                        <li><a href="#" class="nav-top-item">Check In/ Out</a>
+                            <ul>
+                                <%     
+                               
+                                DataTable dtCheckIn = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "70");
+
+                                if (dtCheckIn.Rows.Count > 0)
+                                {
+                                %>
+                                <li><a href="#">Check In</a>
+                                    <ul style="margin-left: 150px; margin-top: -35px;">
+                                        <%     
+                               
+                                    DataTable dtCheckInVisitor = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "74");
+
+                                    if (dtCheckInVisitor.Rows.Count > 0)
+                                    {
+                                        %>
+                                        <li><a href="../SMSUsers/Check_In_Visitor.aspx">Check In Visitor</a> </li>
+                                        <%} %>
+                                        <%     
+                               
+                                        DataTable dtCheckInContractor = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "75");
+
+                                        if (dtCheckInContractor.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li><a href="../SMSUsers/Check_In_Contractor.aspx">Check In Contractor</a> </li>
+                                        <%} %>
+                                        <%     
+                               
+                                        DataTable dtCheckInSecurity = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "76");
+
+                                        if (dtCheckInSecurity.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li><a href="../SMSUsers/Check_In_Guard.aspx">Check In Security Officer</a> </li>
+                                        <%} %>
+                                        <%     
+                               
+                                        DataTable dtCheckInOperation = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "140");
+
+                                        if (dtCheckInOperation.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li><a href="../SMSUsers/checkIn_OM.aspx">Check In Operation Manager</a> </li>
+                                        <%} %>
+                                    </ul>
+                                </li>
+                                <%
+                                } %>
+                                <%     
+                               
+                                DataTable dtCheckOut = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "69");
+
+                                if (dtCheckOut.Rows.Count > 0)
+                                {
+                                %>
+                                <li><a href="#">Check Out</a>
+                                    <ul style="margin-left: 150px; margin-top: -35px;">
+                                        <%     
+                               
+                                        DataTable dtCheckOutVisitor = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "71");
+
+                                        if (dtCheckOutVisitor.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li><a href="../SMSUsers/Check_Out_Visitor.aspx">Check Out Visitor</a> </li>
+                                        <%} %>
+                                        <%     
+                               
+                                        DataTable dtCheckOutContractor = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "72");
+
+                                        if (dtCheckOutContractor.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li><a href="../SMSUsers/Check_Out_Contractor.aspx">Check Out Contractor</a> </li>
+                                        <%} %>
+                                        <%     
+                               
+                                        DataTable dtCheckOutSecurity = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "73");
+
+                                        if (dtCheckOutSecurity.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li><a href="../SMSUsers/Check_Out_Guard.aspx">Check Out Security Officer</a> </li>
+                                        <%} %>
+                                        <%     
+                               
+                                        DataTable dtCheckOutOperation = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "141");
+
+                                        if (dtCheckOutOperation.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li><a href="../SMSUsers/checkOut_OM.aspx">Check Out Operation Manager</a> </li>
+                                        <%} %>
+                                    </ul>
+                                </li>
+                                <%} %>
+                            </ul>
+                        </li>
+                        <%
+                            }
+                                    
+                        %>
+                        <%     
+                               
+                            DataTable dtStaffManagement = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "28");
+
+                            if (dtStaffManagement.Rows.Count > 0)
+                            {
+                        %>
+                        <li id="liStaffManagement" runat="server"><a href="#">
+                            <asp:Label ID="lblStaffManagement" runat="server" Text="Staff Management"></asp:Label></a>
+                            <ul>
+                                <%     
+                               
+                                    DataTable dtPresentStaff = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "60");
+                                    DataTable dtAddStaff = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "61");
+
+                                    if (dtPresentStaff.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li34" runat="server"><a href="../ADMIN/PresentStaff.aspx">
+                                    <asp:Label ID="Label37" runat="server" Text="Present Staff"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                       
+                                    else if (dtAddStaff.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li53" runat="server"><a href="../ADMIN/PresentStaff.aspx">
+                                    <asp:Label ID="Label61" runat="server" Text="Present Staff"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtPastStaff = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "62");
+
+                                    if (dtPastStaff.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li35" runat="server"><a href="../ADMIN/PastStaff.aspx">
+                                    <asp:Label ID="Label38" runat="server" Text="Past Staff"></asp:Label></a> </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtOffLeave = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "128");
+
+                                    if (dtOffLeave.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li36" runat="server"><a href="../SuperVisor/OffLeaveSetting.aspx">
+                                    <asp:Label ID="Label39" runat="server" Text="Off/Leave Setting"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtEmergencyContact = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "129");
+
+                                    if (dtEmergencyContact.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li37" runat="server"><a href="../SuperVisor/AdminListEmergencyContact.aspx">
+                                    <asp:Label ID="Label40" runat="server" Text="Emergency Contact"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                            </ul>
+                        </li>
+                        <%
+                                  
+                            }
+                        %>
+                        <%     
+                               
+                            DataTable dtViewReports = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "34");
+
+                            if (dtViewReports.Rows.Count > 0)
+                            {
+                        %>
+                        <li id="liViewReports" runat="server"><a href="#">
+                            <asp:Label ID="lblViewReports" runat="server" Text="View Reports"></asp:Label></a>
+                            <ul>
+                                <%     
+                               
+                                    DataTable dtViewPreRegistered = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "77");
+
+                                    if (dtViewPreRegistered.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li2" runat="server"><a href="../Client/ViewPreRegisteredVisitors.aspx">
+                                    <asp:Label ID="Label36" runat="server" Text="View Pre-Registered Visitors"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtViewStandardOperating = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "78");
+
+                                    if (dtViewStandardOperating.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li33" runat="server"><a href="../SMSAdmin/SOPAdmin.aspx">
+                                    <asp:Label ID="Label43" runat="server" Text="View Standard Operating Procedure"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtViewEvents = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "79");
+
+                                    if (dtViewEvents.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li1" runat="server"><a href="../SMSAdmin/EventPlan.aspx">
+                                    <asp:Label ID="Label1" runat="server" Text="View Events"></asp:Label></a> </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtViewClient = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "80");
+
+                                    if (dtViewClient.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li40" runat="server"><a href="../SuperVisor/ClientDataBase.aspx">
+                                    <asp:Label ID="Label44" runat="server" Text="View Client Database"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtViewPenalty = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "81");
+
+                                    if (dtViewPenalty.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li41" runat="server"><a href="../SuperVisor/PenaltySecurity.aspx">
+                                    <asp:Label ID="Label45" runat="server" Text="View Penalty Clause"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtPolicy = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "82");
+
+                                    if (dtPolicy.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li42" runat="server"><a href="../SuperVisor/PolicyStatement.aspx">
+                                    <asp:Label ID="Label46" runat="server" Text="Policy Statement"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtViewAlerts = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "83");
+
+                                    if (dtViewAlerts.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li43" runat="server"><a href="../SuperVisor/AdminAlert.aspx">
+                                    <asp:Label ID="Label47" runat="server" Text="View Alerts"></asp:Label></a> </li>
+                                <%
+                                  
+                                    }
+                                %>
+                            </ul>
+                        </li>
+                        <%
+                                  
+                            }
+                        %>
+                        <%     
+                               
+                            DataTable dtMaintenance = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "37");
+
+                            if (dtMaintenance.Rows.Count > 0)
+                            {
+                        %>
+                        <li id="liMaintenance" runat="server"><a href="#">
+                            <asp:Label ID="lblMaintenance" runat="server" Text="Maintenance"></asp:Label></a>
+                            <ul>
+                                <%     
+                               
+                                    DataTable dtKeyManager = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "88");
+
+                                    if (dtKeyManager.Rows.Count > 0)
+                                    {
+                                %>
+                                <li><a href="#">
+                                    <asp:Label ID="Label49" runat="server" Text="Key Manager"><span id="Span1" runat="server">
+                                    </span></asp:Label></a>
+                                    <ul style="margin-left: 150px; margin-top: -35px;">
+                                        <%     
+                               
+                                        DataTable dtAddNewKey = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "89");
+                                        DataTable dtViewKeys = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "90");
+                                        if (dtAddNewKey.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <%-- <li id="Li45" runat="server"><a href="../SMSAdmin/NewKeyAdd.aspx">
+                                                <asp:Label ID="Label50" runat="server" Text="Add New Key"></asp:Label></a> </li>--%>
+                                        <li id="Li45" runat="server"><a href="../SMSAdmin/AddNewKey.aspx">
+                                            <asp:Label ID="Label53" runat="server" Text="View Keys"></asp:Label></a> </li>
+                                        <%
+                                  
+                                        }
+                                        %>
+                                        <%     
+                               
+                                           
+
+                                        else if (dtViewKeys.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li id="Li46" runat="server"><a href="../SMSAdmin/AddNewKey.aspx">
+                                            <asp:Label ID="Label51" runat="server" Text="View Keys"></asp:Label></a> </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                        <%     
+                               
+                                        DataTable dtCheckInKey = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "91");
+
+                                        if (dtCheckInKey.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li id="Li47" runat="server"><a href="../SuperVisor/CheckInKey.aspx">
+                                            <asp:Label ID="Label52" runat="server" Text="Check In Key"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtPassManager = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "92");
+
+                                    if (dtPassManager.Rows.Count > 0)
+                                    {
+                                %>
+                                <li><a href="#">
+                                    <asp:Label ID="Label62" runat="server" Text="Pass Manager"><span id="Span2" runat="server">
+                                    </span></asp:Label></a>
+                                    <ul style="margin-left: 150px; margin-top: -35px;">
+                                        <%     
+                               
+                                        DataTable dtAddNewPass = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "93");
+                                        DataTable dtViewPasses = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "94");
+
+                                        if (dtAddNewPass.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <%-- <li id="Li57" runat="server"><a href="../SuperVisor/AddNewPass.aspx">
+                                                <asp:Label ID="Label63" runat="server" Text="Add New Pass"></asp:Label></a>
+                                            </li>--%>
+                                        <li id="Li39" runat="server"><a href="../SuperVisor/AdminPass.aspx">
+                                            <asp:Label ID="Label42" runat="server" Text="View Passes"></asp:Label></a> </li>
+                                        <%
+                                  
+                                        }
+                                        %>
+                                        <%     
+                               
+                                           
+                                        else if (dtViewPasses.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li id="Li58" runat="server"><a href="../SuperVisor/AdminPass.aspx">
+                                            <asp:Label ID="Label64" runat="server" Text="View Passes"></asp:Label></a> </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtItemManager = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "95");
+
+                                    if (dtItemManager.Rows.Count > 0)
+                                    {
+                                %>
+                                <li><a href="#">
+                                    <asp:Label ID="Label48" runat="server" Text="Item Manager"><span id="Span3" runat="server">
+                                    </span></asp:Label></a>
+                                    <ul style="margin-left: 150px; margin-top: -35px;">
+                                        <%     
+                               
+                                        DataTable dtCheckOutItem = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "96");
+                                        DataTable dtViewItems = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "97");
+
+                                        if (dtCheckOutItem.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <%-- <li id="Li44" runat="server"><a href="../SuperVisor/AddNewItem.aspx">
+                                                <asp:Label ID="Label53" runat="server" Text="Check Out Item"></asp:Label></a>
+                                            </li>--%>
+                                        <li id="Li44" runat="server"><a href="../SuperVisor/AdminAddItem.aspx">
+                                            <asp:Label ID="Label50" runat="server" Text="View Items"></asp:Label></a> </li>
+                                        <%
+                                  
+                                        }
+                                        %>
+                                        <%     
+                               
+                                            
+                                        else if (dtViewItems.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li id="Li48" runat="server"><a href="../SuperVisor/AdminAddItem.aspx">
+                                            <asp:Label ID="Label54" runat="server" Text="View Items"></asp:Label></a> </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtSOPManager = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "98");
+
+                                    if (dtSOPManager.Rows.Count > 0)
+                                    {
+                                %>
+                                <li><a href="#">
+                                    <asp:Label ID="Label55" runat="server" Text="SOP Manager"><span id="Span4" runat="server">
+                                    </span></asp:Label></a>
+                                    <ul style="margin-left: 150px; margin-top: -35px;">
+                                        <%     
+                               
+                                        DataTable dtAddNewSOP = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "99");
+
+                                        if (dtAddNewSOP.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <%-- <li id="Li49" runat="server"><a href="../SMSAdmin/NewSOPAdd.aspx">
+                                                <asp:Label ID="Label56" runat="server" Text="Add New SOP"></asp:Label></a> </li>--%>
+                                        <%
+                                  
+                                        }
+                                        %>
+                                        <%     
+                               
+                                        DataTable dtViewSOPs = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "100");
+
+                                        if (dtViewSOPs.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li id="Li50" runat="server"><a href="../SMSAdmin/SOPAdmin.aspx">
+                                            <asp:Label ID="Label57" runat="server" Text="View SOPs"></asp:Label></a> </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtAlertManager = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "114");
+
+                                    if (dtAlertManager.Rows.Count > 0)
+                                    {
+                                %>
+                                <li><a href="#">
+                                    <asp:Label ID="Label58" runat="server" Text="Alert Manager"><span id="Span9" runat="server">
+                                    </span></asp:Label></a>
+                                    <ul style="margin-left: 150px; margin-top: -35px;">
+                                        <%     
+                               
+                                        DataTable dtViewAlerts = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "116");
+
+                                        if (dtViewAlerts.Rows.Count > 0)
+                                        {
+                                        %>
+                                        <li id="Li52" runat="server"><a href="../SuperVisor/AdminAlert.aspx">
+                                            <asp:Label ID="Label60" runat="server" Text="View Alerts"></asp:Label></a> </li>
+                                            <li id="Li55" runat="server"><a href="../SuperVisor/NewAlert.aspx">
+                                            <asp:Label ID="Label65" runat="server" Text="Super User Alert"></asp:Label></a> </li>
+                                        <%
+                                  
+                                        }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                            </ul>
+                        </li>
+                        <%
+                                  
+                            }
+                        %>
+                        <%     
+                               
+                            DataTable dtInventory = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "29");
+
+                            if (dtInventory.Rows.Count > 0)
+                            {
+                        %>
+                        <li id="liInventory" runat="server"><a href="#">
+                            <asp:Label ID="lblInventory" runat="server" Text="Inventory"></asp:Label></a>
+                            <ul>
+                                <%     
+                               
+                                    DataTable dtViewInventory = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "63");
+                                    DataTable dtInventoryOut = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "130");
+                                    DataTable dtInventoryAdd = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "64");
+
+                                    if (dtViewInventory.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="Li38" runat="server"><a href="../ADMIN/AdminInvetory.aspx">
+                                    <asp:Label ID="Label41" runat="server" Text="View Inventory"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                       
+                                    else if (dtInventoryOut.Rows.Count > 0)
+                                    {
+                                %>
+                                <%-- <li id="Li39" runat="server"><a href="../ADMIN/AddNewInventoryOut.aspx">
+                                        <asp:Label ID="Label42" runat="server" Text="Inventory Out"></asp:Label></a>
+                                    </li>--%>
+                                <li id="Li49" runat="server"><a href="../ADMIN/AdminInvetory.aspx">
+                                    <asp:Label ID="Label56" runat="server" Text="View Inventory"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                       
+                                    else if (dtInventoryAdd.Rows.Count > 0)
+                                    {
+                                %>
+                                <%-- <li id="Li39" runat="server"><a href="../ADMIN/AddNewInventoryOut.aspx">
+                                        <asp:Label ID="Label42" runat="server" Text="Inventory Out"></asp:Label></a>
+                                    </li>--%>
+                                <li id="Li51" runat="server"><a href="../ADMIN/AdminInvetory.aspx">
+                                    <asp:Label ID="Label59" runat="server" Text="View Inventory"></asp:Label></a>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                            </ul>
+                        </li>
+                        <%
+                                  
+                            }
+                        %>
+                    </ul>
+                </div>
+            </div>
+            <div class="clear">
+            </div>
+            <div class="InnerContainer">
+                <div id="leftdiv" style="float: left; width: 230px; border: 1px solid #ccc;">
+                    <%--==========deependra Code=========--%>
+                    <div class="user" style="margin: 10px;">
+                        <asp:Image ID="image1" runat="server" Width="190px" Height="120px" CssClass="glass_effect">
+                        </asp:Image>
+                    </div>
+                    <div style="border-top: 1px solid; border-top-color: gainsboro;">
+                        <p style="margin-left: 15px;">
+                            Welcome :<asp:Label ID="nameLabel" runat="server" Text="" Style="font-weight: 700;"></asp:Label></p>
+                        <p>
+                        </p>
+                    </div>
+                    <%--==========end code===========--%>
+                    <div style="clear: both;">
+                    </div>
+                    <div id="sidebar" style="margin-left: 10px;">
+                        <div id="sidebar-wrapper">
+                            <ul id="main-nav">
+                                <%     
+                               
+                                    DataTable dtEventManagement = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "22");
+
+                                    if (dtEventManagement.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Event Management</a>
+                                    <ul>
+                                        <%     
+                               
+                                        DataTable dtViewEvents = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "23");
+                                        DataTable dtAddEvents = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "24");
+
+                                        if (dtViewEvents.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <li><a href="../SMSAdmin/eventplanner.aspx">View Events</a></li>
+                                        <%     
+                               
+                                        }
+                                        %>
+                                        <%     
+                               
+                                          
+                                        else if (dtAddEvents.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <li><a href="../SMSAdmin/eventplanner.aspx">View Events</a></li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtDigitalOccurrenceBook = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "33");
+
+                                    if (dtDigitalOccurrenceBook.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Digital Occurrence Book</a>
+                                    <ul>
+                                        <%     
+                               
+                                        DataTable dtDigitalOccurrenceBook1 = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "33");
+
+                                        if (dtDigitalOccurrenceBook1.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <li><a href="../SMSUsers/DigitalDairy.aspx">View Digital Occurrence Book</a></li>
+                                        <%     
+                               
+                                        }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtLocationManagement = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "27");
+
+                                    if (dtLocationManagement.Rows.Count > 0)
+                                    {
+                                %>
+                                <li id="liLocationManagement" runat="server"><a href="#" class="nav-top-item">
+                                    <asp:Label ID="lblLocationManagement" runat="server" Text="Location Management"></asp:Label></a>
+                                    <ul>
+                                        <%     
+                               
+                                            DataTable dtPresentSite = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "57");
+                                            DataTable dtAddSite = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "58");
+
+
+                                            if (dtPresentSite.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li31" runat="server"><a href="../ADMIN/PresentSite.aspx">
+                                            <asp:Label ID="Label34" runat="server" Text="Present Site"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            else if (dtAddSite.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li54" runat="server"><a href="../ADMIN/PresentSite.aspx">
+                                            <asp:Label ID="Label63" runat="server" Text="Present Site"></asp:Label></a>
+                                        </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtPastSite = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "59");
+
+                                            if (dtPastSite.Rows.Count > 0)
+                                            {
+                                        %>
+                                        <li id="Li32" runat="server"><a href="../ADMIN/PastSite.aspx">
+                                            <asp:Label ID="Label35" runat="server" Text="Past Site"></asp:Label></a> </li>
+                                        <%
+                                  
+                                            }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%
+                                  
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtAlert = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "35");
+
+                                    if (dtAlert.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Alert Manager</a>
+                                    <ul>
+                                        <%     
+                               
+                                        DataTable dtViewAlert = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "85");
+
+                                        if (dtViewAlert.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <li><a href="../SuperVisor/AdminAlert.aspx">Alert</a></li>
+                                         <li><a href="../SuperVisor/NewAlert.aspx">Super User Alert</a></li>
+                                        <%     
+                               
+                                        }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtEmergency = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "40");
+
+                                    if (dtEmergency.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Emergency</a>
+                                    <ul>
+                                        <%     
+                               
+                                        DataTable dtCreateEvacuationPlan = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "136");
+
+                                        if (dtCreateEvacuationPlan.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <li><a href="../SMSUsers/RecentCheckedIn.aspx">Create Evacuation Plan</a></li>
+                                        <%     
+                               
+                                        }
+                                        %>
+                                        <%     
+                               
+                                        DataTable dtEmergencyContact = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "137");
+
+                                        if (dtEmergencyContact.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <li><a href="../SuperVisor/ListEmergencyNo.aspx">Emergency Contact</a></li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtDashboard = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "38");
+
+                                    if (dtDashboard.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Dashboard</a>
+                                    <ul>
+                                        <li><a href="../Controller/DashBoardNew.aspx">Dashboard</a> </li>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtSOP = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "41");
+
+                                    if (dtSOP.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">SOP</a>
+                                    <ul>
+                                        <%     
+                               
+                                        DataTable dtViewSOP = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "105");
+                                        DataTable dtAddSOP = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "104");
+
+                                        if (dtViewSOP.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <li><a href="../SMSAdmin/SOPAdmin.aspx">View SOPs</a></li>
+                                        <%     
+                               
+                                        }
+                                        %>
+                                        <%     
+                               
+                                           
+                                        else if (dtAddSOP.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <%--<li><a href="../SMSAdmin/NewSOPAdd.aspx">Add SOP</a></li>--%>
+                                        <li><a href="../SMSAdmin/SOPAdmin.aspx">View SOPs</a></li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtShiftManagement = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "43");
+
+                                    if (dtShiftManagement.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Shift Management</a>
+                                    <ul>
+                                        <%     
+                               
+                                        DataTable dtViewShift = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "108");
+                                        DataTable dtAddShift = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "109");
+
+                                        if (dtViewShift.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <li><a href="../ADMIN/ViewShifts.aspx">View Shift</a></li>
+                                        <%     
+                               
+                                        }
+                                        %>
+                                        <%     
+                               
+                                           
+                                        else if (dtAddShift.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <%-- <li><a href="../ADMIN/AddShift.aspx">Add Shift</a></li>--%>
+                                        <li><a href="../ADMIN/ViewShifts.aspx">View Shift</a></li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                        <%     
+                               
+                                        DataTable dtAssignLocationShift = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "110");
+
+                                        if (dtAssignLocationShift.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <li><a href="../SMSAdmin/AssignLocationShift.aspx">Assign Location Shift</a></li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                        <%     
+                               
+                                            DataTable dtAssignSitesToUsers = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "111");
+
+                                            if (dtAssignSitesToUsers.Rows.Count > 0)
+                                            {
+                                      
+                                        %>
+                                        <li><a href="../Operations/AssignSitesToUsers.aspx">Assign Sites To Users</a></li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtPermission = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "45");
+
+                                    if (dtShiftManagement.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Permission</a>
+                                    <ul>
+                                        <li><a href="../SMSadmin/ManageRolePermissions.aspx?id=45">Permission</a> </li>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtAssignLocation = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "47");
+
+                                    if (dtAssignLocation.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Assign Location</a>
+                                    <ul>
+                                        <li><a href="../Operations/AssignSitesToUsers.aspx">Assign Location</a> </li>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtMasterPersonalDigitalDiary = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "49");
+
+                                    if (dtMasterPersonalDigitalDiary.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Master Personal Digital<br />
+                                    Diary</a>
+                                    <ul>
+                                        <%     
+                               
+                                        DataTable dtClientVisit = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "120");
+
+                                        if (dtClientVisit.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <li><a href="../SuperVisor/AdminClientVisitMinutes.aspx">Client Visit</a></li>
+                                        <%     
+                               
+                                        }
+                                        %>
+                                        <%     
+                               
+                                        DataTable dtSiteVisit = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "121");
+
+                                        if (dtSiteVisit.Rows.Count > 0)
+                                        {
+                                      
+                                        %>
+                                        <li><a href="../SuperVisor/AdminAssignment_Vist.aspx">Site Visit</a></li>
+                                        <%     
+                               
+                                            }
+                                        %>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtLogSetting = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "50");
+
+                                    if (dtLogSetting.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Log Setting</a>
+                                    <ul>
+                                        <li><a href="../ADMIN/LogSetting.aspx">Log Setting</a> </li>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtAccountSetting = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "51");
+
+                                    if (dtAccountSetting.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Account Setting</a>
+                                    <ul>
+                                        <li><a href="../ADMIN/ChangePassword.aspx">Account Setting</a> </li>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                                <%     
+                               
+                                    DataTable dtUploadLogo = AdminDAL.Checkmenu(Session["RoleID"].ToString(), "53");
+
+                                    if (dtUploadLogo.Rows.Count > 0)
+                                    {
+                                      
+                                %>
+                                <li><a href="#" class="nav-top-item">Upload Logo</a>
+                                    <ul>
+                                        <li><a href="../UploadLogo.aspx">Upload Logo</a> </li>
+                                    </ul>
+                                </li>
+                                <%     
+                               
+                                    }
+                                %>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div id="rightDiv" style="float: left; width: 75%; height: auto; margin-left: 10px;">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+        <div id="footer">
+            <span style="float: right; margin-left: 225px; margin-top: 0px; color: black; font-size: 11px;
+                font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif;">@ Copyright
+                2014 <a href="http://www.dsds.co.in" target="_blank">D-Sys Data Solutions</a>. All
+                rights reserved.</span>
+        </div>
+        <div class="clear">
+        </div>
+        <asp:UpdatePanel ID="UpdatePanel3" runat="server">
+            <ContentTemplate>
+                <%-- <asp:Timer ID="Timer1"  OnTick="Timer1_Tick" runat="server" Interval="9000">
+
+    </asp:Timer>--%>
+            </ContentTemplate>
+        </asp:UpdatePanel>
+        <asp:HiddenField ID="HiddenFieldID" runat="server" />
+        <asp:HiddenField ID="HiddenFieldQualityAlert" runat="server" />
+        <asp:ModalPopupExtender ID="ModalPopupQualityAlert" runat="server" BehaviorID="mpe"
+            TargetControlID="HiddenFieldQualityAlert" CancelControlID="ButtViewQualityAlert"
+            BackgroundCssClass="modalBackground" PopupControlID="PanelQualityAlert">
+        </asp:ModalPopupExtender>
+        <asp:Panel ID="PanelQualityAlert" runat="server" BackColor="White" Height="300px"
+            Width="500px" BorderWidth="1px" Style="display: none">
+            <asp:UpdateProgress ID="UpdateProgressQualityAlert" DisplayAfter="10" runat="server"
+                AssociatedUpdatePanelID="UpdatePanelQualityAlert">
+                <ProgressTemplate>
+                    <div class="divWaiting">
+                        <asp:Image ID="imgWaitQualityAlert" runat="server" ImageAlign="Middle" ImageUrl="~/img/progress.gif" /><br />
+                        <asp:Label ID="lblWaitQualityAlert" runat="server" Text=" Please wait... " Font-Bold="true"
+                            Font-Size="Large" />
+                    </div>
+                </ProgressTemplate>
+            </asp:UpdateProgress>
+            <asp:UpdatePanel ID="UpdatePanelQualityAlert" runat="server">
+                <ContentTemplate>
+                    <table width="100%">
+                        <tr>
+                            <td style="font-size: x-large">
+                                <center>
+                                    Alert Messages
+                                </center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <asp:Panel ID="Panel1" runat="server" BackColor="White" Height="200px" Width="100%"
+                                    BorderWidth="0px" ScrollBars="Vertical">
+                                    <div id="QualityMsg" runat="server">
+                                    </div>
+                                </asp:Panel>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <center>
+                                    <%-- <asp:Button ID="ButtViewQualityAlert"  CausesValidation="false" Text="Ok" runat="server" CssClass="Button"
+                                    Style="margin-left: 10px" Height="30px" Width="100px"  OnClick="QualityMessageOk_Click"  />--%>
+                                    <asp:Button ID="ButtViewQualityAlert" CausesValidation="false" Text="Ok" runat="server"
+                                        CssClass="Button" Style="margin-left: 10px" Height="30px" Width="100px" OnClientClick="CallServiceClose()" />
+                                </center>
+                            </td>
+                        </tr>
+                    </table>
+                </ContentTemplate>
+            </asp:UpdatePanel>
+        </asp:Panel>
+        <%--   <script src="../DropDown_Language/js/jquery-1.9.1.js" type="text/javascript"></script>
+            <script src="../DropDown_Language/js/foundation/foundation.js" type="text/javascript"></script>
+            <script src="../DropDown_Language/js/foundation/foundation.dropdown.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                $(document).foundation();
+              
+            </script>--%>
+    </div>
+    <%-- </asp:ContentPlaceHolder>--%>
+    </form>
+</body>
+</html>

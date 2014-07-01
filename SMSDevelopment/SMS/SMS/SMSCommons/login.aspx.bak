@@ -1,0 +1,54 @@
+﻿<%@ Page Language="C#" MasterPageFile="../SMSmaster.Master" AutoEventWireup="true" CodeBehind="login.aspx.cs" Inherits="SMS.SMSCommons.login" Title="TPS Secure Systems" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div class="divContainer">
+        <div class="divHeader"><span class="pageTitle">Log In</span></div> 
+    <table width="100%" border="0">    
+    <tr valign="top" align="center">
+        <td>
+            <table  border="0">
+                <tr>
+                    <td  colspan="4">
+                        <div id="divMsg" runat="server" visible="false">
+                            <asp:Label ID="lblMsg" CssClass="ValSummary" runat="server"></asp:Label>
+                        </div>
+                    </td>   
+                </tr>
+            </table>
+            
+            <table>
+                <tr>
+                    <td>
+                        <asp:Label ID="lblUserName" Text="User Name" CssClass="Labels" runat="server" />&nbsp;<span class="req">*</span>
+                    </td>
+                    <td>
+                        <asp:TextBox ID="txtUserName" CssClass="Input" runat="server" />
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td>
+                        <asp:Label ID="lblPassword" Text="Password" CssClass="Labels" runat="server" />&nbsp;<span class="req">*</span>
+                    </td>
+                    <td>    
+                        <asp:TextBox ID="txtPassword" CssClass="Input" TextMode="Password" runat="server" />
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td colspan="2" align="center">
+                        <asp:Button ID="btnLogin" Text="Login" CssClass="Buttons" runat="server" 
+                            onclick="btnLogin_Click" />
+                    </td>
+                    <td>
+                        <asp:LinkButton ID="lnkBtnForgetPswd" Text="Forgot Password" CssClass="LnkButton" runat="server" ></asp:LinkButton>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    </table>
+    </div>  
+    <br />       
+</asp:Content>

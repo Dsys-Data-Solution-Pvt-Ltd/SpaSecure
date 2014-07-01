@@ -1,0 +1,411 @@
+﻿using System;
+using System.Data;
+using System.Configuration;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml.Linq;
+
+using System.Collections.Generic;
+using SMS.BusinessEntities.Main;
+using SMS.BusinessEntities.Authorization;
+using SMS.BusinessEntities;
+using SMS.Services.DALUtilities;
+using SMS.Services.DataService;
+
+namespace SMS.Services.BusinessServices
+{
+    public class AdminBLL
+    {
+        public DataSet GetMenuItems(GetAuthRequest argObj)
+        {
+            DataSet ds = null;
+            AdminDAL objAdminDAL = null;
+            try
+            {
+                objAdminDAL = new AdminDAL();
+                ds = objAdminDAL.GetMenuItems(argObj);
+                //Creating relation between menu parent and child.
+                ds.DataSetName = "Menus";
+                ds.Tables[0].TableName = "Menu";
+                DataRelation relation = new DataRelation("ParentChild", ds.Tables["Menu"].Columns["MenuID"], ds.Tables["Menu"].Columns["ParentID"], true);
+                relation.Nested = true;
+                ds.Relations.Add(relation);
+            }
+            //catch (CMSException)
+            //{
+            //    throw;
+            //}
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            return ds;
+
+        }
+        #region checkin
+        public void AddCheckinGaurd(checkin objcheckin)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddCheckinGaurd(objcheckin);
+            
+            }
+            catch(Exception es)
+            {
+                throw es;
+            }
+        }
+        public void AddCheckinVisitor(checkin objcheckin)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddCheckinVisitor(objcheckin);
+            }
+            catch(Exception es)
+            {
+                throw es;
+            }
+        }
+        public void AddCheckinsalesman(checkin objcheckin)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddCheckinsalesman(objcheckin);
+
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+        public void AddCheckinContractor(checkin objcheckin)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddCheckinContractor(objcheckin);
+
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+        #endregion 
+        #region checkout insert
+        public void AddCheckOutGaurd(checkout objcheckout)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddCheckOutGaurd(objcheckout);
+
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+
+        }
+        public void AddCheckOutVisiter(checkout objcheckout)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddCheckOutVisitor(objcheckout);
+
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+
+        }
+        public void AddCheckOutSaleman(checkout objcheckout)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddCheckOutSaleman(objcheckout);
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+        public void AddCheckOutContractor(checkout objcheckout)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddCheckOutContractor(objcheckout);
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+        #endregion
+        public void AddUserIncident(UserIncident objUserIncident)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddUserIncident(objUserIncident);
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+
+        public void AddEvent(eventAdmin objeventman)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddEvent(objeventman);
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        } 
+
+        public void AddElearn(Elearn objelearn)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddElearn(objelearn);
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+
+        public void AddUserPass(Pass objUserPass)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddUserPass(objUserPass);
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+
+        public void AddUserVehicle(Vehicle objUserVehicle)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddUserVehicle(objUserVehicle);
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+
+        public void AddUserShift(Shift objUserShift)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddUserShift(objUserShift);
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+
+        public void AddUserSOP(SOP objUserSOP)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddUserSOP(objUserSOP);
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+
+        public void Add_NewKey(AdminAddNewKey objAddNewKey)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.Add_NewKey(objAddNewKey);
+            }
+            catch (Exception cmsEx) { throw cmsEx; }
+
+        }
+
+        public void AddLocation(LocationData objlocation)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddLocation(objlocation);
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+
+        public void AddAppointment(AppointmentSheduling objAppointment)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddAppointment(objAppointment);
+            }
+            catch (Exception es)
+            {
+                throw es;
+            }
+        }
+
+        public void AddUserInfo(AddNewUserRequest objAddUserInfoRequest)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.AddUserInfo(objAddUserInfoRequest);
+            }
+            catch (Exception cmsEx) { throw cmsEx; }
+
+        }
+
+        public bool AuthenticateUser(GetAuthRequest argObj)
+        {
+            bool bAuth = false;
+
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+
+                List<GetAuthResponse> arr = objAdminDAL.AuthenticateUser(argObj);
+                if (arr.Count > 0)
+                {
+                    bAuth = true;
+                }
+
+               
+            }
+            catch (Exception ex)
+            {
+               // Response.Write(ex.Message);
+            }
+            return bAuth;
+        }
+      
+        public GetItemDataResponse GetItemData(GetItemData objGetItemDataRequest)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                GetItemDataResponse ret = new GetItemDataResponse();
+                List<ItemData> lst = objAdminDAL.GetItemData(objGetItemDataRequest);
+                ret.Item = lst;
+                return ret;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        public GetPassDataResponse GetPassData(GetPassData objGetPassDataRequest)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                GetPassDataResponse ret = new GetPassDataResponse();
+                List<Pass> lst = objAdminDAL.GetPassData(objGetPassDataRequest);
+                ret.Pass = lst;
+                return ret;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        public GetSOPDataResponse GetSOPData(GetSOPData objGetSOPDataRequest)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                GetSOPDataResponse ret = new GetSOPDataResponse();
+                List<SOP> lst = objAdminDAL.GetSOPData(objGetSOPDataRequest);
+                ret.SOPNo = lst;
+                return ret;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        public GetNewKeyRequest GetNewKey(GetNewKey objGetNewKeyRequest)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                GetNewKeyRequest ret = new GetNewKeyRequest();
+                List<AdminAddNewKey> lst = objAdminDAL.GetNewKey(objGetNewKeyRequest);
+                ret.Item = lst;
+                return ret;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        public GetLocationDataResponse GetLocationData(GetLocationData objGetLocationDataRequest)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                GetLocationDataResponse ret = new GetLocationDataResponse();
+                List<LocationData> lst = objAdminDAL.GetLocationData(objGetLocationDataRequest);
+                ret.Location = lst;
+                //ret.Item = 1st;
+                return ret;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+
+        public void UpdateItemData(ItemData objItemData)
+        {
+            try
+            {
+                AdminDAL objAdminDAL = new AdminDAL();
+                objAdminDAL.UpdateItemData(objItemData);
+            }
+
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+    }
+}

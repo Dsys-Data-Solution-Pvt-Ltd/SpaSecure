@@ -1,0 +1,61 @@
+﻿<%@ Page Language="C#" MasterPageFile="../SMSmaster.Master" AutoEventWireup="true"
+    CodeBehind="NewKeyAdd.aspx.cs" Inherits="SMS.SMSAdmin.NewKeyAdd" Title="Add a New Key" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div class="divContainer">
+        <div class="divHeader">
+            <span class="pageTitle">Add New Key</span></div>
+        <table id="tblMain" width="100%">
+            <tr>
+                <td>
+                    <div id="divAdvSearch" runat="server" visible="true">
+                        <table>
+                            <tr>
+                                <td>
+                                    <asp:Panel ID="pnlNewAddKey" runat="server">
+                                        <table>
+                                            <tr>
+                                                <td>
+                                                    <asp:Label ID="lblEnterKeyNo" Text="Key No" CssClass="Labels" runat="server"></asp:Label>
+                                                </td>
+                                                <td>
+                                                    <asp:TextBox ID="txtAddKeyNo" runat="server" CssClass="Input" />
+                                                </td>
+                                                <td>
+                                                    &nbsp;
+                                                </td>
+                                                <td>
+                                                    <asp:Label ID="lblEnterKeyDesc" Text="Description" CssClass="Labels" runat="server"></asp:Label>
+                                                </td>
+                                                <td>
+                                                    <asp:TextBox ID="txtAddKeyDesc" runat="server" CssClass="Input" />
+                                                </td>
+                                                <td>
+                                                    &nbsp;
+                                                </td>
+                                                <td>
+                                                    <asp:Label ID="lblEnterNoOfKeys" Text="No of Keys" CssClass="Labels" runat="server"></asp:Label>
+                                                </td>
+                                                <td>
+                                                    <asp:TextBox ID="txtNoOfKeys" runat="server" CssClass="Input" />
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="left">
+                                                    <asp:Button ID="btnSearchKeyAdd" Text="Enter" runat="server" CssClass="Buttons" />
+                                                    <asp:Button ID="btnClearKeyAdd" Text="Cancel" runat="server" CssClass="Buttons" />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </asp:Panel>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+</asp:Content>

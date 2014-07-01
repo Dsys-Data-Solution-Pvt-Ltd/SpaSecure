@@ -1,0 +1,107 @@
+﻿body {
+}
+body {
+}
+
+  /* .AjaxCalendar theme
+        .ajax__calendar_container: you can change the style of outer container of calendar control.
+         Outer container holds the .ajax__calendar_header, .ajax__calendar_body,
+         .ajax__calendar_footer as child container css classes.
+        */
+        .AjaxCalendar  .ajax__calendar_container
+        {
+            background:white;
+         border:2.5px ridge #c5061b;
+         /*background-color:#C3DCF9;*/
+         color:black;
+         width:180px
+        }
+
+        /* .ajax__calendar_header
+        This css class holds the previous arrow, next arrow and current Month, Year.
+         Child Css Classes are .ajax__calendar_prev, .ajax__calendar_next, .ajax__calendar_title.*/
+        .AjaxCalendar .ajax__calendar_header
+        {
+            font-size:12px;
+            font-weight:bold;
+            /*color:#003094;*/
+            color:#c5061b;
+            font-family:Verdana;
+        }
+        .AjaxCalendar .ajax__calendar_footer
+        {
+            font-size:12px;
+            font-weight:bold;
+            /*color:#003094;*/
+            color:#c5061b;
+            font-family:Verdana;
+        }
+        /* .ajax__calendar_prev
+        This class is associated with an element that displays the left side arrow to view the previous
+         month, year or decade based on the current view of calendar.*/
+        .AjaxCalendar .ajax__calendar_prev
+        {
+            margin-left:8px;
+            margin-top:3px;
+            font-size:larger;
+            font-weight:bold;
+            color:White;
+        }
+
+        /* .ajax__calendar_next
+        This class is associated with an element that displays the right side arrow to view
+         the next month, year or decade based on the current view of calendar. */
+        .AjaxCalendar .ajax__calendar_next
+        {
+            margin-right:8px;
+            margin-top:3px;
+            font-size:larger;
+            font-weight:bold;
+            /*color:#D30703;*/
+            color:#c5061b;
+        }
+
+        /* .ajax__calendar_dayname
+        It changes the look of day name at the top of day view of month. */
+        .AjaxCalendar .ajax__calendar_dayname
+        {
+            font-size:larger;
+            font-weight:bold;
+           /* color:#003094;*/
+           color:#c5061b;
+            /*background-color:#C3DCF9;*/
+            font-family:Verdana;
+        }
+    
+        /* Inactive days of the month that show up */
+        .AjaxCalendar .ajax__calendar_other .ajax__calendar_day,
+        .AjaxCalendar .ajax__calendar_other .ajax__calendar_year
+        {
+         color: Gray;
+        }
+
+        /* Mouse hoover over style*/
+        .AjaxCalendar .ajax__calendar_hover .ajax__calendar_day,
+        .AjaxCalendar .ajax__calendar_hover .ajax__calendar_month,
+        .AjaxCalendar .ajax__calendar_hover .ajax__calendar_year
+        {
+         color: #D30703;
+         font-family:Verdana;
+         font-size:11px;
+         font-weight:bolder;
+         border-bottom-color:Red;
+        }
+
+        .AjaxCalendar .ajax__calendar_day,
+        .AjaxCalendar .ajax__calendar_month,
+        .AjaxCalendar .ajax__calendar_year
+        {
+         color:#000;
+         font-family:Verdana;
+         font-size:11px;
+         font-weight:bolder;
+        }
+         .calender
+         {
+             width:20px;
+         }

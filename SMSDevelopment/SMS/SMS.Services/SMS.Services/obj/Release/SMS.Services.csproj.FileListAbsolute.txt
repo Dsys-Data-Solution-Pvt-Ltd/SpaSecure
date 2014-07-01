@@ -1,0 +1,175 @@
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\webapp\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\webapp\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\webapp\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\webapp\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\webapp\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\webapp\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\webapp\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\D-sys\16OctSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\D-sys\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\D-sys\23NewSMS\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\D-sys\SMSDevelopment (2)\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\D-sys\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+C:\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+C:\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+C:\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+C:\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+C:\New Folder\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+C:\Shine Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+C:\One Security\SPASecure\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+C:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\AfterMeargeApplicationSMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\11MaySMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\11MaySMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\11MaySMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\11MaySMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\11MaySMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\11MaySMS\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\28juneSunlightCode\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\SunlightCode\8julySunlightCode-SPCheckIn-Out\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\office.xml
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\ResolveAssemblyReference.cache
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\SPASecureLatest\SMSDevelopment\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.Services.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\log4net.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\bin\SMS.BusinessEntities.pdb
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.csprojResolveAssemblyReference.cache
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.dll
+D:\DsysProjects\SingaporeProject\SpaSecure26June14\SMSDevelopment\SMS\SMS.Services\SMS.Services\obj\Release\SMS.Services.pdb

@@ -1,0 +1,198 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.HtmlControls;
+using System.Xml.Linq;
+
+using SMS.BusinessEntities.Authorization;
+using SMS.BusinessEntities.Main;
+using SMS.Services.BusinessServices;
+using SMS.Services.DALUtilities;
+using SMS.Services.DataService;
+using SMS.Web.SMSAppUtilities;
+using SMS.BusinessEntities;
+
+namespace SMS.SMSAdmin
+{
+    public partial class AdminItem : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                if (!IsPostBack)
+                {
+                    BindGrid();
+                }
+            }
+
+            catch (System.Threading.ThreadAbortException)
+            {
+            }
+            catch (Exception ex)
+            {
+                //CMSException cmsEx = CMSUtility.BuildException(ex, 100000, ex.Message);
+                //LogHandler.LogMessages(cmsEx);
+                //CMSAppUtilities.CMSAppUtilities.ShowErrorMsg(cmsEx, divMsg, lblMsg);
+            }
+
+
+        }
+        protected void btnNewItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Response.Redirect("NewItemAdd.aspx");
+            }
+            catch (System.Threading.ThreadAbortException)
+            {
+            }
+        }
+
+        protected void gvItem_RowDataBound(object sender, GridViewRowEventArgs e)
+        {
+            try
+            {
+                if (e.Row.RowType == DataControlRowType.DataRow)
+                {
+                    ////JS for delete btn
+                    //ImageButton Delete = (ImageButton)e.Row.FindControl("btnDelete");
+                    //Delete.Attributes.Add("onclick", "javascript:return " +
+                    //    "confirm('Are you sure to delete this record?')");
+                }
+
+                if (e.Row.RowType == DataControlRowType.Footer)
+                {
+                    gvItemTable.Columns[0].FooterText = "Total Records: 20";
+                }
+            }
+            catch (System.Threading.ThreadAbortException)
+            {
+            }
+            catch (Exception ex)
+            {
+                
+            }
+       }
+        protected void gvItem_RowCommand(object sender, GridViewCommandEventArgs e)
+        {
+            try
+            {
+                string _BTId = Convert.ToString(e.CommandArgument);
+
+                if (e.CommandName == "EditRow")
+                {
+                    HttpContext.Current.Items.Add(ContextKeys.CTX_UPDATE_URL, Request.Url.ToString());
+                  //  HttpContext.Current.Items.Add(CMSAppConstants.ContextKeys.CTX_BT_ID, _BTId);
+                    Server.Transfer("ItemUpdate.aspx");
+                }
+            }
+
+            catch (System.Threading.ThreadAbortException)
+            {
+            }
+            catch (Exception ex)
+            {
+               
+            }
+        }
+        protected void gvItem_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            try
+            {
+                if (e.NewPageIndex >= 0)
+                {
+                    gvItemTable.PageIndex = e.NewPageIndex;
+                    BindGridWithFilter();
+                }
+            }
+            catch (System.Threading.ThreadAbortException)
+            {
+            }
+            catch (Exception ex)
+            {
+             
+            }
+        }
+        protected void btnSearch_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                BindGridWithFilter();
+            }
+            catch (System.Threading.ThreadAbortException)
+            {
+            }
+            catch (Exception ex)
+            {
+                //LogHandler.LogMessages(cmsEx);
+            }
+        }
+        private void BindGridWithFilter()
+        {
+            try
+            {
+                AdminBLL ws = new AdminBLL();
+         
+                GetItemData objReq = new GetItemData();
+
+                if (!string.IsNullOrEmpty(txtItemNo.Text))
+                {
+                    objReq.Item_No = txtItemNo.Text;
+                }
+
+                if (!string.IsNullOrEmpty(txtItemName.Text))
+                {
+                    objReq.Description = txtItemName.Text;
+                }
+              
+                GetItemDataResponse ret = ws.GetItemData(objReq);
+
+                int pageSize = ContextKeys.GRID_PAGE_SIZE;
+                gvItemTable.PageSize = pageSize;
+                gvItemTable.DataSource = ret.Item;
+                gvItemTable.DataBind();
+            }
+            catch (Exception ex)
+            {
+                // LogHandler
+            }
+        }
+        private void BindGrid()
+        {
+            try
+            {
+                AdminBLL ws = new AdminBLL();
+                GetItemData _req = new GetItemData();
+                GetItemDataResponse _resp = ws.GetItemData(_req);
+
+                int pageSize = ContextKeys.GRID_PAGE_SIZE;
+                gvItemTable.PageSize = pageSize;
+                gvItemTable.DataSource = _resp.Item;
+                gvItemTable.DataBind();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+        }
+
+        protected void btnClearItemAdd_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void gvItemTable_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+    }
+}

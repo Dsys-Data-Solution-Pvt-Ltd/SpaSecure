@@ -1,0 +1,67 @@
+
+/* ### menu box ### */
+			.mynav { width:100%; height: 55px; float: left;}
+			.mynav ul { float: left; list-style: none; }
+			.mynav li { padding: 10px 2px 0 2px; float: left; position: relative; background: url('../img/devider.jpg') left top no-repeat; }
+			.mynav li a { padding: 0 13px; float: left; font-size: 14px; line-height: 30px; color: #fff; font-weight: bold; text-decoration: none; text-transform: uppercase; border: 1px solid #011343; }
+			.mynav li:hover a { color: #ffb400; border: 1px solid #b1b1b1; border-radius: 5px; background: #e4e4e4;}
+			
+			.mynav li ul { display: none;}
+			.mynav li:hover ul { width: 200px; display: block; position: absolute; left: 2px; top: 35px; z-index: 999; border: 1px solid #b1b1b1; border-top: none; border-radius: 5px; background: #e4e4e4; text-decoration:none; font-weight:normal; padding-bottom:10px; }
+			.mynav li:hover ul li { padding: 5px 0; margin: 0 10px; width: 180px; display: block; border-bottom: 1px solid #c5c5c5; background: none; }
+			.mynav li:hover ul li a { font-size: 12px; color: #4E4E4E; display: block; line-height: 25px; border: none; text-decoration:none; font-weight:normal; text-transform: uppercase; }
+			.mynav li:hover ul li a:hover { text-decoration: none; background:#FFB400; width:155px; display:block; color:#FFFFFF; }
+			.mynav li.selected a { color: #ffb400;}
+			
+			.mynav li a span.arrow { background: url('../img/arrow.png') center top no-repeat; padding-top:18px; }
+/*...Second-Level...*/
+         .mynav ul li:hover ul ul{display:none;border: 0px solid #b1b1b1;}
+          .mynav ul li ul li:hover>ul{display:block}
+           /*...Third-Level...*/
+           .mynav ul li ul li ul{display:none; background:#fff; position:absolute; top:-1%; left:180px;}
+ .disabled {cursor: default !important;pointer-events: none;}
+/*
+.mynav{font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-size:14px; border-radius:1px; width: 973px;height: 55px; float: left;font-weight: bold}
+            .mynav ul{ margin:0px; padding: 0px 3px;;float: right; list-style: none;z-index: 999} 
+            .mynav ul li{list-style-type:none; display:inline-block;  margin:0 0 0 -3px; background: url('../img/devider.jpg') left top no-repeat;position: relative;border-radius:1px!important;}
+            .mynav ul li a{ display:block; color:white;text-decoration:none; text-transform:none; padding:18px 20px;  background:#011343; border: 1px solid #011343;border-radius: 10px 1px!important;}
+            .mynav ul li:hover>a{ background:#e4e4e4;color: #ffb400; border-radius: 1px;}
+            .mynav ul li:first-child a{border-radius:1px 0 0 1px;}
+            .mynav ul li:last-child a{border-radius:0 1px 1px 0;}
+           /*...First-Level...*/
+         /*  .mynav ul li ul li:first-child a{border-top:solid 1px #fff;}
+            .mynav ul li ul li:last-child a{}
+           .mynav ul li ul{position:absolute; display:none; width:140px; margin:0;}
+            .mynav ul li:hover ul{display:block;}
+           .mynav ul li ul li{display:block; position:relative; border:none;font-weight:normal;width:180px;z-index: 999;border-bottom-style: inset;}
+           .mynav ul li ul li a{color:#b1b1b1; border-bottom:0px solid #b1b1b1; border-right:0px solid #b1b1b1; border-left:0px solid #b1b1b1;border-top: 0px solid #b1b1b1; border-radius:0px!important; background:#e5e4e4;  margin:0px;z-index: 999;margin-top: -15px;}
+           .mynav li.selected a { color: #ffb400;}
+           .mynav li:hover ul li a:hover { text-decoration: underline; }
+           /*...Second-Level...*/
+       /*   .mynav ul li:hover ul ul{display:none;border: 0px solid #b1b1b1;}
+          .mynav ul li ul li:hover>ul{display:block}
+           /*...Third-Level...
+           .mynav ul li ul li ul{display:none; background:#fff; position:absolute; top:-1%; left:180px;}*/
+          
+           
+           
+         .lang { width:100%; height: 55px; float: left;}
+			.lang ul { float: left; list-style: none; }
+			.lang li { padding: 10px 2px 0 2px; float: left; position: relative; }
+			.lang li a { padding: 0 13px; float: left;  line-height: 30px;  font-weight: bold; text-decoration: none; text-transform: uppercase;}
+			/*.lang li:hover a {  border-radius: 5px; background: #e4e4e4;}*/
+			
+			.lang li ul { display: none;}
+			.lang li:hover ul { width: 200px; display: block; position: absolute; left: 2px; top: 35px; z-index: 999; border-top: none; border-radius: 5px; background: #e4e4e4; text-decoration:none; font-weight:normal; padding-bottom:10px; }
+			.lang li:hover ul li { padding: 5px 0 5px 0px;  width: 180px; display: block; border-bottom: 1px solid #c5c5c5; background: none; }
+			.lang li:hover ul li a { font-size: 12px; color: #4E4E4E; display: block; line-height: 25px; border: none; text-decoration:none; font-weight:normal; text-transform: uppercase; }
+			.lang li:hover ul li a:hover { text-decoration: none; background:#FFB400; width:155px; display:block; color:#FFFFFF; }
+			.lang li.selected a { color: #ffb400;}
+			
+			.lang li a span.arrow { background: url('../img/arrow.png') center top no-repeat; padding-top:18px; }
+/*...Second-Level...*/
+         .lang ul li:hover ul ul{display:none;border: 0px solid #b1b1b1;}
+          .lang ul li ul li:hover>ul{display:block}
+           /*...Third-Level...*/
+
+           .lang ul li ul li ul{display:none; background:#fff; position:absolute; top:-1%; left:180px;}  
