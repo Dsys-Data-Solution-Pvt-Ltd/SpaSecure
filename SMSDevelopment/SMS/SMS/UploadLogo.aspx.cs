@@ -126,6 +126,13 @@ namespace SMS
         }
 
         #endregion
+        #region Ruchi Dummy Method
+        private void ShowInfo()
+        {
+            try { }
+            catch (Exception ex) { Response.Write(ex.Message); }
+        }
+        #endregion
     }
 
 }
